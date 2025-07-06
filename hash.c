@@ -17,6 +17,12 @@ typedef struct {
      char * (*get_key)(void *);
 }thash;
 
+typedef struct{
+    char cep[10]; 
+    char cidade[100];
+    char estado[3]; 
+    char chave[6]; 
+}tcep;
 //umas variaveis 
 thash hash_simples, hash_duplo;
 tcep * dados[10000];
@@ -143,12 +149,6 @@ void hash_apaga(thash *h){
 }
 
 //regs
-typedef struct{
-    char cep[10]; 
-    char cidade[100];
-    char estado[3]; 
-    char chave[6]; 
-}tcep;
 
 char * get_key(void * reg){
     return (*((tcep *)reg)).chave;
@@ -412,7 +412,7 @@ int main(int argc, char* argv[]){
         return EXIT_FAILURE;
     }
 
-    printf("total de registros: %d \n\n", num);
+    printf("registros: %d\n", num);
 
     thash h_temp;
     if (hash_constroi(&h_temp, 6100, get_key, 1, 0.75) != EXIT_SUCCESS) {
@@ -433,10 +433,10 @@ int main(int argc, char* argv[]){
     
     tcep *resultado = (tcep *)hash_busca(&h_temp, cep_chave);
     if (resultado) {
-        printf("registro encontrado: \n");
+        printf("informações encontradas: \n");
         printf("CEP: %s000 | Cidade: %s | Estado: %s\n", busca, resultado->cidade, resultado->estado);
     } else {
-        printf("CEP %s não encontrado.\n", busca);
+        printf("CEP %s não encontrado :(\n", busca);
     }
     
     hash_apaga(&h_temp);
