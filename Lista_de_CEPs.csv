@@ -1,0 +1,6016 @@
+﻿Estado;Localidade;CEP Inicial
+AC;Acrelândia;69945000
+AC;Assis Brasil;69935000
+AC;Brasiléia;69932000
+AC;Bujari;69926000
+AC;Capixaba;69931000
+AC;Cruzeiro do Sul;69980000
+AC;Epitaciolândia;69934000
+AC;Feijó;69960000
+AC;Jordão;69975000
+AC;Mâncio Lima;69990000
+AC;Manoel Urbano;69950000
+AC;Marechal Thaumaturgo;69983000
+AC;Plácido de Castro;69928000
+AC;Porto Acre;69927000
+AC;Porto Walter;69982000
+AC;Rio Branco;69900001
+AC;Rio Branco;69900001
+AC;Rodrigues Alves;69985000
+AC;Santa Rosa do Purus;69955000
+AC;Sena Madureira;69940000
+AC;Senador Guiomard;69925000
+AC;Tarauacá;69970000
+AC;Xapuri;69930000
+AL;Água Branca;57490000
+AL;Anadia;57660000
+AL;Arapiraca;57300001
+AL;Arapiraca;57300001
+AL;Atalaia;57690000
+AL;Barra de Santo Antônio;57925000
+AL;Barra de São Miguel;57180000
+AL;Batalha;57420000
+AL;Belém;57630000
+AL;Belo Monte;57435000
+AL;Boca da Mata;57680000
+AL;Branquinha;57830000
+AL;Cacimbinhas;57570000
+AL;Cajueiro;57770000
+AL;Campestre;57968000
+AL;Campo Alegre;57250000
+AL;Campo Grande;57350000
+AL;Canapi;57530000
+AL;Capela;57780000
+AL;Carneiros;57535000
+AL;Chã Preta;57760000
+AL;Coité do Nóia;57325000
+AL;Colônia Leopoldina;57975000
+AL;Coqueiro Seco;57140000
+AL;Coruripe;57230000
+AL;Craíbas;57320000
+AL;Delmiro Gouveia;57480000
+AL;Dois Riachos;57560000
+AL;Estrela de Alagoas;57625000
+AL;Feira Grande;57340000
+AL;Feliz Deserto;57220000
+AL;Flexeiras;57995000
+AL;Girau do Ponciano;57360000
+AL;Ibateguara;57890000
+AL;Igaci;57620000
+AL;Igreja Nova;57280000
+AL;Inhapi;57545000
+AL;Jacaré dos Homens;57430000
+AL;Jacuípe;57960000
+AL;Japaratinga;57950000
+AL;Jaramataia;57425000
+AL;Jequiá da Praia;57255000
+AL;Joaquim Gomes;57980000
+AL;Jundiá;57965000
+AL;Junqueiro;57270000
+AL;Lagoa da Canoa;57330000
+AL;Limoeiro de Anadia;57260000
+AL;Maceió;57000001
+AL;Maceió;57000001
+AL;Major Isidoro;57580000
+AL;Mar Vermelho;57730000
+AL;Maragogi;57955000
+AL;Maravilha;57520000
+AL;Marechal Deodoro;57160000
+AL;Maribondo;57670000
+AL;Mata Grande;57540000
+AL;Matriz de Camaragibe;57910000
+AL;Messias;57990000
+AL;Minador do Negrão;57615000
+AL;Monteirópolis;57440000
+AL;Murici;57820000
+AL;Novo Lino;57970000
+AL;Olho D'Água das Flores;57442000
+AL;Olho D'Água do Casado;57470000
+AL;Olho D'Água Grande;57390000
+AL;Olivença;57550000
+AL;Ouro Branco;57525000
+AL;Palestina;57410000
+AL;Palmeira dos Índios;57600001
+AL;Palmeira dos Índios;57600001
+AL;Pão de Açúcar;57400000
+AL;Pariconha;57475000
+AL;Paripueira;57935000
+AL;Passo de Camaragibe;57930000
+AL;Paulo Jacinto;57740000
+AL;Penedo;57200000
+AL;Piaçabuçu;57210000
+AL;Pilar;57150000
+AL;Pindoba;57720000
+AL;Piranhas;57460000
+AL;Poço das Trincheiras;57510000
+AL;Porto Calvo;57900000
+AL;Porto de Pedras;57945000
+AL;Porto Real do Colégio;57290000
+AL;Quebrangulo;57750000
+AL;Rio Largo;57100000
+AL;Roteiro;57257000
+AL;Santa Luzia do Norte;57130000
+AL;Santana do Ipanema;57500000
+AL;Santana do Mundaú;57840000
+AL;São Brás;57380000
+AL;São José da Laje;57860000
+AL;São José da Tapera;57445000
+AL;São Luís do Quitunde;57920000
+AL;São Miguel dos Campos;57240001
+AL;São Miguel dos Campos;57240001
+AL;São Miguel dos Milagres;57940000
+AL;São Sebastião;57275000
+AL;Satuba;57120000
+AL;Senador Rui Palmeira;57515000
+AL;Tanque D'Arca;57635000
+AL;Taquarana;57640000
+AL;Teotônio Vilela;57265000
+AL;Traipu;57370000
+AL;União dos Palmares;57800000
+AL;Viçosa;57700000
+AM;Alvarães;69540000
+AM;Amaturá;69620000
+AM;Anamã;69445000
+AM;Anori;69440000
+AM;Apuí;69265000
+AM;Atalaia do Norte;69650000
+AM;Autazes;69240000
+AM;Barcelos;69700000
+AM;Barreirinha;69160000
+AM;Benjamin Constant;69630000
+AM;Beruri;69430000
+AM;Boa Vista do Ramos;69195000
+AM;Boca do Acre;69850000
+AM;Borba;69200000
+AM;Caapiranga;69425000
+AM;Canutama;69820000
+AM;Carauari;69500000
+AM;Careiro;69250000
+AM;Careiro da Várzea;69255000
+AM;Coari;69460000
+AM;Codajás;69450000
+AM;Eirunepé;69880000
+AM;Envira;69870000
+AM;Fonte Boa;69670000
+AM;Guajará;69895000
+AM;Humaitá;69800000
+AM;Ipixuna;69890000
+AM;Iranduba;69415000
+AM;Itacoatiara;69100001
+AM;Itacoatiara;69100001
+AM;Itamarati;69510000
+AM;Itapiranga;69120000
+AM;Japurá;69495000
+AM;Juruá;69520000
+AM;Jutaí;69660000
+AM;Lábrea;69830000
+AM;Manacapuru;69400001
+AM;Manacapuru;69400001
+AM;Manaquiri;69435000
+AM;Manaus;69000001
+AM;Manaus;69000001
+AM;Manicoré;69280000
+AM;Maraã;69490000
+AM;Maués;69190000
+AM;Nhamundá;69140000
+AM;Nova Olinda do Norte;69230000
+AM;Novo Airão;69730000
+AM;Novo Aripuanã;69260000
+AM;Parintins;69150001
+AM;Parintins;69150001
+AM;Pauini;69860000
+AM;Presidente Figueiredo;69735000
+AM;Rio Preto da Eva;69117000
+AM;Santa Isabel do Rio Negro;69740000
+AM;Santo Antônio do Içá;69680000
+AM;São Gabriel da Cachoeira;69750000
+AM;São Paulo de Olivença;69600000
+AM;São Sebastião do Uatumã;69135000
+AM;Silves;69114000
+AM;Tabatinga;69640000
+AM;Tapauá;69480000
+AM;Tefé;69550001
+AM;Tefé;69550001
+AM;Tonantins;69685000
+AM;Uarini;69530000
+AM;Urucará;69130000
+AM;Urucurituba;69180000
+AP;Amapá;68950000
+AP;Calçoene;68960000
+AP;Cutias;68973000
+AP;Ferreira Gomes;68915000
+AP;Itaubal;68976000
+AP;Laranjal do Jari;68920000
+AP;Macapá;68900001
+AP;Macapá;68900001
+AP;Mazagão;68940000
+AP;Oiapoque;68980000
+AP;Pedra Branca do Amaparí;68945000
+AP;Porto Grande;68997000
+AP;Pracuúba;68918000
+AP;Santana;68925001
+AP;Santana;68925001
+AP;Serra do Navio;68948000
+AP;Tartarugalzinho;68990000
+AP;Vitória do Jari;68924000
+BA;Abaíra;46690000
+BA;Abaré;48680000
+BA;Acajutiba;48360000
+BA;Adustina;48435000
+BA;Água Fria;48170000
+BA;Aiquara;45220000
+BA;Alagoinhas;48000001
+BA;Alagoinhas;48000001
+BA;Alcobaça;45910000
+BA;Almadina;45640000
+BA;Amargosa;45300000
+BA;Amélia Rodrigues;44230000
+BA;América Dourada;44910000
+BA;Anagé;45180000
+BA;Andaraí;46830000
+BA;Andorinha;48990000
+BA;Angical;47960000
+BA;Anguera;44670000
+BA;Antas;48420000
+BA;Antônio Cardoso;44180000
+BA;Antônio Gonçalves;44780000
+BA;Aporá;48350000
+BA;Apuarema;45355000
+BA;Araçás;48108000
+BA;Aracatu;46130000
+BA;Araci;48760000
+BA;Aramari;48130000
+BA;Arataca;45695000
+BA;Aratuípe;44490000
+BA;Aurelino Leal;45675000
+BA;Baianópolis;47830000
+BA;Baixa Grande;44620000
+BA;Banzaê;48405000
+BA;Barra;47100000
+BA;Barra da Estiva;46650000
+BA;Barra do Choça;45120000
+BA;Barra do Mendes;44990000
+BA;Barra do Rocha;45560000
+BA;Barreiras;47800001
+BA;Barreiras;47800001
+BA;Barro Alto;44895000
+BA;Barro Preto;45625000
+BA;Barrocas;48705000
+BA;Belmonte;45800000
+BA;Belo Campo;45160000
+BA;Biritinga;48780000
+BA;Boa Nova;45250000
+BA;Boa Vista do Tupim;46850000
+BA;Bom Jesus da Lapa;47600000
+BA;Bom Jesus da Serra;45263000
+BA;Boninal;46740000
+BA;Bonito;46820000
+BA;Boquira;46530000
+BA;Botuporã;46570000
+BA;Brejões;45325000
+BA;Brejolândia;47750000
+BA;Brotas de Macaúbas;47560000
+BA;Brumado;46100000
+BA;Buerarema;45615000
+BA;Buritirama;47120000
+BA;Caatiba;45130000
+BA;Cabaceiras do Paraguaçu;44345000
+BA;Cachoeira;44300000
+BA;Caculé;46300000
+BA;Caém;44730000
+BA;Caetanos;45265000
+BA;Caetité;46400000
+BA;Cafarnaum;44880000
+BA;Cairu;45420000
+BA;Caldeirão Grande;44750000
+BA;Camacan;45880000
+BA;Camaçari;42800001
+BA;Camaçari;42800001
+BA;Camamu;45445000
+BA;Campo Alegre de Lourdes;47220000
+BA;Campo Formoso;44790000
+BA;Canápolis;47730000
+BA;Canarana;44890000
+BA;Canavieiras;45860000
+BA;Candeal;48710000
+BA;Candeias;43800001
+BA;Candeias;43800001
+BA;Candiba;46380000
+BA;Cândido Sales;45157000
+BA;Cansanção;48840000
+BA;Canudos;48520000
+BA;Capela do Alto Alegre;44645000
+BA;Capim Grosso;44695000
+BA;Caraíbas;45177000
+BA;Caravelas;45900000
+BA;Cardeal da Silva;48390000
+BA;Carinhanha;46445000
+BA;Casa Nova;47300000
+BA;Castro Alves;44500000
+BA;Catolândia;47845000
+BA;Catu;48110000
+BA;Caturama;46575000
+BA;Central;44940000
+BA;Chorrochó;48660000
+BA;Cícero Dantas;48410000
+BA;Cipó;48450000
+BA;Coaraci;45638000
+BA;Cocos;47680000
+BA;Conceição da Feira;44320000
+BA;Conceição do Almeida;44540000
+BA;Conceição do Coité;48730000
+BA;Conceição do Jacuípe;44245000
+BA;Conde;48300000
+BA;Condeúba;46200000
+BA;Contendas do Sincorá;46620000
+BA;Coração de Maria;44250000
+BA;Cordeiros;46280000
+BA;Coribe;47690000
+BA;Coronel João Sá;48590000
+BA;Correntina;47650000
+BA;Cotegipe;47900000
+BA;Cravolândia;45330000
+BA;Crisópolis;48480000
+BA;Cristópolis;47950000
+BA;Cruz das Almas;44380000
+BA;Curaçá;48930000
+BA;Dário Meira;45590000
+BA;Dias D'Ávila;42850000
+BA;Dom Basílio;46165000
+BA;Dom Macedo Costa;44560000
+BA;Elísio Medrado;45305000
+BA;Encruzilhada;45150000
+BA;Entre Rios;48180000
+BA;Érico Cardoso;46180000
+BA;Esplanada;48370000
+BA;Euclides da Cunha;48500000
+BA;Eunápolis;45820001
+BA;Eunápolis;45820001
+BA;Fátima;48415000
+BA;Feira da Mata;46446000
+BA;Feira de Santana;44000001
+BA;Feira de Santana;44000001
+BA;Filadélfia;44775000
+BA;Firmino Alves;45720000
+BA;Floresta Azul;45740000
+BA;Formosa do Rio Preto;47990000
+BA;Gandu;45450000
+BA;Gavião;44650000
+BA;Gentio do Ouro;47450000
+BA;Glória;48620000
+BA;Gongogi;45540000
+BA;Governador Mangabeira;44350000
+BA;Guajeru;46205000
+BA;Guanambi;46430000
+BA;Guaratinga;45840000
+BA;Heliópolis;48445000
+BA;Iaçu;46860000
+BA;Ibiassucê;46390000
+BA;Ibicaraí;45745000
+BA;Ibicoara;46760000
+BA;Ibicuí;45290000
+BA;Ibipeba;44970000
+BA;Ibipitanga;46540000
+BA;Ibiquera;46840000
+BA;Ibirapitanga;45500000
+BA;Ibirapuã;45940000
+BA;Ibirataia;45580000
+BA;Ibitiara;46700000
+BA;Ibititá;44960000
+BA;Ibotirama;47520000
+BA;Ichu;48725000
+BA;Igaporã;46490000
+BA;Igrapiúna;45443000
+BA;Iguaí;45280000
+BA;Ilhéus;45650001
+BA;Ilhéus;45650001
+BA;Inhambupe;48490000
+BA;Ipecaetá;44680000
+BA;Ipiaú;45570000
+BA;Ipirá;44600000
+BA;Ipupiara;47590000
+BA;Irajuba;45370000
+BA;Iramaia;46770000
+BA;Iraquara;46980000
+BA;Irará;44255000
+BA;Irecê;44900000
+BA;Itabela;45848000
+BA;Itaberaba;46880000
+BA;Itabuna;45600001
+BA;Itabuna;45600001
+BA;Itacaré;45530000
+BA;Itaeté;46790000
+BA;Itagi;45230000
+BA;Itagibá;45585000
+BA;Itagimirim;45850000
+BA;Itaguaçu da Bahia;47440000
+BA;Itaju do Colônia;45730000
+BA;Itajuípe;45630000
+BA;Itamaraju;45836000
+BA;Itamari;45455000
+BA;Itambé;45140000
+BA;Itanagra;48290000
+BA;Itanhém;45970000
+BA;Itaparica;44460000
+BA;Itapé;45750000
+BA;Itapebi;45855000
+BA;Itapetinga;45700000
+BA;Itapicuru;48475000
+BA;Itapitanga;45645000
+BA;Itaquara;45340000
+BA;Itarantim;45780000
+BA;Itatim;46875000
+BA;Itiruçu;45350000
+BA;Itiúba;48850000
+BA;Itororó;45710000
+BA;Ituaçu;46640000
+BA;Ituberá;45435000
+BA;Iuiu;46438000
+BA;Jaborandi;47655000
+BA;Jacaraci;46310000
+BA;Jacobina;44700000
+BA;Jaguaquara;45345000
+BA;Jaguarari;48960000
+BA;Jaguaripe;44480000
+BA;Jandaíra;48310000
+BA;Jequié;45200001
+BA;Jequié;45200001
+BA;Jeremoabo;48540000
+BA;Jiquiriçá;45470000
+BA;Jitaúna;45225000
+BA;João Dourado;44920000
+BA;Juazeiro;48900001
+BA;Juazeiro;48900001
+BA;Jucuruçu;45834000
+BA;Jussara;44925000
+BA;Jussari;45622000
+BA;Jussiape;46670000
+BA;Lafaiete Coutinho;45215000
+BA;Lagoa Real;46425000
+BA;Laje;45490000
+BA;Lajedão;45950000
+BA;Lajedinho;46825000
+BA;Lajedo do Tabocal;45365000
+BA;Lamarão;48720000
+BA;Lapão;44905000
+BA;Lauro de Freitas;42700001
+BA;Lauro de Freitas;42700001
+BA;Lençóis;46960000
+BA;Licínio de Almeida;46330000
+BA;Livramento de Nossa Senhora;46140000
+BA;Luís Eduardo Magalhães;47850000
+BA;Macajuba;46805000
+BA;Macarani;45760000
+BA;Macaúbas;46500000
+BA;Macururé;48650000
+BA;Madre de Deus;42600000
+BA;Maetinga;46255000
+BA;Maiquinique;45770000
+BA;Mairi;44630000
+BA;Malhada;46440000
+BA;Malhada de Pedras;46110000
+BA;Manoel Vitorino;45240000
+BA;Mansidão;47160000
+BA;Maracás;45360000
+BA;Maragogipe;44420000
+BA;Maraú;45520000
+BA;Marcionílio Souza;46780000
+BA;Mascote;45870000
+BA;Mata de São João;48280000
+BA;Matina;46480000
+BA;Medeiros Neto;45960000
+BA;Miguel Calmon;44720000
+BA;Milagres;45315000
+BA;Mirangaba;44745000
+BA;Mirante;45255000
+BA;Monte Santo;48800000
+BA;Morpará;47580000
+BA;Morro do Chapéu;44850000
+BA;Mortugaba;46290000
+BA;Mucugê;46750000
+BA;Mucuri;45930000
+BA;Mulungu do Morro;44885000
+BA;Mundo Novo;44800000
+BA;Muniz Ferreira;44575000
+BA;Muquém de São Francisco;47115000
+BA;Muritiba;44340000
+BA;Mutuípe;45480000
+BA;Nazaré;44400000
+BA;Nilo Peçanha;45440000
+BA;Nordestina;48870000
+BA;Nova Canaã;45270000
+BA;Nova Fátima;44642000
+BA;Nova Ibiá;45452000
+BA;Nova Itarana;45390000
+BA;Nova Redenção;46835000
+BA;Nova Soure;48460000
+BA;Nova Viçosa;45920000
+BA;Novo Horizonte;46730000
+BA;Novo Triunfo;48455000
+BA;Olindina;48470000
+BA;Oliveira dos Brejinhos;47530000
+BA;Ouriçangas;48150000
+BA;Ourolândia;44718000
+BA;Palmas de Monte Alto;46460000
+BA;Palmeiras;46930000
+BA;Paramirim;46190000
+BA;Paratinga;47500000
+BA;Paripiranga;48430000
+BA;Pau Brasil;45890000
+BA;Paulo Afonso;48600001
+BA;Paulo Afonso;48600001
+BA;Pé de Serra;44655000
+BA;Pedrão;48140000
+BA;Pedro Alexandre;48580000
+BA;Piatã;46765000
+BA;Pilão Arcado;47240000
+BA;Pindaí;46360000
+BA;Pindobaçu;44770000
+BA;Pintadas;44610000
+BA;Piraí do Norte;45436000
+BA;Piripá;46270000
+BA;Piritiba;44830000
+BA;Planaltino;45375000
+BA;Planalto;45190000
+BA;Poções;45260000
+BA;Pojuca;48120000
+BA;Ponto Novo;44755000
+BA;Porto Seguro;45810000
+BA;Potiraguá;45790000
+BA;Prado;45980000
+BA;Presidente Dutra;44930000
+BA;Presidente Jânio Quadros;46250000
+BA;Presidente Tancredo Neves;45416000
+BA;Queimadas;48860000
+BA;Quijingue;48830000
+BA;Quixabeira;44713000
+BA;Rafael Jambeiro;44520000
+BA;Remanso;47200000
+BA;Retirolândia;48750000
+BA;Riachão das Neves;47970000
+BA;Riachão do Jacuípe;44640000
+BA;Riacho de Santana;46470000
+BA;Ribeira do Amparo;48440000
+BA;Ribeira do Pombal;48400000
+BA;Ribeirão do Largo;45155000
+BA;Rio de Contas;46170000
+BA;Rio do Antônio;46220000
+BA;Rio do Pires;46550000
+BA;Rio Real;48330000
+BA;Rodelas;48630000
+BA;Ruy Barbosa;46800000
+BA;Salinas da Margarida;44450000
+BA;Salvador;40000001
+BA;Salvador;40000001
+BA;Santa Bárbara;44150000
+BA;Santa Brígida;48570000
+BA;Santa Cruz Cabrália;45807000
+BA;Santa Cruz da Vitória;45725000
+BA;Santa Inês;45320000
+BA;Santa Luzia;45865000
+BA;Santa Maria da Vitória;47640000
+BA;Santa Rita de Cássia;47150000
+BA;Santa Teresinha;44590000
+BA;Santaluz;48880000
+BA;Santana;47700000
+BA;Santanópolis;44260000
+BA;Santo Amaro;44200000
+BA;Santo Antônio de Jesus;44570001
+BA;Santo Antônio de Jesus;44570001
+BA;Santo Estêvão;44190000
+BA;São Desidério;47820000
+BA;São Domingos;48895000
+BA;São Felipe;44550000
+BA;São Félix;44360000
+BA;São Félix do Coribe;47665000
+BA;São Francisco do Conde;43900000
+BA;São Gabriel;44915000
+BA;São Gonçalo dos Campos;44330000
+BA;São José da Vitória;45620000
+BA;São José do Jacuípe;44698000
+BA;São Miguel das Matas;44580000
+BA;São Sebastião do Passé;43850000
+BA;Sapeaçu;44530000
+BA;Sátiro Dias;48485000
+BA;Saubara;44220000
+BA;Saúde;44740000
+BA;Seabra;46900000
+BA;Sebastião Laranjeiras;46450000
+BA;Senhor do Bonfim;48970000
+BA;Sento Sé;47350000
+BA;Serra do Ramalho;47630000
+BA;Serra Dourada;47740000
+BA;Serra Preta;44660000
+BA;Serrinha;48700000
+BA;Serrolândia;44710000
+BA;Simões Filho;43700000
+BA;Sítio do Mato;47610000
+BA;Sítio do Quinto;48565000
+BA;Sobradinho;48925000
+BA;Souto Soares;46990000
+BA;Tabocas do Brejo Velho;47760000
+BA;Tanhaçu;46600000
+BA;Tanque Novo;46580000
+BA;Tanquinho;44160000
+BA;Taperoá;45430000
+BA;Tapiramutá;44840000
+BA;Teixeira de Freitas;45985001
+BA;Teixeira de Freitas;45985001
+BA;Teodoro Sampaio;44280000
+BA;Teofilândia;48770000
+BA;Teolândia;45465000
+BA;Terra Nova;44270000
+BA;Tremedal;45170000
+BA;Tucano;48790000
+BA;Uauá;48950000
+BA;Ubaíra;45310000
+BA;Ubaitaba;45545000
+BA;Ubatã;45550000
+BA;Uibaí;44950000
+BA;Umburanas;44798000
+BA;Una;45690000
+BA;Urandi;46350000
+BA;Uruçuca;45680000
+BA;Utinga;46810000
+BA;Valença;45400000
+BA;Valente;48890000
+BA;Várzea da Roça;44635000
+BA;Várzea do Poço;44715000
+BA;Várzea Nova;44690000
+BA;Varzedo;44565000
+BA;Vera Cruz;44470000
+BA;Vereda;45955000
+BA;Vitória da Conquista;45000001
+BA;Vitória da Conquista;45000001
+BA;Wagner;46970000
+BA;Wanderley;47940000
+BA;Wenceslau Guimarães;45460000
+BA;Xique-Xique;47400000
+CE;Abaiara;63240000
+CE;Acarape;62785000
+CE;Acaraú;62580000
+CE;Acopiara;63560000
+CE;Aiuaba;63575000
+CE;Alcântaras;62120000
+CE;Altaneira;63195000
+CE;Alto Santo;62970000
+CE;Amontada;62540000
+CE;Antonina do Norte;63570000
+CE;Apuiarés;62630000
+CE;Aquiraz;61700000
+CE;Aracati;62800000
+CE;Aracoiaba;62750000
+CE;Ararendá;62210000
+CE;Araripe;63170000
+CE;Aratuba;62762000
+CE;Arneiroz;63670000
+CE;Assaré;63140000
+CE;Aurora;63360000
+CE;Baixio;63320000
+CE;Banabuiú;63960000
+CE;Barbalha;63180000
+CE;Barreira;62795000
+CE;Barro;63380000
+CE;Barroquinha;62410000
+CE;Baturité;62760000
+CE;Beberibe;62840000
+CE;Bela Cruz;62570000
+CE;Boa Viagem;63870000
+CE;Brejo Santo;63260000
+CE;Camocim;62400000
+CE;Campos Sales;63150000
+CE;Canindé;62700000
+CE;Capistrano;62748000
+CE;Caridade;62730000
+CE;Cariré;62184000
+CE;Caririaçu;63220000
+CE;Cariús;63530000
+CE;Carnaubal;62375000
+CE;Cascavel;62850000
+CE;Catarina;63595000
+CE;Catunda;62297000
+CE;Caucaia;61600001
+CE;Caucaia;61600001
+CE;Cedro;63400000
+CE;Chaval;62420000
+CE;Choró;63950000
+CE;Chorozinho;62875000
+CE;Coreaú;62160000
+CE;Crateús;63700000
+CE;Crateús;63700001
+CE;Crato;63100001
+CE;Crato;63100001
+CE;Croatá;62390000
+CE;Cruz;62595000
+CE;Deputado Irapuan Pinheiro;63645000
+CE;Ererê;63470000
+CE;Eusébio;61760000
+CE;Farias Brito;63185000
+CE;Forquilha;62115000
+CE;Fortaleza;60000001
+CE;Fortaleza;60000001
+CE;Fortim;62815000
+CE;Frecheirinha;62340000
+CE;General Sampaio;62738000
+CE;Graça;62365000
+CE;Granja;62430000
+CE;Granjeiro;63230000
+CE;Groairas;62190000
+CE;Guaiúba;61890000
+CE;Guaraciaba do Norte;62380000
+CE;Guaramiranga;62766000
+CE;Hidrolândia;62270000
+CE;Horizonte;62880001
+CE;Horizonte;62880001
+CE;Ibaretama;63970000
+CE;Ibiapina;62360000
+CE;Ibicuitinga;62955000
+CE;Icapuí;62810000
+CE;Icó;63430000
+CE;Iguatu;63500001
+CE;Iguatu;63500001
+CE;Independência;63640000
+CE;Ipaporanga;62215000
+CE;Ipaumirim;63340000
+CE;Ipu;62250000
+CE;Ipueiras;62230000
+CE;Iracema;62980000
+CE;Irauçuba;62620000
+CE;Itaiçaba;62820000
+CE;Itaitinga;61880000
+CE;Itapajé;62600000
+CE;Itapipoca;62500001
+CE;Itapipoca;62500001
+CE;Itapiúna;62740000
+CE;Itarema;62590000
+CE;Itatira;62720000
+CE;Jaguaretama;63480000
+CE;Jaguaribara;63490000
+CE;Jaguaribe;63475000
+CE;Jaguaruana;62823000
+CE;Jardim;63290000
+CE;Jati;63275000
+CE;Jijoca de Jericoacoara;62598000
+CE;Juazeiro do Norte;63000001
+CE;Juazeiro do Norte;63000001
+CE;Jucás;63580000
+CE;Lavras da Mangabeira;63300000
+CE;Limoeiro do Norte;62930000
+CE;Madalena;63860000
+CE;Maracanaú;61900001
+CE;Maracanaú;61900001
+CE;Maranguape;61940001
+CE;Maranguape;61940001
+CE;Marco;62560000
+CE;Martinópole;62450000
+CE;Massapê;62140000
+CE;Mauriti;63210000
+CE;Meruoca;62130000
+CE;Milagres;63250000
+CE;Milhã;63635000
+CE;Miraíma;62530000
+CE;Missão Velha;63200000
+CE;Mombaça;63610000
+CE;Monsenhor Tabosa;63780000
+CE;Morada Nova;62940000
+CE;Moraújo;62480000
+CE;Morrinhos;62550000
+CE;Mucambo;62170000
+CE;Mulungu;62764000
+CE;Nova Olinda;63165000
+CE;Nova Russas;62200000
+CE;Novo Oriente;63740000
+CE;Ocara;62755000
+CE;Orós;63520000
+CE;Pacajus;62870000
+CE;Pacatuba;61800001
+CE;Pacatuba;61800001
+CE;Pacoti;62770000
+CE;Pacujá;62180000
+CE;Palhano;62910000
+CE;Palmácia;62780000
+CE;Paracuru;62680000
+CE;Paraipaba;62685000
+CE;Parambu;63680000
+CE;Paramoti;62736000
+CE;Pedra Branca;63630000
+CE;Penaforte;63280000
+CE;Pentecoste;62640000
+CE;Pereiro;63460000
+CE;Pindoretama;62860000
+CE;Piquet Carneiro;63605000
+CE;Pires Ferreira;62255000
+CE;Poranga;62220000
+CE;Porteiras;63270000
+CE;Potengi;63160000
+CE;Potiretama;62990000
+CE;Quiterianópolis;63650000
+CE;Quixadá;63900001
+CE;Quixadá;63900001
+CE;Quixelô;63515000
+CE;Quixeramobim;63800000
+CE;Quixeré;62920000
+CE;Redenção;62790000
+CE;Reriutaba;62260000
+CE;Russas;62900000
+CE;Saboeiro;63590000
+CE;Salitre;63155000
+CE;Santa Quitéria;62280000
+CE;Santana do Acaraú;62150000
+CE;Santana do Cariri;63190000
+CE;São Benedito;62370000
+CE;São Gonçalo do Amarante;62670000
+CE;São João do Jaguaribe;62965000
+CE;São Luís do Curu;62665000
+CE;Senador Pompeu;63600000
+CE;Senador Sá;62470000
+CE;Sobral;62000001
+CE;Sobral;62000001
+CE;Solonópole;63620000
+CE;Tabuleiro do Norte;62960000
+CE;Tamboril;63750000
+CE;Tarrafas;63145000
+CE;Tauá;63660000
+CE;Tejuçuoca;62610000
+CE;Tianguá;62320000
+CE;Trairi;62690000
+CE;Tururu;62655000
+CE;Ubajara;62350000
+CE;Umari;63310000
+CE;Umirim;62660000
+CE;Uruburetama;62650000
+CE;Uruoca;62460000
+CE;Varjota;62265000
+CE;Várzea Alegre;63540000
+CE;Viçosa do Ceará;62300000
+DF;Brasília;70000001
+DF;Brasília;73000001
+DF;Brasília;70000001
+DF;Brasília;73000001
+ES;Afonso Cláudio;29600000
+ES;Água Doce do Norte;29820000
+ES;Águia Branca;29795000
+ES;Alegre;29500000
+ES;Alfredo Chaves;29240000
+ES;Alto Rio Novo;29760000
+ES;Anchieta;29230000
+ES;Apiacá;29450000
+ES;Aracruz;29190001
+ES;Aracruz;29190001
+ES;Atílio Vivácqua;29490000
+ES;Baixo Guandu;29730000
+ES;Barra de São Francisco;29800000
+ES;Boa Esperança;29845000
+ES;Bom Jesus do Norte;29460000
+ES;Brejetuba;29630000
+ES;Cachoeiro de Itapemirim;29300001
+ES;Cachoeiro de Itapemirim;29300001
+ES;Cariacica;29140001
+ES;Cariacica;29140001
+ES;Castelo;29360000
+ES;Colatina;29700001
+ES;Colatina;29700001
+ES;Conceição da Barra;29960000
+ES;Conceição do Castelo;29370000
+ES;Divino de São Lourenço;29590000
+ES;Domingos Martins;29260000
+ES;Dores do Rio Preto;29580000
+ES;Ecoporanga;29850000
+ES;Fundão;29185000
+ES;Governador Lindenberg;29720000
+ES;Guaçuí;29560000
+ES;Guarapari;29200001
+ES;Guarapari;29200001
+ES;Ibatiba;29395000
+ES;Ibiraçu;29670000
+ES;Ibitirama;29540000
+ES;Iconha;29280000
+ES;Irupi;29398000
+ES;Itaguaçu;29690000
+ES;Itapemirim;29330000
+ES;Itarana;29620000
+ES;Iúna;29390000
+ES;Jaguaré;29950000
+ES;Jerônimo Monteiro;29550000
+ES;João Neiva;29680000
+ES;Laranja da Terra;29615000
+ES;Linhares;29900001
+ES;Linhares;29900001
+ES;Mantenópolis;29770000
+ES;Marataízes;29345000
+ES;Marechal Floriano;29255000
+ES;Marilândia;29725000
+ES;Mimoso do Sul;29400000
+ES;Montanha;29890000
+ES;Mucurici;29880000
+ES;Muniz Freire;29380000
+ES;Muqui;29480000
+ES;Nova Venécia;29830000
+ES;Pancas;29750000
+ES;Pedro Canário;29970000
+ES;Pinheiros;29980000
+ES;Piúma;29285000
+ES;Ponto Belo;29885000
+ES;Presidente Kennedy;29350000
+ES;Rio Bananal;29920000
+ES;Rio Novo do Sul;29290000
+ES;Santa Leopoldina;29640000
+ES;Santa Maria de Jetibá;29645000
+ES;Santa Teresa;29650000
+ES;São Domingos do Norte;29745000
+ES;São Gabriel da Palha;29780000
+ES;São José do Calçado;29470000
+ES;São Mateus;29930001
+ES;São Mateus;29930001
+ES;São Roque do Canaã;29665000
+ES;Serra;29160001
+ES;Serra;29160001
+ES;Sooretama;29927000
+ES;Vargem Alta;29295000
+ES;Venda Nova do Imigrante;29375000
+ES;Viana;29130001
+ES;Viana;29130001
+ES;Vila Pavão;29843000
+ES;Vila Valério;29785000
+ES;Vila Velha;29100001
+ES;Vila Velha;29100001
+ES;Vitória;29000001
+ES;Vitória;29000001
+GO;Abadia de Goiás;75345000
+GO;Abadiânia;72940000
+GO;Acreúna;75960000
+GO;Adelândia;76155000
+GO;Água Fria de Goiás;73780000
+GO;Água Limpa;75665000
+GO;Águas Lindas de Goiás;72910001
+GO;Águas Lindas de Goiás;72910001
+GO;Alexânia;72930000
+GO;Aloândia;75615000
+GO;Alto Horizonte;76560000
+GO;Alto Paraíso de Goiás;73770000
+GO;Alvorada do Norte;73950000
+GO;Amaralina;76493000
+GO;Americano do Brasil;76165000
+GO;Amorinópolis;76140000
+GO;Anápolis;75000001
+GO;Anápolis;75000001
+GO;Anhangüera;75770000
+GO;Anicuns;76170000
+GO;Aparecida de Goiânia;74900001
+GO;Aparecida de Goiânia;74900001
+GO;Aparecida do Rio Doce;75827000
+GO;Aporé;75825000
+GO;Araçu;75410000
+GO;Aragarças;76240000
+GO;Aragoiânia;75360000
+GO;Araguapaz;76720000
+GO;Arenópolis;76235000
+GO;Aruanã;76710000
+GO;Aurilândia;76120000
+GO;Avelinópolis;75395000
+GO;Baliza;76250000
+GO;Barro Alto;76390000
+GO;Bela Vista de Goiás;75240000
+GO;Bom Jardim de Goiás;76245000
+GO;Bom Jesus;75570000
+GO;Bonfinópolis;75195000
+GO;Bonópolis;76555000
+GO;Brazabrantes;75440000
+GO;Britânia;76280000
+GO;Buriti Alegre;75660000
+GO;Buriti de Goiás;76152000
+GO;Buritinópolis;73975000
+GO;Cabeceiras;73870000
+GO;Cachoeira Alta;75870000
+GO;Cachoeira de Goiás;76125000
+GO;Cachoeira Dourada;75560000
+GO;Caçu;75813000
+GO;Caiapônia;75850000
+GO;Caldas Novas;75680001
+GO;Caldas Novas;75680001
+GO;Caldazinha;75245000
+GO;Campestre de Goiás;75396000
+GO;Campinaçu;76440000
+GO;Campinorte;76410000
+GO;Campo Alegre de Goiás;75795000
+GO;Campo Limpo de Goiás;75160000
+GO;Campos Belos;73840000
+GO;Campos Verdes;76515000
+GO;Carmo do Rio Verde;76340000
+GO;Castelândia;75925000
+GO;Catalão;75700001
+GO;Catalão;75700001
+GO;Caturaí;75430000
+GO;Cavalcante;73790000
+GO;Ceres;76300000
+GO;Cezarina;76195000
+GO;Chapadão do Céu;75828000
+GO;Cidade Ocidental;72880001
+GO;Cidade Ocidental;72880001
+GO;Cocalzinho de Goiás;72975000
+GO;Colinas do Sul;73740000
+GO;Córrego do Ouro;76145000
+GO;Corumbá de Goiás;72960000
+GO;Corumbaíba;75675000
+GO;Cristalina;73850000
+GO;Cristianópolis;75230000
+GO;Crixás;76510000
+GO;Cromínia;75635000
+GO;Cumari;75760000
+GO;Damianópolis;73980000
+GO;Damolândia;75420000
+GO;Davinópolis;75730000
+GO;Diorama;76260000
+GO;Divinópolis de Goiás;73865000
+GO;Doverlândia;75855000
+GO;Edealina;75945000
+GO;Edéia;75940000
+GO;Estrela do Norte;76485000
+GO;Faina;76740000
+GO;Fazenda Nova;76220000
+GO;Firminópolis;76105000
+GO;Flores de Goiás;73890000
+GO;Formosa;73800001
+GO;Formosa;73800001
+GO;Formoso;76470000
+GO;Gameleira de Goiás;75184000
+GO;Goianápolis;75170000
+GO;Goiandira;75740000
+GO;Goianésia;76380001
+GO;Goianésia;76380001
+GO;Goiânia;74000001
+GO;Goiânia;74000001
+GO;Goianira;75370000
+GO;Goiás;76600000
+GO;Goiatuba;75600000
+GO;Gouvelândia;75865000
+GO;Guapó;75350000
+GO;Guaraíta;76690000
+GO;Guarani de Goiás;73910000
+GO;Guarinos;76374000
+GO;Heitoraí;76670000
+GO;Hidrolândia;75340000
+GO;Hidrolina;76375000
+GO;Iaciara;73920000
+GO;Inaciolândia;75550000
+GO;Indiara;75955000
+GO;Inhumas;75400000
+GO;Ipameri;75780000
+GO;Ipiranga de Goiás;76304000
+GO;Iporá;76200000
+GO;Israelândia;76205000
+GO;Itaberaí;76630000
+GO;Itaguari;76650000
+GO;Itaguaru;76660000
+GO;Itajá;75815000
+GO;Itapaci;76360000
+GO;Itapirapuã;76290000
+GO;Itapuranga;76680000
+GO;Itarumã;75810000
+GO;Itauçu;75450000
+GO;Itumbiara;75500001
+GO;Itumbiara;75500001
+GO;Ivolândia;76130000
+GO;Jandaia;75950000
+GO;Jaraguá;76330000
+GO;Jataí;75800001
+GO;Jataí;75800001
+GO;Jaupaci;76210000
+GO;Jesúpolis;75495000
+GO;Joviânia;75610000
+GO;Jussara;76270000
+GO;Lagoa Santa;75819000
+GO;Leopoldo de Bulhões;75190000
+GO;Luziânia;72800001
+GO;Luziânia;72800001
+GO;Mairipotaba;75630000
+GO;Mambaí;73970000
+GO;Mara Rosa;76490000
+GO;Marzagão;75670000
+GO;Matrinchã;76730000
+GO;Maurilândia;75930000
+GO;Mimoso de Goiás;73730000
+GO;Minaçu;76450000
+GO;Mineiros;75830001
+GO;Mineiros;75830001
+GO;Moiporá;76135000
+GO;Monte Alegre de Goiás;73830000
+GO;Montes Claros de Goiás;76255000
+GO;Montividiu;75915000
+GO;Montividiu do Norte;76465000
+GO;Morrinhos;75650000
+GO;Morro Agudo de Goiás;76355000
+GO;Mossâmedes;76150000
+GO;Mozarlândia;76700000
+GO;Mundo Novo;76530000
+GO;Mutunópolis;76540000
+GO;Nazário;76180000
+GO;Nerópolis;75460000
+GO;Niquelândia;76420000
+GO;Nova América;76345000
+GO;Nova Aurora;75750000
+GO;Nova Crixás;76520000
+GO;Nova Glória;76305000
+GO;Nova Iguaçu de Goiás;76495000
+GO;Nova Roma;73820000
+GO;Nova Veneza;75470000
+GO;Novo Brasil;76285000
+GO;Novo Gama;72860001
+GO;Novo Gama;72860001
+GO;Novo Planalto;76580000
+GO;Orizona;75280000
+GO;Ouro Verde de Goiás;75165000
+GO;Ouvidor;75715000
+GO;Padre Bernardo;73700000
+GO;Palestina de Goiás;75845000
+GO;Palmeiras de Goiás;76190000
+GO;Palmelo;75210000
+GO;Palminópolis;75990000
+GO;Panamá;75580000
+GO;Paranaiguara;75880000
+GO;Paraúna;75980000
+GO;Perolândia;75823000
+GO;Petrolina de Goiás;75480000
+GO;Pilar de Goiás;76372000
+GO;Piracanjuba;75640000
+GO;Piranhas;76230000
+GO;Pirenópolis;72980000
+GO;Pires do Rio;75200000
+GO;Planaltina;73750001
+GO;Planaltina;73750001
+GO;Pontalina;75620000
+GO;Porangatu;76550000
+GO;Porteirão;75603000
+GO;Portelândia;75843000
+GO;Posse;73900000
+GO;Professor Jamil;75645000
+GO;Quirinópolis;75860000
+GO;Rialma;76310000
+GO;Rianápolis;76315000
+GO;Rio Quente;75667000
+GO;Rio Verde;75900001
+GO;Rio Verde;75900001
+GO;Rubiataba;76350000
+GO;Sanclerlândia;76160000
+GO;Santa Bárbara de Goiás;75398000
+GO;Santa Cruz de Goiás;75220000
+GO;Santa Fé de Goiás;76265000
+GO;Santa Helena de Goiás;75920000
+GO;Santa Isabel;76320000
+GO;Santa Rita do Araguaia;75840000
+GO;Santa Rita do Novo Destino;76395000
+GO;Santa Rosa de Goiás;75455000
+GO;Santa Tereza de Goiás;76480000
+GO;Santa Terezinha de Goiás;76500000
+GO;Santo Antônio da Barra;75935000
+GO;Santo Antônio de Goiás;75375000
+GO;Santo Antônio do Descoberto;72900001
+GO;Santo Antônio do Descoberto;72900001
+GO;São Domingos;73860000
+GO;São Francisco de Goiás;75490000
+GO;São João da Paraúna;75985000
+GO;São João D'Aliança;73760000
+GO;São Luís de Montes Belos;76100000
+GO;São Luiz do Norte;76365000
+GO;São Miguel do Araguaia;76590000
+GO;São Miguel do Passa Quatro;75185000
+GO;São Patrício;76343000
+GO;São Simão;75890000
+GO;Senador Canedo;75250001
+GO;Senador Canedo;75250001
+GO;Serranópolis;75820000
+GO;Silvânia;75180000
+GO;Simolândia;73930000
+GO;Sítio D'Abadia;73990000
+GO;Taquaral de Goiás;76640000
+GO;Teresina de Goiás;73795000
+GO;Terezópolis de Goiás;75175000
+GO;Três Ranchos;75720000
+GO;Trindade;75380001
+GO;Trindade;75380001
+GO;Trombas;76460000
+GO;Turvânia;76110000
+GO;Turvelândia;75970000
+GO;Uirapuru;76525000
+GO;Uruaçu;76400000
+GO;Uruana;76335000
+GO;Urutaí;75790000
+GO;Valparaíso de Goiás;72870001
+GO;Valparaíso de Goiás;72870001
+GO;Varjão;75355000
+GO;Vianópolis;75265000
+GO;Vicentinópolis;75555000
+GO;Vila Boa;73825000
+GO;Vila Propício;76393000
+MA;Açailândia;65930000
+MA;Afonso Cunha;65505000
+MA;Água Doce do Maranhão;65578000
+MA;Alcântara;65250000
+MA;Aldeias Altas;65610000
+MA;Altamira do Maranhão;65310000
+MA;Alto Alegre do Maranhão;65413000
+MA;Alto Alegre do Pindaré;65398000
+MA;Alto Parnaíba;65810000
+MA;Amapá do Maranhão;65293000
+MA;Amarante do Maranhão;65923000
+MA;Anajatuba;65490000
+MA;Anapurus;65525000
+MA;Apicum-Açu;65275000
+MA;Araguanã;65368000
+MA;Araioses;65570000
+MA;Arame;65945000
+MA;Arari;65480000
+MA;Axixá;65148000
+MA;Bacabal;65700000
+MA;Bacabeira;65143000
+MA;Bacuri;65270000
+MA;Bacurituba;65233000
+MA;Balsas;65800000
+MA;Barão de Grajaú;65660000
+MA;Barra do Corda;65950000
+MA;Barreirinhas;65590000
+MA;Bela Vista do Maranhão;65335000
+MA;Belágua;65535000
+MA;Benedito Leite;65885000
+MA;Bequimão;65248000
+MA;Bernardo do Mearim;65723000
+MA;Boa Vista do Gurupi;65292000
+MA;Bom Jardim;65380000
+MA;Bom Jesus das Selvas;65395000
+MA;Bom Lugar;65704000
+MA;Brejo;65520000
+MA;Brejo de Areia;65315000
+MA;Buriti;65515000
+MA;Buriti Bravo;65685000
+MA;Buriticupu;65393000
+MA;Buritirana;65935500
+MA;Cachoeira Grande;65165000
+MA;Cajapió;65230000
+MA;Cajari;65210000
+MA;Campestre do Maranhão;65968000
+MA;Cândido Mendes;65280000
+MA;Cantanhede;65465000
+MA;Capinzal do Norte;65735000
+MA;Carolina;65980000
+MA;Carutapera;65295000
+MA;Caxias;65600001
+MA;Caxias;65600001
+MA;Cedral;65260000
+MA;Central do Maranhão;65267000
+MA;Centro do Guilherme;65288000
+MA;Centro Novo do Maranhão;65299000
+MA;Chapadinha;65500000
+MA;Cidelândia;65921000
+MA;Codó;65400000
+MA;Coelho Neto;65620000
+MA;Colinas;65690000
+MA;Conceição do Lago-Açu;65340000
+MA;Coroatá;65415000
+MA;Cururupu;65268000
+MA;Davinópolis;65927000
+MA;Dom Pedro;65765000
+MA;Duque Bacelar;65625000
+MA;Esperantinópolis;65750000
+MA;Estreito;65975000
+MA;Feira Nova do Maranhão;65995000
+MA;Fernando Falcão;65964000
+MA;Formosa da Serra Negra;65943000
+MA;Fortaleza dos Nogueiras;65805000
+MA;Fortuna;65695000
+MA;Godofredo Viana;65285000
+MA;Gonçalves Dias;65775000
+MA;Governador Archer;65770000
+MA;Governador Edison Lobão;65928000
+MA;Governador Eugênio Barros;65780000
+MA;Governador Luiz Rocha;65795000
+MA;Governador Newton Bello;65363000
+MA;Governador Nunes Freire;65284000
+MA;Graça Aranha;65785000
+MA;Grajaú;65940000
+MA;Guimarães;65255000
+MA;Humberto de Campos;65180000
+MA;Icatu;65170000
+MA;Igarapé do Meio;65345000
+MA;Igarapé Grande;65720000
+MA;Imperatriz;65900001
+MA;Imperatriz;65900001
+MA;Itaipava do Grajaú;65948000
+MA;Itapecuru Mirim;65485000
+MA;Itinga do Maranhão;65939000
+MA;Jatobá;65693000
+MA;Jenipapo dos Vieiras;65962000
+MA;João Lisboa;65922000
+MA;Joselândia;65755000
+MA;Junco do Maranhão;65294000
+MA;Lago da Pedra;65715000
+MA;Lago do Junco;65710000
+MA;Lago dos Rodrigues;65712000
+MA;Lago Verde;65705000
+MA;Lagoa do Mato;65683000
+MA;Lagoa Grande do Maranhão;65718000
+MA;Lajeado Novo;65937000
+MA;Lima Campos;65728000
+MA;Loreto;65895000
+MA;Luís Domingues;65290000
+MA;Magalhães de Almeida;65560000
+MA;Maracaçumé;65289000
+MA;Marajá do Sena;65714000
+MA;Maranhãozinho;65283000
+MA;Mata Roma;65510000
+MA;Matinha;65218000
+MA;Matões;65645000
+MA;Matões do Norte;65468000
+MA;Milagres do Maranhão;65545000
+MA;Mirador;65850000
+MA;Miranda do Norte;65495000
+MA;Mirinzal;65265000
+MA;Monção;65360000
+MA;Montes Altos;65936000
+MA;Morros;65160000
+MA;Nina Rodrigues;65450000
+MA;Nova Colinas;65808000
+MA;Nova Iorque;65880000
+MA;Nova Olinda do Maranhão;65274000
+MA;Olho D'Água das Cunhãs;65706000
+MA;Olinda Nova do Maranhão;65223000
+MA;Paço do Lumiar;65130000
+MA;Palmeirândia;65238000
+MA;Paraibano;65670000
+MA;Parnarama;65640000
+MA;Passagem Franca;65680000
+MA;Pastos Bons;65870000
+MA;Paulino Neves;65585000
+MA;Paulo Ramos;65716000
+MA;Pedreiras;65725000
+MA;Pedro do Rosário;65206000
+MA;Penalva;65213000
+MA;Peri Mirim;65245000
+MA;Peritoró;65418000
+MA;Pindaré Mirim;65370000
+MA;Pinheiro;65200000
+MA;Pio XII;65707000
+MA;Pirapemas;65460000
+MA;Poção de Pedras;65740000
+MA;Porto Franco;65970000
+MA;Porto Rico do Maranhão;65263000
+MA;Presidente Dutra;65760000
+MA;Presidente Juscelino;65140000
+MA;Presidente Médici;65279000
+MA;Presidente Sarney;65204000
+MA;Presidente Vargas;65455000
+MA;Primeira Cruz;65190000
+MA;Raposa;65138000
+MA;Riachão;65990000
+MA;Ribamar Fiquene;65938000
+MA;Rosário;65150000
+MA;Sambaíba;65830000
+MA;Santa Filomena do Maranhão;65768000
+MA;Santa Helena;65208000
+MA;Santa Inês;65300001
+MA;Santa Inês;65300001
+MA;Santa Luzia;65390000
+MA;Santa Luzia do Paruá;65272000
+MA;Santa Quitéria do Maranhão;65540000
+MA;Santa Rita;65145000
+MA;Santana do Maranhão;65555000
+MA;Santo Amaro do Maranhão;65195000
+MA;Santo Antônio dos Lopes;65730000
+MA;São Benedito do Rio Preto;65440000
+MA;São Bento;65235000
+MA;São Bernardo;65550000
+MA;São Domingos do Azeitão;65888000
+MA;São Domingos do Maranhão;65790000
+MA;São Félix de Balsas;65890000
+MA;São Francisco do Brejão;65929000
+MA;São Francisco do Maranhão;65650000
+MA;São João Batista;65225000
+MA;São João do Carú;65385000
+MA;São João do Paraíso;65973000
+MA;São João do Soter;65615000
+MA;São João dos Patos;65665000
+MA;São José de Ribamar;65110000
+MA;São José dos Basílios;65762000
+MA;São Luís;65000001
+MA;São Luís;65000001
+MA;São Luís Gonzaga do Maranhão;65708000
+MA;São Mateus do Maranhão;65470000
+MA;São Pedro da Água Branca;65920000
+MA;São Pedro dos Crentes;65978000
+MA;São Raimundo das Mangabeiras;65840000
+MA;São Raimundo do Doca Bezerra;65753000
+MA;São Roberto;65758000
+MA;São Vicente Ferrer;65220000
+MA;Satubinha;65709000
+MA;Senador Alexandre Costa;65783000
+MA;Senador La Rocque;65935000
+MA;Serrano do Maranhão;65269000
+MA;Sítio Novo;65925000
+MA;Sucupira do Norte;65860000
+MA;Sucupira do Riachão;65668000
+MA;Tasso Fragoso;65820000
+MA;Timbiras;65420000
+MA;Timon;65630001
+MA;Timon;65630001
+MA;Trizidela do Vale;65727000
+MA;Tufilândia;65378000
+MA;Tuntum;65763000
+MA;Turiaçu;65278000
+MA;Turilândia;65276000
+MA;Tutóia;65580000
+MA;Urbano Santos;65530000
+MA;Vargem Grande;65430000
+MA;Viana;65215000
+MA;Vila Nova dos Martírios;65924000
+MA;Vitória do Mearim;65350000
+MA;Vitorino Freire;65320000
+MA;Zé Doca;65365000
+MG;Abadia dos Dourados;38540000
+MG;Abaeté;35620000
+MG;Abre Campo;35365000
+MG;Acaiaca;35438000
+MG;Açucena;35147000
+MG;Água Boa;39790000
+MG;Água Comprida;38110000
+MG;Aguanil;37273000
+MG;Águas Formosas;39880000
+MG;Águas Vermelhas;39990000
+MG;Aimorés;35200000
+MG;Aiuruoca;37450000
+MG;Alagoa;37458000
+MG;Albertina;37596000
+MG;Além Paraíba;36660000
+MG;Alfenas;37130001
+MG;Alfenas;37130001
+MG;Alfredo Vasconcelos;36272000
+MG;Almenara;39900000
+MG;Alpercata;35138000
+MG;Alpinópolis;37940000
+MG;Alterosa;37145000
+MG;Alto Caparaó;36979000
+MG;Alto Jequitibá;36976000
+MG;Alto Rio Doce;36260000
+MG;Alvarenga;35249000
+MG;Alvinópolis;35950000
+MG;Alvorada de Minas;39140000
+MG;Amparo da Serra;35444000
+MG;Andradas;37795000
+MG;Andrelândia;37300000
+MG;Angelândia;39685000
+MG;Antônio Carlos;36220000
+MG;Antônio Dias;35177000
+MG;Antônio Prado de Minas;36850000
+MG;Araçaí;35777000
+MG;Aracitaba;36255000
+MG;Araçuaí;39600000
+MG;Araguari;38440001
+MG;Araguari;38440001
+MG;Arantina;37360000
+MG;Araponga;36594000
+MG;Araporã;38465000
+MG;Arapuá;38860000
+MG;Araújos;35603000
+MG;Araxá;38180001
+MG;Araxá;38180001
+MG;Arceburgo;37820000
+MG;Arcos;35588000
+MG;Areado;37140000
+MG;Argirita;36710000
+MG;Aricanduva;39678000
+MG;Arinos;38680000
+MG;Astolfo Dutra;36780000
+MG;Ataléia;39850000
+MG;Augusto de Lima;39219000
+MG;Baependi;37443000
+MG;Baldim;35732000
+MG;Bambuí;38900000
+MG;Bandeira;39917000
+MG;Bandeira do Sul;37740000
+MG;Barão de Cocais;35970000
+MG;Barão de Monte Alto;36870000
+MG;Barbacena;36200001
+MG;Barbacena;36200001
+MG;Barra Longa;35447000
+MG;Barroso;36212000
+MG;Bela Vista de Minas;35938000
+MG;Belmiro Braga;36126000
+MG;Belo Horizonte;30000001
+MG;Belo Horizonte;30000001
+MG;Belo Oriente;35195000
+MG;Belo Vale;35473000
+MG;Berilo;39640000
+MG;Berizal;39555000
+MG;Bertópolis;39875000
+MG;Betim;32600001
+MG;Betim;32600001
+MG;Bias Fortes;36230000
+MG;Bicas;36600000
+MG;Biquinhas;35621000
+MG;Boa Esperança;37170000
+MG;Bocaina de Minas;37340000
+MG;Bocaiúva;39390000
+MG;Bom Despacho;35600000
+MG;Bom Jardim de Minas;37310000
+MG;Bom Jesus da Penha;37948000
+MG;Bom Jesus do Amparo;35908000
+MG;Bom Jesus do Galho;35340000
+MG;Bom Repouso;37610000
+MG;Bom Sucesso;37220000
+MG;Bonfim;35480000
+MG;Bonfinópolis de Minas;38650000
+MG;Bonito de Minas;39490000
+MG;Borda da Mata;37564000
+MG;Botelhos;37720000
+MG;Botumirim;39595000
+MG;Brás Pires;36542000
+MG;Brasilândia de Minas;38779000
+MG;Brasília de Minas;39330000
+MG;Braúnas;35189000
+MG;Brazópolis;37530000
+MG;Brumadinho;35460000
+MG;Bueno Brandão;37578000
+MG;Buenópolis;39230000
+MG;Bugre;35193000
+MG;Buritis;38660000
+MG;Buritizeiro;39280000
+MG;Cabeceira Grande;38625000
+MG;Cabo Verde;37880000
+MG;Cachoeira da Prata;35765000
+MG;Cachoeira de Minas;37545000
+MG;Cachoeira de Pajeú;39980000
+MG;Cachoeira Dourada;38370000
+MG;Caetanópolis;35770000
+MG;Caeté;34800000
+MG;Caiana;36832000
+MG;Cajuri;36560000
+MG;Caldas;37780000
+MG;Camacho;35555000
+MG;Camanducaia;37650000
+MG;Cambuí;37600000
+MG;Cambuquira;37420000
+MG;Campanário;39835000
+MG;Campanha;37400000
+MG;Campestre;37730000
+MG;Campina Verde;38270000
+MG;Campo Azul;39338000
+MG;Campo Belo;37270000
+MG;Campo do Meio;37165000
+MG;Campo Florido;38130000
+MG;Campos Altos;38970000
+MG;Campos Gerais;37160000
+MG;Cana Verde;37267000
+MG;Canaã;36592000
+MG;Canápolis;38380000
+MG;Candeias;37280000
+MG;Cantagalo;39703000
+MG;Caparaó;36834000
+MG;Capela Nova;36290000
+MG;Capelinha;39680000
+MG;Capetinga;37993000
+MG;Capim Branco;35730000
+MG;Capinópolis;38360000
+MG;Capitão Andrade;35123000
+MG;Capitão Enéas;39472000
+MG;Capitólio;37930000
+MG;Caputira;36925000
+MG;Caraí;39810000
+MG;Caranaíba;36428000
+MG;Carandaí;36280000
+MG;Carangola;36800000
+MG;Caratinga;35300001
+MG;Caratinga;35300001
+MG;Carbonita;39665000
+MG;Careaçu;37582000
+MG;Carlos Chagas;39864000
+MG;Carmésia;35878000
+MG;Carmo da Cachoeira;37225000
+MG;Carmo da Mata;35547000
+MG;Carmo de Minas;37472000
+MG;Carmo do Cajuru;35557000
+MG;Carmo do Paranaíba;38840000
+MG;Carmo do Rio Claro;37150000
+MG;Carmópolis de Minas;35534000
+MG;Carneirinho;38290000
+MG;Carrancas;37245000
+MG;Carvalhópolis;37760000
+MG;Carvalhos;37456000
+MG;Casa Grande;36422000
+MG;Cascalho Rico;38460000
+MG;Cássia;37980000
+MG;Cataguases;36770001
+MG;Cataguases;36770001
+MG;Catas Altas;35969000
+MG;Catas Altas da Noruega;36450000
+MG;Catuji;39816000
+MG;Catuti;39526000
+MG;Caxambu;37440000
+MG;Cedro do Abaeté;35624000
+MG;Central de Minas;35260000
+MG;Centralina;38390000
+MG;Chácara;36110000
+MG;Chalé;36985000
+MG;Chapada do Norte;39648000
+MG;Chapada Gaúcha;38689000
+MG;Chiador;36630000
+MG;Cipotânea;36265000
+MG;Claraval;37997000
+MG;Claro dos Poções;39380000
+MG;Cláudio;35530000
+MG;Coimbra;36550000
+MG;Coluna;39770000
+MG;Comendador Gomes;38250000
+MG;Comercinho;39628000
+MG;Conceição da Aparecida;37148000
+MG;Conceição da Barra de Minas;36360000
+MG;Conceição das Alagoas;38120000
+MG;Conceição das Pedras;37527000
+MG;Conceição de Ipanema;36947000
+MG;Conceição do Mato Dentro;35858000
+MG;Conceição do Pará;35668000
+MG;Conceição do Rio Verde;37430000
+MG;Conceição dos Ouros;37548000
+MG;Cônego Marinho;39489000
+MG;Confins;33500000
+MG;Congonhal;37584000
+MG;Congonhas;36415000
+MG;Congonhas do Norte;35850000
+MG;Conquista;38195000
+MG;Conselheiro Lafaiete;36400001
+MG;Conselheiro Lafaiete;36400001
+MG;Conselheiro Pena;35240000
+MG;Consolação;37670000
+MG;Contagem;32000001
+MG;Contagem;32000001
+MG;Coqueiral;37235000
+MG;Coração de Jesus;39340000
+MG;Cordisburgo;35780000
+MG;Cordislândia;37498000
+MG;Corinto;39200000
+MG;Coroaci;39710000
+MG;Coromandel;38550000
+MG;Coronel Fabriciano;35170001
+MG;Coronel Fabriciano;35170001
+MG;Coronel Murta;39635000
+MG;Coronel Pacheco;36155000
+MG;Coronel Xavier Chaves;36330000
+MG;Córrego Danta;38990000
+MG;Córrego do Bom Jesus;37605000
+MG;Córrego Fundo;35568000
+MG;Córrego Novo;35345000
+MG;Couto de Magalhães de Minas;39188000
+MG;Crisólita;39885000
+MG;Cristais;37275000
+MG;Cristália;39598000
+MG;Cristiano Otoni;36426000
+MG;Cristina;37476000
+MG;Crucilândia;35478000
+MG;Cruzeiro da Fortaleza;38735000
+MG;Cruzília;37445000
+MG;Cuparaque;35246000
+MG;Curral de Dentro;39569000
+MG;Curvelo;35789000
+MG;Datas;39130000
+MG;Delfim Moreira;37514000
+MG;Delfinópolis;37910000
+MG;Delta;38108000
+MG;Descoberto;36690000
+MG;Desterro de Entre Rios;35492000
+MG;Desterro do Melo;36210000
+MG;Diamantina;39100000
+MG;Diogo de Vasconcelos;35437000
+MG;Dionísio;35984000
+MG;Divinésia;36546000
+MG;Divino;36820000
+MG;Divino das Laranjeiras;35265000
+MG;Divinolândia de Minas;39735000
+MG;Divinópolis;35500001
+MG;Divinópolis;35500001
+MG;Divisa Alegre;39995000
+MG;Divisa Nova;37142000
+MG;Divisópolis;39912000
+MG;Dom Bosco;38654000
+MG;Dom Cavati;35148000
+MG;Dom Joaquim;35865000
+MG;Dom Silvério;35440000
+MG;Dom Viçoso;37474000
+MG;Dona Euzébia;36784000
+MG;Dores de Campos;36213000
+MG;Dores de Guanhães;35894000
+MG;Dores do Indaiá;35610000
+MG;Dores do Turvo;36513000
+MG;Doresópolis;37926000
+MG;Douradoquara;38530000
+MG;Durandé;36974000
+MG;Elói Mendes;37110000
+MG;Engenheiro Caldas;35130000
+MG;Engenheiro Navarro;39363000
+MG;Entre Folhas;35324000
+MG;Entre Rios de Minas;35490000
+MG;Ervália;36555000
+MG;Esmeraldas;35740000
+MG;Espera Feliz;36830000
+MG;Espinosa;39510000
+MG;Espírito Santo do Dourado;37566000
+MG;Estiva;37542000
+MG;Estrela Dalva;36725000
+MG;Estrela do Indaiá;35613000
+MG;Estrela do Sul;38525000
+MG;Eugenópolis;36855000
+MG;Ewbank da Câmara;36108000
+MG;Extrema;37640000
+MG;Fama;37144000
+MG;Faria Lemos;36840000
+MG;Felício dos Santos;39180000
+MG;Felisburgo;39895000
+MG;Felixlândia;39237000
+MG;Fernandes Tourinho;35135000
+MG;Ferros;35800000
+MG;Fervedouro;36815000
+MG;Florestal;35690000
+MG;Formiga;35570000
+MG;Formoso;38690000
+MG;Fortaleza de Minas;37905000
+MG;Fortuna de Minas;35760000
+MG;Francisco Badaró;39644000
+MG;Francisco Dumont;39387000
+MG;Francisco Sá;39580000
+MG;Franciscópolis;39695000
+MG;Frei Gaspar;39840000
+MG;Frei Inocêncio;35112000
+MG;Frei Lagonegro;39708000
+MG;Fronteira;38230000
+MG;Fronteira dos Vales;39870000
+MG;Fruta de Leite;39558000
+MG;Frutal;38200000
+MG;Funilândia;35736000
+MG;Galiléia;35250000
+MG;Gameleiras;39505000
+MG;Glaucilândia;39592000
+MG;Goiabeira;35248000
+MG;Goianá;36152000
+MG;Gonçalves;37680000
+MG;Gonzaga;39720000
+MG;Gouveia;39120000
+MG;Governador Valadares;35000001
+MG;Governador Valadares;35000001
+MG;Grão Mogol;39570000
+MG;Grupiara;38470000
+MG;Guanhães;39740000
+MG;Guapé;37177000
+MG;Guaraciaba;35436000
+MG;Guaraciama;39397000
+MG;Guaranésia;37810000
+MG;Guarani;36160000
+MG;Guarará;36606000
+MG;Guarda-Mor;38570000
+MG;Guaxupé;37800000
+MG;Guidoval;36515000
+MG;Guimarânia;38730000
+MG;Guiricema;36525000
+MG;Gurinhatã;38310000
+MG;Heliodora;37484000
+MG;Iapu;35190000
+MG;Ibertioga;36225000
+MG;Ibiá;38950000
+MG;Ibiaí;39350000
+MG;Ibiracatu;39455000
+MG;Ibiraci;37990000
+MG;Ibirité;32400001
+MG;Ibirité;32400001
+MG;Ibitiúra de Minas;37790000
+MG;Ibituruna;37223000
+MG;Icaraí de Minas;39318000
+MG;Igarapé;32900000
+MG;Igaratinga;35695000
+MG;Iguatama;38910000
+MG;Ijaci;37218000
+MG;Ilicínea;37175000
+MG;Imbé de Minas;35323000
+MG;Inconfidentes;37576000
+MG;Indaiabira;39536000
+MG;Indianópolis;38490000
+MG;Ingaí;37215000
+MG;Inhapim;35330000
+MG;Inhaúma;35763000
+MG;Inimutaba;39243000
+MG;Ipaba;35198000
+MG;Ipanema;36950000
+MG;Ipatinga;35150001
+MG;Ipatinga;35150001
+MG;Ipiaçu;38350000
+MG;Ipuiúna;37588000
+MG;Iraí de Minas;38510000
+MG;Itabira;35900001
+MG;Itabira;35900001
+MG;Itabirinha;35280000
+MG;Itabirito;35450000
+MG;Itacambira;39594000
+MG;Itacarambi;39470000
+MG;Itaguara;35488000
+MG;Itaipé;39815000
+MG;Itajubá;37500001
+MG;Itajubá;37500001
+MG;Itamarandiba;39670000
+MG;Itamarati de Minas;36788000
+MG;Itambacuri;39830000
+MG;Itambé do Mato Dentro;35820000
+MG;Itamogi;37973000
+MG;Itamonte;37466000
+MG;Itanhandu;37464000
+MG;Itanhomi;35120000
+MG;Itaobim;39625000
+MG;Itapagipe;38240000
+MG;Itapecerica;35550000
+MG;Itapeva;37655000
+MG;Itatiaiuçu;35685000
+MG;Itaú de Minas;37975000
+MG;Itaúna;35680001
+MG;Itaúna;35680001
+MG;Itaverava;36440000
+MG;Itinga;39610000
+MG;Itueta;35220000
+MG;Ituiutaba;38300001
+MG;Ituiutaba;38300001
+MG;Itumirim;37210000
+MG;Iturama;38280000
+MG;Itutinga;36390000
+MG;Jaboticatubas;35830000
+MG;Jacinto;39930000
+MG;Jacuí;37965000
+MG;Jacutinga;37590000
+MG;Jaguaraçu;35188000
+MG;Jaíba;39508000
+MG;Jampruca;39837000
+MG;Janaúba;39440001
+MG;Janaúba;39440001
+MG;Januária;39480000
+MG;Japaraíba;35580000
+MG;Japonvar;39335000
+MG;Jeceaba;35497000
+MG;Jenipapo de Minas;39645000
+MG;Jequeri;35390000
+MG;Jequitaí;39370000
+MG;Jequitibá;35767000
+MG;Jequitinhonha;39960000
+MG;Jesuânia;37485000
+MG;Joaíma;39890000
+MG;Joanésia;35194000
+MG;João Monlevade;35930001
+MG;João Monlevade;35930001
+MG;João Pinheiro;38770000
+MG;Joaquim Felício;39240000
+MG;Jordânia;39920000
+MG;José Gonçalves de Minas;39642000
+MG;José Raydan;39775000
+MG;Josenópolis;39575000
+MG;Juatuba;35675000
+MG;Juiz de Fora;36000001
+MG;Juiz de Fora;36000001
+MG;Juramento;39590000
+MG;Juruaia;37805000
+MG;Juvenília;39467000
+MG;Ladainha;39825000
+MG;Lagamar;38785000
+MG;Lagoa da Prata;35590000
+MG;Lagoa dos Patos;39360000
+MG;Lagoa Dourada;36345000
+MG;Lagoa Formosa;38720000
+MG;Lagoa Grande;38755000
+MG;Lagoa Santa;33400000
+MG;Lajinha;36980000
+MG;Lambari;37480000
+MG;Lamim;36455000
+MG;Laranjal;36760000
+MG;Lassance;39250000
+MG;Lavras;37200000
+MG;Leandro Ferreira;35657000
+MG;Leme do Prado;39655000
+MG;Leopoldina;36700000
+MG;Liberdade;37350000
+MG;Lima Duarte;36140000
+MG;Limeira do Oeste;38295000
+MG;Lontra;39437000
+MG;Luisburgo;36923000
+MG;Luislândia;39336000
+MG;Luminárias;37240000
+MG;Luz;35595000
+MG;Machacalis;39873000
+MG;Machado;37750000
+MG;Madre de Deus de Minas;37305000
+MG;Malacacheta;39690000
+MG;Mamonas;39516000
+MG;Manga;39460000
+MG;Manhuaçu;36900000
+MG;Manhumirim;36970000
+MG;Mantena;35290000
+MG;Mar de Espanha;36640000
+MG;Maravilhas;35666000
+MG;Maria da Fé;37517000
+MG;Mariana;35420000
+MG;Marilac;35115000
+MG;Mário Campos;32470000
+MG;Maripá de Minas;36608000
+MG;Marliéria;35185000
+MG;Marmelópolis;37516000
+MG;Martinho Campos;35606000
+MG;Martins Soares;36972000
+MG;Mata Verde;39915000
+MG;Materlândia;39755000
+MG;Mateus Leme;35670000
+MG;Mathias Lobato;35110000
+MG;Matias Barbosa;36120000
+MG;Matias Cardoso;39478000
+MG;Matipó;35367000
+MG;Mato Verde;39527000
+MG;Matozinhos;35720000
+MG;Matutina;38870000
+MG;Medeiros;38930000
+MG;Medina;39620000
+MG;Mendes Pimentel;35270000
+MG;Mercês;36190000
+MG;Mesquita;35116000
+MG;Minas Novas;39650000
+MG;Minduri;37447000
+MG;Mirabela;39373000
+MG;Miradouro;36893000
+MG;Miraí;36790000
+MG;Miravânia;39465000
+MG;Moeda;35470000
+MG;Moema;35604000
+MG;Monjolos;39215000
+MG;Monsenhor Paulo;37405000
+MG;Montalvânia;39495000
+MG;Monte Alegre de Minas;38475000
+MG;Monte Azul;39500000
+MG;Monte Belo;37115000
+MG;Monte Carmelo;38500000
+MG;Monte Formoso;39893000
+MG;Monte Santo de Minas;37968000
+MG;Monte Sião;37580000
+MG;Montes Claros;39400001
+MG;Montes Claros;39400001
+MG;Montezuma;39547000
+MG;Morada Nova de Minas;35628000
+MG;Morro da Garça;39248000
+MG;Morro do Pilar;35875000
+MG;Munhoz;37620000
+MG;Muriaé;36880001
+MG;Muriaé;36880001
+MG;Mutum;36955000
+MG;Muzambinho;37890000
+MG;Nacip Raydan;39718000
+MG;Nanuque;39860000
+MG;Naque;35117000
+MG;Natalândia;38658000
+MG;Natércia;37524000
+MG;Nazareno;36370000
+MG;Nepomuceno;37250000
+MG;Ninheira;39553000
+MG;Nova Belém;35298000
+MG;Nova Era;35920000
+MG;Nova Lima;34000001
+MG;Nova Lima;34000001
+MG;Nova Módica;35113000
+MG;Nova Ponte;38160000
+MG;Nova Porteirinha;39525000
+MG;Nova Resende;37860000
+MG;Nova Serrana;35517000
+MG;Nova União;34990000
+MG;Novo Cruzeiro;39820000
+MG;Novo Oriente de Minas;39817000
+MG;Novorizonte;39568000
+MG;Olaria;36145000
+MG;Olhos D'Água;39398000
+MG;Olímpio Noronha;37488000
+MG;Oliveira;35540000
+MG;Oliveira Fortes;36250000
+MG;Onça de Pitangui;35655000
+MG;Oratórios;35439000
+MG;Orizânia;36828000
+MG;Ouro Branco;36420000
+MG;Ouro Fino;37570000
+MG;Ouro Preto;35400000
+MG;Ouro Verde de Minas;39855000
+MG;Padre Carvalho;39573000
+MG;Padre Paraíso;39818000
+MG;Pai Pedro;39517000
+MG;Paineiras;35622000
+MG;Pains;35582000
+MG;Paiva;36195000
+MG;Palma;36750000
+MG;Palmópolis;39945000
+MG;Papagaios;35669000
+MG;Pará de Minas;35660001
+MG;Pará de Minas;35660001
+MG;Paracatu;38600001
+MG;Paracatu;38600001
+MG;Paraguaçu;37120000
+MG;Paraisópolis;37660000
+MG;Paraopeba;35774000
+MG;Passa Quatro;37460000
+MG;Passa Tempo;35537000
+MG;Passa Vinte;37330000
+MG;Passabém;35810000
+MG;Passos;37900001
+MG;Passos;37900001
+MG;Patis;39378000
+MG;Patos de Minas;38700001
+MG;Patos de Minas;38700001
+MG;Patrocínio;38740001
+MG;Patrocínio;38740001
+MG;Patrocínio do Muriaé;36860000
+MG;Paula Cândido;36544000
+MG;Paulistas;39765000
+MG;Pavão;39814000
+MG;Peçanha;39700000
+MG;Pedra Azul;39970000
+MG;Pedra Bonita;35364000
+MG;Pedra do Anta;36585000
+MG;Pedra do Indaiá;35565000
+MG;Pedra Dourada;36847000
+MG;Pedralva;37520000
+MG;Pedras de Maria da Cruz;39492000
+MG;Pedrinópolis;38178000
+MG;Pedro Leopoldo;33600000
+MG;Pedro Teixeira;36148000
+MG;Pequeri;36610000
+MG;Pequi;35667000
+MG;Perdigão;35545000
+MG;Perdizes;38170000
+MG;Perdões;37260000
+MG;Periquito;35118000
+MG;Pescador;35114000
+MG;Piau;36157000
+MG;Piedade de Caratinga;35325000
+MG;Piedade de Ponte Nova;35382000
+MG;Piedade do Rio Grande;36227000
+MG;Piedade dos Gerais;35476000
+MG;Pimenta;35585000
+MG;Pingo-D'Água;35348000
+MG;Pintópolis;39317000
+MG;Piracema;35536000
+MG;Pirajuba;38210000
+MG;Piranga;36480000
+MG;Piranguçu;37511000
+MG;Piranguinho;37508000
+MG;Pirapetinga;36730000
+MG;Pirapora;39270000
+MG;Piraúba;36170000
+MG;Pitangui;35650000
+MG;Piumhi;37925000
+MG;Planura;38220000
+MG;Poço Fundo;37757000
+MG;Poços de Caldas;37700001
+MG;Poços de Caldas;37700001
+MG;Pocrane;36960000
+MG;Pompéu;35640000
+MG;Ponte Nova;35430001
+MG;Ponte Nova;35430001
+MG;Ponto Chique;39328000
+MG;Ponto dos Volantes;39615000
+MG;Porteirinha;39520000
+MG;Porto Firme;36568000
+MG;Poté;39827000
+MG;Pouso Alegre;37550001
+MG;Pouso Alegre;37550001
+MG;Pouso Alto;37468000
+MG;Prados;36320000
+MG;Prata;38140000
+MG;Pratápolis;37970000
+MG;Pratinha;38960000
+MG;Presidente Bernardes;36475000
+MG;Presidente Juscelino;39245000
+MG;Presidente Kubitschek;39135000
+MG;Presidente Olegário;38750000
+MG;Prudente de Morais;35738000
+MG;Quartel Geral;35625000
+MG;Queluzito;36424000
+MG;Raposos;34400000
+MG;Raul Soares;35350000
+MG;Recreio;36740000
+MG;Reduto;36920000
+MG;Resende Costa;36340000
+MG;Resplendor;35230000
+MG;Ressaquinha;36270000
+MG;Riachinho;38640000
+MG;Riacho dos Machados;39529000
+MG;Ribeirão das Neves;33800001
+MG;Ribeirão das Neves;33800001
+MG;Ribeirão Vermelho;37264000
+MG;Rio Acima;34300000
+MG;Rio Casca;35370000
+MG;Rio do Prado;39940000
+MG;Rio Doce;35442000
+MG;Rio Espera;36460000
+MG;Rio Manso;35485000
+MG;Rio Novo;36150000
+MG;Rio Paranaíba;38810000
+MG;Rio Pardo de Minas;39530000
+MG;Rio Piracicaba;35940000
+MG;Rio Pomba;36180000
+MG;Rio Preto;36130000
+MG;Rio Vermelho;39170000
+MG;Ritápolis;36335000
+MG;Rochedo de Minas;36604000
+MG;Rodeiro;36510000
+MG;Romaria;38520000
+MG;Rosário da Limeira;36878000
+MG;Rubelita;39565000
+MG;Rubim;39950000
+MG;Sabará;34500001
+MG;Sabará;34500001
+MG;Sabinópolis;39750000
+MG;Sacramento;38190000
+MG;Salinas;39560000
+MG;Salto da Divisa;39925000
+MG;Santa Bárbara;35960000
+MG;Santa Bárbara do Leste;35328000
+MG;Santa Bárbara do Monte Verde;36132000
+MG;Santa Bárbara do Tugúrio;36215000
+MG;Santa Cruz de Minas;36328000
+MG;Santa Cruz de Salinas;39563000
+MG;Santa Cruz do Escalvado;35383000
+MG;Santa Efigênia de Minas;39725000
+MG;Santa Fé de Minas;39295000
+MG;Santa Helena de Minas;39874000
+MG;Santa Juliana;38175000
+MG;Santa Luzia;33000001
+MG;Santa Luzia;33000001
+MG;Santa Margarida;36913000
+MG;Santa Maria de Itabira;35910000
+MG;Santa Maria do Salto;39928000
+MG;Santa Maria do Suaçuí;39780000
+MG;Santa Rita de Caldas;37775000
+MG;Santa Rita de Jacutinga;36135000
+MG;Santa Rita de Minas;35326000
+MG;Santa Rita do Ibitipoca;36235000
+MG;Santa Rita do Itueto;35225000
+MG;Santa Rita do Sapucaí;37540000
+MG;Santa Rosa da Serra;38805000
+MG;Santa Vitória;38320000
+MG;Santana da Vargem;37195000
+MG;Santana de Cataguases;36795000
+MG;Santana de Pirapama;35785000
+MG;Santana do Deserto;36620000
+MG;Santana do Garambéu;36146000
+MG;Santana do Jacaré;37278000
+MG;Santana do Manhuaçu;36940000
+MG;Santana do Paraíso;35179000
+MG;Santana do Riacho;35845000
+MG;Santana dos Montes;36430000
+MG;Santo Antônio do Amparo;37262000
+MG;Santo Antônio do Aventureiro;36670000
+MG;Santo Antônio do Grama;35388000
+MG;Santo Antônio do Itambé;39160000
+MG;Santo Antônio do Jacinto;39935000
+MG;Santo Antônio do Monte;35560000
+MG;Santo Antônio do Retiro;39538000
+MG;Santo Antônio do Rio Abaixo;35880000
+MG;Santo Hipólito;39210000
+MG;Santos Dumont;36240000
+MG;São Bento Abade;37407000
+MG;São Brás do Suaçuí;35495000
+MG;São Domingos das Dores;35335000
+MG;São Domingos do Prata;35993000
+MG;São Félix de Minas;35275000
+MG;São Francisco;39300000
+MG;São Francisco de Paula;35543000
+MG;São Francisco de Sales;38260000
+MG;São Francisco do Glória;36810000
+MG;São Geraldo;36530000
+MG;São Geraldo da Piedade;39723000
+MG;São Geraldo do Baixio;35258000
+MG;São Gonçalo do Abaeté;38790000
+MG;São Gonçalo do Pará;35544000
+MG;São Gonçalo do Rio Abaixo;35935000
+MG;São Gonçalo do Rio Preto;39185000
+MG;São Gonçalo do Sapucaí;37490000
+MG;São Gotardo;38800000
+MG;São João Batista do Glória;37920000
+MG;São João da Lagoa;39355000
+MG;São João da Mata;37568000
+MG;São João da Ponte;39430000
+MG;São João das Missões;39475000
+MG;São João Del Rei;36300001
+MG;São João Del Rei;36300001
+MG;São João do Manhuaçu;36918000
+MG;São João do Manteninha;35277000
+MG;São João do Oriente;35146000
+MG;São João do Pacuí;39365000
+MG;São João do Paraíso;39540000
+MG;São João Evangelista;39704000
+MG;São João Nepomuceno;36680000
+MG;São Joaquim de Bicas;32920000
+MG;São José da Barra;37945000
+MG;São José da Lapa;33350000
+MG;São José da Safira;39785000
+MG;São José da Varginha;35694000
+MG;São José do Alegre;37510000
+MG;São José do Divino;39848000
+MG;São José do Goiabal;35986000
+MG;São José do Jacuri;39707000
+MG;São José do Mantimento;36990000
+MG;São Lourenço;37470000
+MG;São Miguel do Anta;36590000
+MG;São Pedro da União;37855000
+MG;São Pedro do Suaçuí;39784000
+MG;São Pedro dos Ferros;35360000
+MG;São Romão;39290000
+MG;São Roque de Minas;37927000
+MG;São Sebastião da Bela Vista;37567000
+MG;São Sebastião da Vargem Alegre;36793000
+MG;São Sebastião do Anta;35334000
+MG;São Sebastião do Maranhão;39795000
+MG;São Sebastião do Oeste;35567000
+MG;São Sebastião do Paraíso;37950000
+MG;São Sebastião do Rio Preto;35815000
+MG;São Sebastião do Rio Verde;37467000
+MG;São Thomé das Letras;37408000
+MG;São Tiago;36350000
+MG;São Tomás de Aquino;37960000
+MG;São Vicente de Minas;37370000
+MG;Sapucaí-Mirim;37690000
+MG;Sardoá;39728000
+MG;Sarzedo;32450000
+MG;Sem Peixe;35441000
+MG;Senador Amaral;37615000
+MG;Senador Cortes;36650000
+MG;Senador Firmino;36540000
+MG;Senador José Bento;37586000
+MG;Senador Modestino Gonçalves;39190000
+MG;Senhora de Oliveira;36470000
+MG;Senhora do Porto;39745000
+MG;Senhora dos Remédios;36275000
+MG;Sericita;35368000
+MG;Seritinga;37454000
+MG;Serra Azul de Minas;39165000
+MG;Serra da Saudade;35617000
+MG;Serra do Salitre;38760000
+MG;Serra dos Aimorés;39868000
+MG;Serrania;37143000
+MG;Serranópolis de Minas;39518000
+MG;Serranos;37452000
+MG;Serro;39150000
+MG;Sete Lagoas;35700001
+MG;Sete Lagoas;35700001
+MG;Setubinha;39688000
+MG;Silveirânia;36185000
+MG;Silvianópolis;37589000
+MG;Simão Pereira;36123000
+MG;Simonésia;36930000
+MG;Sobrália;35144000
+MG;Soledade de Minas;37478000
+MG;Tabuleiro;36165000
+MG;Taiobeiras;39550000
+MG;Taparuba;36953000
+MG;Tapira;38185000
+MG;Tapiraí;38980000
+MG;Taquaraçu de Minas;33980000
+MG;Tarumirim;35140000
+MG;Teixeiras;36580000
+MG;Teófilo Otoni;39800001
+MG;Teófilo Otoni;39800001
+MG;Timóteo;35180001
+MG;Timóteo;35180001
+MG;Tiradentes;36325000
+MG;Tiros;38880000
+MG;Tocantins;36512000
+MG;Tocos do Moji;37563000
+MG;Toledo;37630000
+MG;Tombos;36844000
+MG;Três Corações;37410001
+MG;Três Corações;37410001
+MG;Três Marias;39205000
+MG;Três Pontas;37190000
+MG;Tumiritinga;35125000
+MG;Tupaciguara;38480000
+MG;Turmalina;39660000
+MG;Turvolândia;37496000
+MG;Ubá;36500000
+MG;Ubá;36500001
+MG;Ubaí;39320000
+MG;Ubaporanga;35338000
+MG;Uberaba;38000001
+MG;Uberaba;38000001
+MG;Uberlândia;38400001
+MG;Uberlândia;38400001
+MG;Umburatiba;39878000
+MG;Unaí;38610000
+MG;União de Minas;38288000
+MG;Uruana de Minas;38630000
+MG;Urucânia;35380000
+MG;Urucuia;38649000
+MG;Vargem Alegre;35199000
+MG;Vargem Bonita;37922000
+MG;Vargem Grande do Rio Pardo;39535000
+MG;Varginha;37000001
+MG;Varginha;37000001
+MG;Varjão de Minas;38794000
+MG;Várzea da Palma;39260000
+MG;Varzelândia;39450000
+MG;Vazante;38780000
+MG;Verdelândia;39458000
+MG;Veredinha;39663000
+MG;Veríssimo;38150000
+MG;Vermelho Novo;35359000
+MG;Vespasiano;33200000
+MG;Viçosa;36570001
+MG;Viçosa;36570001
+MG;Vieiras;36895000
+MG;Virgem da Lapa;39630000
+MG;Virgínia;37465000
+MG;Virginópolis;39730000
+MG;Virgolândia;39715000
+MG;Visconde do Rio Branco;36520000
+MG;Volta Grande;36720000
+MG;Wenceslau Braz;37512000
+MS;Água Clara;79680000
+MS;Alcinópolis;79530000
+MS;Amambaí;79990000
+MS;Anastácio;79210000
+MS;Anaurilândia;79770000
+MS;Angélica;79785000
+MS;Antônio João;79910000
+MS;Aparecida do Taboado;79570000
+MS;Aquidauana;79200000
+MS;Aral Moreira;79930000
+MS;Bandeirantes;79430000
+MS;Bataguassu;79780000
+MS;Batayporã;79760000
+MS;Bela Vista;79260000
+MS;Bodoquena;79390000
+MS;Bonito;79290000
+MS;Brasilândia;79670000
+MS;Caarapó;79940000
+MS;Camapuã;79420000
+MS;Campo Grande;79000001
+MS;Campo Grande;79000001
+MS;Caracol;79270000
+MS;Cassilândia;79540000
+MS;Chapadão do Sul;79560000
+MS;Corguinho;79460000
+MS;Coronel Sapucaia;79995000
+MS;Corumbá;79300001
+MS;Corumbá;79300001
+MS;Costa Rica;79550000
+MS;Coxim;79400000
+MS;Deodápolis;79790000
+MS;Dois Irmãos do Buriti;79215000
+MS;Douradina;79880000
+MS;Dourados;79800001
+MS;Dourados;79800001
+MS;Eldorado;79970000
+MS;Fátima do Sul;79700000
+MS;Figueirão;79428000
+MS;Glória de Dourados;79730000
+MS;Guia Lopes da Laguna;79230000
+MS;Iguatemi;79960000
+MS;Inocência;79580000
+MS;Itaporã;79890000
+MS;Itaquiraí;79965000
+MS;Ivinhema;79740000
+MS;Japorã;79985000
+MS;Jaraguari;79440000
+MS;Jardim;79240000
+MS;Jateí;79720000
+MS;Jutí;79955000
+MS;Ladário;79370000
+MS;Laguna Carapã;79920000
+MS;Maracaju;79150000
+MS;Miranda;79380000
+MS;Mundo Novo;79980000
+MS;Naviraí;79950000
+MS;Nioaque;79220000
+MS;Nova Alvorada do Sul;79140000
+MS;Nova Andradina;79750000
+MS;Novo Horizonte do Sul;79745000
+MS;Paraíso das Águas;79556000
+MS;Paranaíba;79500000
+MS;Paranhos;79925000
+MS;Pedro Gomes;79410000
+MS;Ponta Porã;79900001
+MS;Ponta Porã;79900001
+MS;Porto Murtinho;79280000
+MS;Ribas do Rio Pardo;79180000
+MS;Rio Brilhante;79130000
+MS;Rio Negro;79470000
+MS;Rio Verde de Mato Grosso;79480000
+MS;Rochedo;79450000
+MS;Santa Rita do Pardo;79690000
+MS;São Gabriel do Oeste;79490000
+MS;Selvíria;79590000
+MS;Sete Quedas;79935000
+MS;Sidrolândia;79170000
+MS;Sonora;79415000
+MS;Tacuru;79975000
+MS;Taquarussu;79765000
+MS;Terenos;79190000
+MS;Três Lagoas;79600001
+MS;Três Lagoas;79600001
+MS;Vicentina;79710000
+MT;Acorizal;78480000
+MT;Água Boa;78635000
+MT;Alta Floresta;78580000
+MT;Alto Araguaia;78780000
+MT;Alto Boa Vista;78665000
+MT;Alto Garças;78770000
+MT;Alto Paraguai;78410000
+MT;Alto Taquari;78785000
+MT;Apiacás;78595000
+MT;Araguaiana;78685000
+MT;Araguainha;78615000
+MT;Araputanga;78260000
+MT;Arenápolis;78420000
+MT;Aripuanã;78325000
+MT;Barão de Melgaço;78190000
+MT;Barra do Bugres;78390000
+MT;Barra do Garças;78600000
+MT;Bom Jesus do Araguaia;78678000
+MT;Brasnorte;78350000
+MT;Cáceres;78200000
+MT;Campinápolis;78630000
+MT;Campo Novo do Parecis;78360000
+MT;Campo Verde;78840000
+MT;Campos de Júlio;78307000
+MT;Canabrava do Norte;78658000
+MT;Canarana;78640000
+MT;Carlinda;78587000
+MT;Castanheira;78345000
+MT;Chapada dos Guimarães;78195000
+MT;Cláudia;78540000
+MT;Cocalinho;78680000
+MT;Colíder;78500000
+MT;Colniza;78335000
+MT;Comodoro;78310000
+MT;Confresa;78652000
+MT;Conquista D'Oeste;78254000
+MT;Cotriguaçu;78330000
+MT;Cuiabá;78000001
+MT;Cuiabá;78000001
+MT;Curvelândia;78237000
+MT;Denise;78380000
+MT;Diamantino;78400000
+MT;Dom Aquino;78830000
+MT;Feliz Natal;78885000
+MT;Figueirópolis D'Oeste;78290000
+MT;Gaúcha do Norte;78875000
+MT;General Carneiro;78620000
+MT;Glória D'Oeste;78293000
+MT;Guarantã do Norte;78520000
+MT;Guiratinga;78760000
+MT;Indiavaí;78295000
+MT;Ipiranga do Norte;78578000
+MT;Itanhangá;78579000
+MT;Itaúba;78510000
+MT;Itiquira;78790000
+MT;Jaciara;78820000
+MT;Jangada;78490000
+MT;Jauru;78255000
+MT;Juara;78575000
+MT;Juína;78320000
+MT;Juruena;78340000
+MT;Juscimeira;78810000
+MT;Lambari D'Oeste;78278000
+MT;Lucas do Rio Verde;78455000
+MT;Luciara;78660000
+MT;Marcelândia;78535000
+MT;Matupá;78525000
+MT;Mirassol D'Oeste;78280000
+MT;Nobres;78460000
+MT;Nortelândia;78430000
+MT;Nossa Senhora do Livramento;78170000
+MT;Nova Bandeirantes;78565000
+MT;Nova Brasilândia;78860000
+MT;Nova Canaã do Norte;78515000
+MT;Nova Guarita;78508000
+MT;Nova Lacerda;78243000
+MT;Nova Marilândia;78415000
+MT;Nova Maringá;78445000
+MT;Nova Monte Verde;78593000
+MT;Nova Mutum;78450000
+MT;Nova Nazaré;78638000
+MT;Nova Olímpia;78370000
+MT;Nova Santa Helena;78548000
+MT;Nova Ubiratã;78888000
+MT;Nova Xavantina;78690000
+MT;Novo Horizonte do Norte;78570000
+MT;Novo Mundo;78528000
+MT;Novo Santo Antônio;78674000
+MT;Novo São Joaquim;78625000
+MT;Paranaitá;78590000
+MT;Paranatinga;78870000
+MT;Pedra Preta;78795000
+MT;Peixoto de Azevedo;78530000
+MT;Planalto da Serra;78855000
+MT;Poconé;78175000
+MT;Pontal do Araguaia;78698000
+MT;Ponte Branca;78610000
+MT;Pontes e Lacerda;78250000
+MT;Porto Alegre do Norte;78655000
+MT;Porto dos Gaúchos;78560000
+MT;Porto Esperidião;78240000
+MT;Porto Estrela;78398000
+MT;Poxoréu;78800000
+MT;Primavera do Leste;78850000
+MT;Querência;78643000
+MT;Reserva do Cabaçal;78265000
+MT;Ribeirão Cascalheira;78675000
+MT;Ribeirãozinho;78613000
+MT;Rio Branco;78275000
+MT;Rondolândia;78338000
+MT;Rondonópolis;78700001
+MT;Rondonópolis;78700001
+MT;Rosário Oeste;78470000
+MT;Salto do Céu;78270000
+MT;Santa Carmem;78545000
+MT;Santa Cruz do Xingu;78664000
+MT;Santa Rita do Trivelato;78453000
+MT;Santa Terezinha;78650000
+MT;Santo Afonso;78425000
+MT;Santo Antônio do Leste;78628000
+MT;Santo Antônio do Leverger;78180000
+MT;São Félix do Araguaia;78670000
+MT;São José do Povo;78773000
+MT;São José do Rio Claro;78435000
+MT;São José do Xingu;78663000
+MT;São José dos Quatro Marcos;78285000
+MT;São Pedro da Cipa;78835000
+MT;Sapezal;78365000
+MT;Serra Nova Dourada;78668000
+MT;Sinop;78550001
+MT;Sinop;78550001
+MT;Sorriso;78890000
+MT;Tabaporã;78563000
+MT;Tangará da Serra;78300000
+MT;Tapurah;78573000
+MT;Terra Nova do Norte;78505000
+MT;Tesouro;78775000
+MT;Torixoréu;78695000
+MT;União do Sul;78543000
+MT;Vale de São Domingos;78253000
+MT;Várzea Grande;78110001
+MT;Várzea Grande;78110001
+MT;Vera;78880000
+MT;Vila Bela da Santíssima Trindade;78245000
+MT;Vila Rica;78645000
+PA;Abaetetuba;68440000
+PA;Abel Figueiredo;68527000
+PA;Acará;68690000
+PA;Afuá;68890000
+PA;Água Azul do Norte;68533000
+PA;Alenquer;68200000
+PA;Almeirim;68230000
+PA;Altamira;68370001
+PA;Altamira;68370001
+PA;Anajás;68810000
+PA;Ananindeua;67000001
+PA;Ananindeua;67000001
+PA;Anapu;68365000
+PA;Augusto Corrêa;68610000
+PA;Aurora do Pará;68658000
+PA;Aveiro;68150000
+PA;Bagre;68475000
+PA;Baião;68465000
+PA;Bannach;68388000
+PA;Barcarena;68445000
+PA;Belém;66000001
+PA;Belém;66000001
+PA;Belterra;68143000
+PA;Benevides;68795000
+PA;Bom Jesus do Tocantins;68525000
+PA;Bonito;68645000
+PA;Bragança;68600000
+PA;Brasil Novo;68148000
+PA;Brejo Grande do Araguaia;68521000
+PA;Breu Branco;68488000
+PA;Breves;68800000
+PA;Bujaru;68670000
+PA;Cachoeira do Arari;68840000
+PA;Cachoeira do Piriá;68617000
+PA;Cametá;68400000
+PA;Canaã dos Carajás;68537000
+PA;Capanema;68700001
+PA;Capanema;68700001
+PA;Capitão Poço;68650000
+PA;Castanhal;68740001
+PA;Castanhal;68740001
+PA;Chaves;68880000
+PA;Colares;68785000
+PA;Conceição do Araguaia;68540000
+PA;Concórdia do Pará;68685000
+PA;Cumaru do Norte;68398000
+PA;Curionópolis;68523000
+PA;Curralinho;68815000
+PA;Curuá;68210000
+PA;Curuçá;68750000
+PA;Dom Eliseu;68633000
+PA;Eldorado dos Carajás;68524000
+PA;Faro;68280000
+PA;Floresta do Araguaia;68543000
+PA;Garrafão do Norte;68665000
+PA;Goianésia do Pará;68639000
+PA;Gurupá;68300000
+PA;Igarapé-Açu;68725000
+PA;Igarapé-Miri;68430000
+PA;Inhangapi;68770000
+PA;Ipixuna do Pará;68637000
+PA;Irituia;68655000
+PA;Itaituba;68180001
+PA;Itaituba;68180001
+PA;Itupiranga;68580000
+PA;Jacareacanga;68195000
+PA;Jacundá;68590000
+PA;Juruti;68170000
+PA;Limoeiro do Ajuru;68415000
+PA;Mãe do Rio;68675000
+PA;Magalhães Barata;68722000
+PA;Marabá;68500001
+PA;Marabá;68500001
+PA;Maracanã;68710000
+PA;Marapanim;68760000
+PA;Marituba;67200000
+PA;Medicilândia;68145000
+PA;Melgaço;68490000
+PA;Mocajuba;68420000
+PA;Moju;68450000
+PA;Mojuí dos Campos;68129000
+PA;Monte Alegre;68220000
+PA;Muaná;68825000
+PA;Nova Esperança do Piriá;68618000
+PA;Nova Ipixuna;68585000
+PA;Nova Timboteua;68730000
+PA;Novo Progresso;68193000
+PA;Novo Repartimento;68473000
+PA;Óbidos;68250000
+PA;Oeiras do Pará;68470000
+PA;Oriximiná;68270000
+PA;Ourém;68640000
+PA;Ourilândia do Norte;68390000
+PA;Pacajá;68485000
+PA;Palestina do Pará;68535000
+PA;Paragominas;68625001
+PA;Paragominas;68625001
+PA;Parauapebas;68515000
+PA;Pau D'Arco;68545000
+PA;Peixe-Boi;68734000
+PA;Piçarra;68575000
+PA;Placas;68138000
+PA;Ponta de Pedras;68830000
+PA;Portel;68480000
+PA;Porto de Moz;68330000
+PA;Prainha;68130000
+PA;Primavera;68707000
+PA;Quatipuru;68709000
+PA;Redenção;68549001
+PA;Redenção;68550001
+PA;Rio Maria;68530000
+PA;Rondon do Pará;68638000
+PA;Rurópolis;68165000
+PA;Salinópolis;68721000
+PA;Salvaterra;68860000
+PA;Santa Bárbara do Pará;68798000
+PA;Santa Cruz do Arari;68850000
+PA;Santa Isabel do Pará;68790000
+PA;Santa Luzia do Pará;68644000
+PA;Santa Maria das Barreiras;68565000
+PA;Santa Maria do Pará;68738000
+PA;Santana do Araguaia;68560000
+PA;Santarém;68000001
+PA;Santarém;68000001
+PA;Santarém Novo;68720000
+PA;Santo Antônio do Tauá;68786000
+PA;São Caetano de Odivelas;68775000
+PA;São Domingos do Araguaia;68520000
+PA;São Domingos do Capim;68635000
+PA;São Félix do Xingu;68380000
+PA;São Francisco do Pará;68748000
+PA;São Geraldo do Araguaia;68570000
+PA;São João da Ponta;68774000
+PA;São João de Pirabas;68719000
+PA;São João do Araguaia;68518000
+PA;São Miguel do Guamá;68660000
+PA;São Sebastião da Boa Vista;68820000
+PA;Sapucaia;68548000
+PA;Senador José Porfírio;68360000
+PA;Soure;68870000
+PA;Tailândia;68695000
+PA;Terra Alta;68773000
+PA;Terra Santa;68285000
+PA;Tomé-Açu;68680000
+PA;Tracuateua;68647000
+PA;Trairão;68198000
+PA;Tucumã;68385000
+PA;Tucuruí;68455001
+PA;Tucuruí;68455001
+PA;Ulianópolis;68632000
+PA;Uruará;68140000
+PA;Vigia;68780000
+PA;Viseu;68620000
+PA;Vitória do Xingu;68383000
+PA;Xinguara;68555001
+PA;Xinguara;68555001
+PB;Água Branca;58748000
+PB;Aguiar;58778000
+PB;Alagoa Grande;58388000
+PB;Alagoa Nova;58125000
+PB;Alagoinha;58390000
+PB;Alcantil;58460000
+PB;Algodão de Jandaíra;58399000
+PB;Alhandra;58320000
+PB;Amparo;58548000
+PB;Aparecida;58823000
+PB;Araçagi;58270000
+PB;Arara;58396000
+PB;Araruna;58233000
+PB;Areia;58397000
+PB;Areia de Baraúnas;58732000
+PB;Areial;58140000
+PB;Aroeiras;58489000
+PB;Assunção;58685000
+PB;Baía da Traição;58295000
+PB;Bananeiras;58220000
+PB;Baraúna;58188000
+PB;Barra de Santa Rosa;58170000
+PB;Barra de Santana;58458000
+PB;Barra de São Miguel;58483000
+PB;Bayeux;58305001
+PB;Bayeux;58305001
+PB;Belém;58255000
+PB;Belém do Brejo do Cruz;58895000
+PB;Bernardino Batista;58922000
+PB;Boa Ventura;58993000
+PB;Boa Vista;58123000
+PB;Bom Jesus;58930000
+PB;Bom Sucesso;58887000
+PB;Bonito de Santa Fé;58960000
+PB;Boqueirão;58450000
+PB;Borborema;58394000
+PB;Brejo do Cruz;58890000
+PB;Brejo dos Santos;58880000
+PB;Caaporã;58326000
+PB;Cabaceiras;58480000
+PB;Cabedelo;58100001
+PB;Cabedelo;58100001
+PB;Cachoeira dos Índios;58935000
+PB;Cacimba de Areia;58730000
+PB;Cacimba de Dentro;58230000
+PB;Cacimbas;58698000
+PB;Caiçara;58253000
+PB;Cajazeiras;58900000
+PB;Cajazeirinhas;58855000
+PB;Caldas Brandão;58350000
+PB;Camalaú;58530000
+PB;Campina Grande;58400001
+PB;Campina Grande;58400001
+PB;Capim;58287000
+PB;Caraúbas;58595000
+PB;Carrapateira;58945000
+PB;Casserengue;58238000
+PB;Catingueira;58715000
+PB;Catolé do Rocha;58884000
+PB;Caturité;58455000
+PB;Conceição;58970000
+PB;Condado;58714000
+PB;Conde;58322000
+PB;Congo;58535000
+PB;Coremas;58770000
+PB;Coxixola;58588000
+PB;Cruz do Espírito Santo;58337000
+PB;Cubati;58167000
+PB;Cuité;58175000
+PB;Cuité de Mamanguape;58289000
+PB;Cuitegi;58208000
+PB;Curral de Cima;58291000
+PB;Curral Velho;58990000
+PB;Damião;58173000
+PB;Desterro;58695000
+PB;Diamante;58994000
+PB;Dona Inês;58228000
+PB;Duas Estradas;58265000
+PB;Emas;58763000
+PB;Esperança;58135000
+PB;Fagundes;58487000
+PB;Frei Martinho;58195000
+PB;Gado Bravo;58492000
+PB;Guarabira;58200000
+PB;Gurinhém;58356000
+PB;Gurjão;58670000
+PB;Ibiara;58980000
+PB;Igaracy;58775000
+PB;Imaculada;58745000
+PB;Ingá;58380000
+PB;Itabaiana;58360000
+PB;Itaporanga;58780000
+PB;Itapororoca;58275000
+PB;Itatuba;58378000
+PB;Jacaraú;58278000
+PB;Jericó;58830000
+PB;João Pessoa;58000001
+PB;João Pessoa;58000001
+PB;Joca Claudino;58928000
+PB;Juarez Távora;58387000
+PB;Juazeirinho;58660000
+PB;Junco do Seridó;58640000
+PB;Juripiranga;58330000
+PB;Juru;58750000
+PB;Lagoa;58835000
+PB;Lagoa de Dentro;58250000
+PB;Lagoa Seca;58117000
+PB;Lastro;58820000
+PB;Livramento;58690000
+PB;Logradouro;58254000
+PB;Lucena;58315000
+PB;Mãe D'Água;58740000
+PB;Malta;58713000
+PB;Mamanguape;58280000
+PB;Manaíra;58995000
+PB;Marcação;58294000
+PB;Mari;58345000
+PB;Marizópolis;58819000
+PB;Massaranduba;58120000
+PB;Mataraca;58292000
+PB;Matinhas;58128000
+PB;Mato Grosso;58832000
+PB;Maturéia;58737000
+PB;Mogeiro;58375000
+PB;Montadas;58145000
+PB;Monte Horebe;58950000
+PB;Monteiro;58500000
+PB;Mulungu;58354000
+PB;Natuba;58494000
+PB;Nazarezinho;58817000
+PB;Nova Floresta;58178000
+PB;Nova Olinda;58798000
+PB;Nova Palmeira;58184000
+PB;Olho D'Água;58760000
+PB;Olivedos;58160000
+PB;Ouro Velho;58560000
+PB;Parari;58575000
+PB;Passagem;58734000
+PB;Patos;58700001
+PB;Patos;58700001
+PB;Paulista;58860000
+PB;Pedra Branca;58790000
+PB;Pedra Lavrada;58180000
+PB;Pedras de Fogo;58328000
+PB;Pedro Régis;58273000
+PB;Piancó;58765000
+PB;Picuí;58187000
+PB;Pilar;58338000
+PB;Pilões;58393000
+PB;Pilõezinhos;58210000
+PB;Pirpirituba;58213000
+PB;Pitimbu;58324000
+PB;Pocinhos;58150000
+PB;Poço Dantas;58933000
+PB;Poço de José de Moura;58908000
+PB;Pombal;58840000
+PB;Prata;58550000
+PB;Princesa Isabel;58755000
+PB;Puxinanã;58115000
+PB;Queimadas;58470000
+PB;Quixabá;58733000
+PB;Remígio;58398000
+PB;Riachão;58235000
+PB;Riachão do Bacamarte;58382000
+PB;Riachão do Poço;58348000
+PB;Riacho de Santo Antônio;58465000
+PB;Riacho dos Cavalos;58870000
+PB;Rio Tinto;58297000
+PB;Salgadinho;58650000
+PB;Salgado de São Félix;58370000
+PB;Santa Cecília;58463000
+PB;Santa Cruz;58824000
+PB;Santa Helena;58925000
+PB;Santa Inês;58978000
+PB;Santa Luzia;58600000
+PB;Santa Rita;58300001
+PB;Santa Rita;58300001
+PB;Santa Teresinha;58720000
+PB;Santana de Mangueira;58985000
+PB;Santana dos Garrotes;58795000
+PB;Santo André;58675000
+PB;São Bentinho;58857000
+PB;São Bento;58865000
+PB;São Domingos;58853000
+PB;São Domingos do Cariri;58485000
+PB;São Francisco;58818000
+PB;São João do Cariri;58590000
+PB;São João do Rio do Peixe;58910000
+PB;São João do Tigre;58520000
+PB;São José da Lagoa Tapada;58815000
+PB;São José de Caiana;58784000
+PB;São José de Espinharas;58723000
+PB;São José de Piranhas;58940000
+PB;São José de Princesa;58758000
+PB;São José do Bonfim;58725000
+PB;São José do Brejo do Cruz;58893000
+PB;São José do Sabugi;58610000
+PB;São José dos Cordeiros;58570000
+PB;São José dos Ramos;58339000
+PB;São Mamede;58625000
+PB;São Miguel de Taipu;58334000
+PB;São Sebastião de Lagoa de Roça;58119000
+PB;São Sebastião do Umbuzeiro;58510000
+PB;São Vicente do Seridó;58158000
+PB;Sapé;58340000
+PB;Serra Branca;58580000
+PB;Serra da Raiz;58260000
+PB;Serra Grande;58955000
+PB;Serra Redonda;58385000
+PB;Serraria;58395000
+PB;Sertãozinho;58268000
+PB;Sobrado;58342000
+PB;Solânea;58225000
+PB;Soledade;58155000
+PB;Sossego;58177000
+PB;Sousa;58800001
+PB;Sousa;58800001
+PB;Sumé;58540000
+PB;Tacima;58240000
+PB;Taperoá;58680000
+PB;Tavares;58753000
+PB;Teixeira;58735000
+PB;Tenório;58665000
+PB;Triunfo;58920000
+PB;Uiraúna;58915000
+PB;Umbuzeiro;58497000
+PB;Várzea;58620000
+PB;Vieirópolis;58822000
+PB;Vista Serrana;58710000
+PB;Zabelê;58515000
+PE;Abreu e Lima;53500001
+PE;Abreu e Lima;53500001
+PE;Afogados da Ingazeira;56800000
+PE;Afrânio;56360000
+PE;Agrestina;55495000
+PE;Água Preta;55550000
+PE;Águas Belas;55340000
+PE;Alagoinha;55260000
+PE;Aliança;55890000
+PE;Altinho;55490000
+PE;Amaraji;55515000
+PE;Angelim;55430000
+PE;Araçoiaba;53690000
+PE;Araripina;56280000
+PE;Arcoverde;56500001
+PE;Arcoverde;56500001
+PE;Barra de Guabiraba;55690000
+PE;Barreiros;55560000
+PE;Belém de Maria;55440000
+PE;Belém do São Francisco;56440000
+PE;Belo Jardim;55150001
+PE;Belo Jardim;55150001
+PE;Betânia;56670000
+PE;Bezerros;55660000
+PE;Bodocó;56220000
+PE;Bom Conselho;55330000
+PE;Bom Jardim;55730000
+PE;Bonito;55680000
+PE;Brejão;55325000
+PE;Brejinho;56740000
+PE;Brejo da Madre de Deus;55170000
+PE;Buenos Aires;55845000
+PE;Buíque;56520000
+PE;Cabo de Santo Agostinho;54500001
+PE;Cabo de Santo Agostinho;54500001
+PE;Cabrobó;56180000
+PE;Cachoeirinha;55380000
+PE;Caetés;55360000
+PE;Calçado;55375000
+PE;Calumbi;56930000
+PE;Camaragibe;54750001
+PE;Camaragibe;54750001
+PE;Camocim de São Félix;55665000
+PE;Camutanga;55930000
+PE;Canhotinho;55420000
+PE;Capoeiras;55365000
+PE;Carnaíba;56820000
+PE;Carnaubeira da Penha;56420000
+PE;Carpina;55810001
+PE;Carpina;55810001
+PE;Caruaru;55000001
+PE;Caruaru;55000001
+PE;Casinhas;55755000
+PE;Catende;55400000
+PE;Cedro;56130000
+PE;Chã de Alegria;55835000
+PE;Chã Grande;55636000
+PE;Condado;55940000
+PE;Correntes;55315000
+PE;Cortês;55525000
+PE;Cumaru;55655000
+PE;Cupira;55460000
+PE;Custódia;56640000
+PE;Dormentes;56355000
+PE;Escada;55500000
+PE;Exu;56230000
+PE;Feira Nova;55715000
+PE;Fernando de Noronha;53990000
+PE;Ferreiros;55880000
+PE;Flores;56850000
+PE;Floresta;56400000
+PE;Frei Miguelinho;55780000
+PE;Gameleira;55530000
+PE;Garanhuns;55290001
+PE;Garanhuns;55290001
+PE;Glória do Goitá;55620000
+PE;Goiana;55900000
+PE;Granito;56160000
+PE;Gravatá;55640001
+PE;Gravatá;55640001
+PE;Iati;55345000
+PE;Ibimirim;56580000
+PE;Ibirajuba;55390000
+PE;Igarassu;53600001
+PE;Igarassu;53600001
+PE;Iguaraci;56840000
+PE;Ilha de Itamaracá;53900000
+PE;Inajá;56560000
+PE;Ingazeira;56830000
+PE;Ipojuca;55590000
+PE;Ipubi;56260000
+PE;Itacuruba;56430000
+PE;Itaíba;56550000
+PE;Itambé;55920000
+PE;Itapetim;56720000
+PE;Itapissuma;53700000
+PE;Itaquitinga;55950000
+PE;Jaboatão dos Guararapes;54000001
+PE;Jaboatão dos Guararapes;54000001
+PE;Jaqueira;55409000
+PE;Jataúba;55180000
+PE;Jatobá;56470000
+PE;João Alfredo;55720000
+PE;Joaquim Nabuco;55535000
+PE;Jucati;55398000
+PE;Jupi;55395000
+PE;Jurema;55480000
+PE;Lagoa do Carro;55820000
+PE;Lagoa do Itaenga;55840000
+PE;Lagoa do Ouro;55320000
+PE;Lagoa dos Gatos;55450000
+PE;Lagoa Grande;56395000
+PE;Lajedo;55385000
+PE;Limoeiro;55700000
+PE;Macaparana;55865000
+PE;Machados;55740000
+PE;Manari;56565000
+PE;Maraial;55405000
+PE;Mirandiba;56980000
+PE;Moreilândia;56150000
+PE;Moreno;54800000
+PE;Nazaré da Mata;55800000
+PE;Olinda;53000001
+PE;Olinda;53000001
+PE;Orobó;55745000
+PE;Orocó;56170000
+PE;Ouricuri;56200000
+PE;Palmares;55540000
+PE;Palmeirina;55310000
+PE;Panelas;55470000
+PE;Paranatama;55355000
+PE;Parnamirim;56163000
+PE;Passira;55650000
+PE;Paudalho;55825000
+PE;Paulista;53400001
+PE;Paulista;53400001
+PE;Pedra;55280000
+PE;Pesqueira;55200000
+PE;Petrolândia;56460000
+PE;Petrolina;56300001
+PE;Petrolina;56300001
+PE;Poção;55240000
+PE;Pombos;55630000
+PE;Primavera;55510000
+PE;Quipapá;55415000
+PE;Quixabá;56828000
+PE;Recife;50000001
+PE;Recife;50000001
+PE;Riacho das Almas;55120000
+PE;Ribeirão;55520000
+PE;Rio Formoso;55570000
+PE;Sairé;55695000
+PE;Salgadinho;55675000
+PE;Salgueiro;56000000
+PE;Saloá;55350000
+PE;Sanharó;55250000
+PE;Santa Cruz;56215000
+PE;Santa Cruz da Baixa Verde;56895000
+PE;Santa Cruz do Capibaribe;55190001
+PE;Santa Cruz do Capibaribe;55190001
+PE;Santa Filomena;56210000
+PE;Santa Maria da Boa Vista;56380000
+PE;Santa Maria do Cambucá;55765000
+PE;Santa Terezinha;56750000
+PE;São Benedito do Sul;55410000
+PE;São Bento do Una;55370000
+PE;São Caitano;55130000
+PE;São João;55435000
+PE;São Joaquim do Monte;55670000
+PE;São José da Coroa Grande;55565000
+PE;São José do Belmonte;56950000
+PE;São José do Egito;56700000
+PE;São Lourenço da Mata;54700001
+PE;São Lourenço da Mata;54700001
+PE;São Vicente Ferrer;55860000
+PE;Serra Talhada;56900001
+PE;Serra Talhada;56900001
+PE;Serrita;56140000
+PE;Sertânia;56600000
+PE;Sirinhaém;55580000
+PE;Solidão;56795000
+PE;Surubim;55750000
+PE;Tabira;56780000
+PE;Tacaimbó;55140000
+PE;Tacaratu;56480000
+PE;Tamandaré;55578000
+PE;Taquaritinga do Norte;55790000
+PE;Terezinha;55305000
+PE;Terra Nova;56190000
+PE;Timbaúba;55870000
+PE;Toritama;55125000
+PE;Tracunhaém;55805000
+PE;Trindade;56250000
+PE;Triunfo;56870000
+PE;Tupanatinga;56540000
+PE;Tuparetama;56760000
+PE;Venturosa;55270000
+PE;Verdejante;56120000
+PE;Vertente do Lério;55760000
+PE;Vertentes;55770000
+PE;Vicência;55850000
+PE;Vitória de Santo Antão;55600001
+PE;Vitória de Santo Antão;55600001
+PE;Xexéu;55555000
+PI;Acauã;64748000
+PI;Agricolândia;64440000
+PI;Água Branca;64460000
+PI;Alagoinha do Piauí;64655000
+PI;Alegrete do Piauí;64675000
+PI;Alto Longá;64360000
+PI;Altos;64290000
+PI;Alvorada do Gurguéia;64923000
+PI;Amarante;64400000
+PI;Angical do Piauí;64410000
+PI;Anísio de Abreu;64780000
+PI;Antônio Almeida;64855000
+PI;Aroazes;64310000
+PI;Aroeiras do Itaim;64612000
+PI;Arraial;64480000
+PI;Assunção do Piauí;64333000
+PI;Avelino Lopes;64965000
+PI;Baixa Grande do Ribeiro;64868000
+PI;Barra D'Alcântara;64528000
+PI;Barras;64100000
+PI;Barreiras do Piauí;64990000
+PI;Barro Duro;64455000
+PI;Batalha;64190000
+PI;Bela Vista do Piauí;64705000
+PI;Belém do Piauí;64678000
+PI;Beneditinos;64380000
+PI;Bertolínia;64870000
+PI;Betânia do Piauí;64753000
+PI;Boa Hora;64108000
+PI;Bocaina;64630000
+PI;Bom Jesus;64900000
+PI;Bom Princípio do Piauí;64225000
+PI;Bonfim do Piauí;64775000
+PI;Boqueirão do Piauí;64283000
+PI;Brasileira;64265000
+PI;Brejo do Piauí;64895000
+PI;Buriti dos Lopes;64230000
+PI;Buriti dos Montes;64345000
+PI;Cabeceiras do Piauí;64105000
+PI;Cajazeiras do Piauí;64514000
+PI;Cajueiro da Praia;64222000
+PI;Caldeirão Grande do Piauí;64695000
+PI;Campinas do Piauí;64730000
+PI;Campo Alegre do Fidalgo;64767000
+PI;Campo Grande do Piauí;64578000
+PI;Campo Largo do Piauí;64148000
+PI;Campo Maior;64280000
+PI;Canavieira;64833000
+PI;Canto do Buriti;64890000
+PI;Capitão de Campos;64270000
+PI;Capitão Gervásio Oliveira;64763000
+PI;Caracol;64795000
+PI;Caraúbas do Piauí;64233000
+PI;Caridade do Piauí;64590000
+PI;Castelo do Piauí;64340000
+PI;Caxingó;64228000
+PI;Cocal;64235000
+PI;Cocal de Telha;64278000
+PI;Cocal dos Alves;64238000
+PI;Coivaras;64335000
+PI;Colônia do Gurguéia;64885000
+PI;Colônia do Piauí;64516000
+PI;Conceição do Canindé;64740000
+PI;Coronel José Dias;64793000
+PI;Corrente;64980000
+PI;Cristalândia do Piauí;64995000
+PI;Cristino Castro;64920000
+PI;Curimatá;64960000
+PI;Currais;64905000
+PI;Curral Novo do Piauí;64595000
+PI;Curralinhos;64453000
+PI;Demerval Lobão;64390000
+PI;Dirceu Arcoverde;64785000
+PI;Dom Expedito Lopes;64620000
+PI;Dom Inocêncio;64790000
+PI;Domingos Mourão;64250000
+PI;Elesbão Veloso;64325000
+PI;Eliseu Martins;64880000
+PI;Esperantina;64180000
+PI;Fartura do Piauí;64788000
+PI;Flores do Piauí;64815000
+PI;Floresta do Piauí;64563000
+PI;Floriano;64800001
+PI;Floriano;64800001
+PI;Francinópolis;64520000
+PI;Francisco Ayres;64475000
+PI;Francisco Macedo;64683000
+PI;Francisco Santos;64645000
+PI;Fronteiras;64690000
+PI;Geminiano;64613000
+PI;Gilbués;64930000
+PI;Guadalupe;64840000
+PI;Guaribas;64798000
+PI;Hugo Napoleão;64470000
+PI;Ilha Grande;64224000
+PI;Inhuma;64535000
+PI;Ipiranga do Piauí;64540000
+PI;Isaías Coelho;64570000
+PI;Itainópolis;64565000
+PI;Itaueira;64820000
+PI;Jacobina do Piauí;64755000
+PI;Jaicós;64575000
+PI;Jardim do Mulato;64495000
+PI;Jatobá do Piauí;64275000
+PI;Jerumenha;64830000
+PI;João Costa;64765000
+PI;Joaquim Pires;64170000
+PI;Joca Marques;64165000
+PI;José de Freitas;64110000
+PI;Juazeiro do Piauí;64343000
+PI;Júlio Borges;64963000
+PI;Jurema;64782000
+PI;Lagoa Alegre;64138000
+PI;Lagoa de São Francisco;64258000
+PI;Lagoa do Barro do Piauí;64768000
+PI;Lagoa do Piauí;64388000
+PI;Lagoa do Sítio;64308000
+PI;Lagoinha do Piauí;64465000
+PI;Landri Sales;64850000
+PI;Luís Correia;64220000
+PI;Luzilândia;64160000
+PI;Madeiro;64168000
+PI;Manoel Emídio;64875000
+PI;Marcolândia;64685000
+PI;Marcos Parente;64845000
+PI;Massapê do Piauí;64573000
+PI;Matias Olímpio;64150000
+PI;Miguel Alves;64130000
+PI;Miguel Leão;64445000
+PI;Milton Brandão;64253000
+PI;Monsenhor Gil;64450000
+PI;Monsenhor Hipólito;64650000
+PI;Monte Alegre do Piauí;64940000
+PI;Morro Cabeça no Tempo;64968000
+PI;Morro do Chapéu do Piauí;64178000
+PI;Murici dos Portelas;64175000
+PI;Nazaré do Piauí;64825000
+PI;Nazária;64415000
+PI;Nossa Senhora de Nazaré;64288000
+PI;Nossa Senhora dos Remédios;64140000
+PI;Nova Santa Rita;64764000
+PI;Novo Oriente do Piauí;64530000
+PI;Novo Santo Antônio;64365000
+PI;Oeiras;64500000
+PI;Olho D'Água do Piauí;64468000
+PI;Padre Marcos;64680000
+PI;Paes Landim;64710000
+PI;Pajeú do Piauí;64898000
+PI;Palmeira do Piauí;64925000
+PI;Palmeirais;64420000
+PI;Paquetá;64618000
+PI;Parnaguá;64970000
+PI;Parnaíba;64200001
+PI;Parnaíba;64200001
+PI;Passagem Franca do Piauí;64395000
+PI;Patos do Piauí;64580000
+PI;Pau D'Arco do Piauí;64295000
+PI;Paulistana;64750000
+PI;Pavussu;64838000
+PI;Pedro II;64255000
+PI;Pedro Laurentino;64728000
+PI;Picos;64600001
+PI;Picos;64600001
+PI;Pimenteiras;64320000
+PI;Pio IX;64660000
+PI;Piracuruca;64240000
+PI;Piripiri;64260000
+PI;Porto;64145000
+PI;Porto Alegre do Piauí;64858000
+PI;Prata do Piauí;64370000
+PI;Queimada Nova;64758000
+PI;Redenção do Gurguéia;64915000
+PI;Regeneração;64490000
+PI;Riacho Frio;64975000
+PI;Ribeira do Piauí;64725000
+PI;Ribeiro Gonçalves;64865000
+PI;Rio Grande do Piauí;64835000
+PI;Santa Cruz do Piauí;64545000
+PI;Santa Cruz dos Milagres;64315000
+PI;Santa Filomena;64945000
+PI;Santa Luz;64910000
+PI;Santa Rosa do Piauí;64518000
+PI;Santana do Piauí;64615000
+PI;Santo Antônio de Lisboa;64640000
+PI;Santo Antônio dos Milagres;64438000
+PI;Santo Inácio do Piauí;64560000
+PI;São Braz do Piauí;64783000
+PI;São Félix do Piauí;64375000
+PI;São Francisco de Assis do Piauí;64745000
+PI;São Francisco do Piauí;64550000
+PI;São Gonçalo do Gurguéia;64993000
+PI;São Gonçalo do Piauí;64435000
+PI;São João da Canabrava;64635000
+PI;São João da Fronteira;64243000
+PI;São João da Serra;64350000
+PI;São João da Varjota;64510000
+PI;São João do Arraial;64155000
+PI;São João do Piauí;64760000
+PI;São José do Divino;64245000
+PI;São José do Peixe;64555000
+PI;São José do Piauí;64625000
+PI;São Julião;64670000
+PI;São Lourenço do Piauí;64778000
+PI;São Luís do Piauí;64638000
+PI;São Miguel da Baixa Grande;64378000
+PI;São Miguel do Fidalgo;64558000
+PI;São Miguel do Tapuio;64330000
+PI;São Pedro do Piauí;64430000
+PI;São Raimundo Nonato;64770000
+PI;Sebastião Barros;64985000
+PI;Sebastião Leal;64873000
+PI;Sigefredo Pacheco;64285000
+PI;Simões;64585000
+PI;Simplício Mendes;64700000
+PI;Socorro do Piauí;64720000
+PI;Sussuapara;64610000
+PI;Tamboril do Piauí;64893000
+PI;Tanque do Piauí;64512000
+PI;Teresina;64000001
+PI;Teresina;64000001
+PI;União;64120000
+PI;Uruçuí;64860000
+PI;Valença do Piauí;64300000
+PI;Várzea Branca;64773000
+PI;Várzea Grande;64525000
+PI;Vera Mendes;64568000
+PI;Vila Nova do Piauí;64688000
+PI;Wall Ferraz;64548000
+PR;Abatiá;86460000
+PR;Adrianópolis;83490000
+PR;Agudos do Sul;83850000
+PR;Almirante Tamandaré;83500001
+PR;Almirante Tamandaré;83500001
+PR;Altamira do Paraná;85280000
+PR;Alto Paraíso;87528000
+PR;Alto Paraná;87750000
+PR;Alto Piquiri;87580000
+PR;Altônia;87550000
+PR;Alvorada do Sul;86150000
+PR;Amaporã;87850000
+PR;Ampére;85640000
+PR;Anahy;85425000
+PR;Andirá;86380000
+PR;Ângulo;86755000
+PR;Antonina;83370000
+PR;Antônio Olinto;83980000
+PR;Apucarana;86800001
+PR;Apucarana;86800001
+PR;Arapongas;86700001
+PR;Arapongas;86700001
+PR;Arapoti;84990000
+PR;Arapuã;86884000
+PR;Araruna;87260000
+PR;Araucária;83700001
+PR;Araucária;83700001
+PR;Ariranha do Ivaí;86880000
+PR;Assaí;86220000
+PR;Assis Chateaubriand;85935000
+PR;Astorga;86730000
+PR;Atalaia;87630000
+PR;Balsa Nova;83650000
+PR;Bandeirantes;86360000
+PR;Barbosa Ferraz;86960000
+PR;Barra do Jacaré;86385000
+PR;Barracão;85700000
+PR;Bela Vista da Caroba;85745000
+PR;Bela Vista do Paraíso;86130000
+PR;Bituruna;84640000
+PR;Boa Esperança;87390000
+PR;Boa Esperança do Iguaçu;85680000
+PR;Boa Ventura de São Roque;85225000
+PR;Boa Vista da Aparecida;85780000
+PR;Bocaiúva do Sul;83450000
+PR;Bom Jesus do Sul;85708000
+PR;Bom Sucesso;86940000
+PR;Bom Sucesso do Sul;85515000
+PR;Borrazópolis;86925000
+PR;Braganey;85430000
+PR;Brasilândia do Sul;87595000
+PR;Cafeara;86640000
+PR;Cafelândia;85415000
+PR;Cafezal do Sul;87565000
+PR;Califórnia;86820000
+PR;Cambará;86390000
+PR;Cambé;86180001
+PR;Cambé;86180001
+PR;Cambira;86890000
+PR;Campina da Lagoa;87345000
+PR;Campina do Simão;85148000
+PR;Campina Grande do Sul;83430000
+PR;Campo Bonito;85450000
+PR;Campo do Tenente;83870000
+PR;Campo Largo;83600001
+PR;Campo Largo;83600001
+PR;Campo Magro;83535000
+PR;Campo Mourão;87300001
+PR;Campo Mourão;87300001
+PR;Cândido de Abreu;84470000
+PR;Candói;85140000
+PR;Cantagalo;85160000
+PR;Capanema;85760000
+PR;Capitão Leônidas Marques;85790000
+PR;Carambeí;84145000
+PR;Carlópolis;86420000
+PR;Cascavel;85800001
+PR;Cascavel;85800001
+PR;Castro;84160001
+PR;Castro;84160001
+PR;Catanduvas;85470000
+PR;Centenário do Sul;86630000
+PR;Cerro Azul;83570000
+PR;Céu Azul;85840000
+PR;Chopinzinho;85560000
+PR;Cianorte;87200001
+PR;Cianorte;87200001
+PR;Cidade Gaúcha;87820000
+PR;Clevelândia;85530000
+PR;Colombo;83400001
+PR;Colombo;83400001
+PR;Colorado;86690000
+PR;Congonhinhas;86320000
+PR;Conselheiro Mairinck;86480000
+PR;Contenda;83730000
+PR;Corbélia;85420000
+PR;Cornélio Procópio;86300000
+PR;Coronel Domingos Soares;85557000
+PR;Coronel Vivida;85550000
+PR;Corumbataí do Sul;86970000
+PR;Cruz Machado;84620000
+PR;Cruzeiro do Iguaçu;85598000
+PR;Cruzeiro do Oeste;87400000
+PR;Cruzeiro do Sul;87650000
+PR;Cruzmaltina;86855000
+PR;Curitiba;80000001
+PR;Curitiba;80000001
+PR;Curiúva;84280000
+PR;Diamante do Norte;87990000
+PR;Diamante do Sul;85408000
+PR;Diamante d'Oeste;85896000
+PR;Dois Vizinhos;85660000
+PR;Douradina;87485000
+PR;Doutor Camargo;87155000
+PR;Doutor Ulysses;83590000
+PR;Enéas Marques;85630000
+PR;Engenheiro Beltrão;87270000
+PR;Entre Rios do Oeste;85988000
+PR;Esperança Nova;87545000
+PR;Espigão Alto do Iguaçu;85465000
+PR;Farol;87325000
+PR;Faxinal;86840000
+PR;Fazenda Rio Grande;83820001
+PR;Fazenda Rio Grande;83820001
+PR;Fênix;86950000
+PR;Fernandes Pinheiro;84535000
+PR;Figueira;84285000
+PR;Flor da Serra do Sul;85618000
+PR;Floraí;87185000
+PR;Floresta;87120000
+PR;Florestópolis;86165000
+PR;Flórida;86780000
+PR;Formosa do Oeste;85830000
+PR;Foz do Iguaçu;85850001
+PR;Foz do Iguaçu;85850001
+PR;Foz do Jordão;85145000
+PR;Francisco Alves;87570000
+PR;Francisco Beltrão;85600001
+PR;Francisco Beltrão;85600001
+PR;General Carneiro;84660000
+PR;Godoy Moreira;86938000
+PR;Goioerê;87360000
+PR;Goioxim;85162000
+PR;Grandes Rios;86845000
+PR;Guaíra;85980000
+PR;Guairaçá;87880000
+PR;Guamiranga;84435000
+PR;Guapirama;86465000
+PR;Guaporema;87810000
+PR;Guaraci;86620000
+PR;Guaraniaçu;85400000
+PR;Guarapuava;85000001
+PR;Guarapuava;85000001
+PR;Guaraqueçaba;83390000
+PR;Guaratuba;83280000
+PR;Honório Serpa;85548000
+PR;Ibaiti;84900000
+PR;Ibema;85478000
+PR;Ibiporã;86200000
+PR;Icaraíma;87530000
+PR;Iguaraçu;86750000
+PR;Iguatu;85423000
+PR;Imbaú;84250000
+PR;Imbituva;84430000
+PR;Inácio Martins;85155000
+PR;Inajá;87670000
+PR;Indianópolis;87235000
+PR;Ipiranga;84450000
+PR;Iporã;87560000
+PR;Iracema do Oeste;85833000
+PR;Irati;84500000
+PR;Iretama;87280000
+PR;Itaguajé;86670000
+PR;Itaipulândia;85880000
+PR;Itambaracá;86375000
+PR;Itambé;87175000
+PR;Itapejara d'Oeste;85580000
+PR;Itaperuçu;83560000
+PR;Itaúna do Sul;87980000
+PR;Ivaí;84460000
+PR;Ivaiporã;86870000
+PR;Ivaté;87525000
+PR;Ivatuba;87130000
+PR;Jaboti;84930000
+PR;Jacarezinho;86400000
+PR;Jaguapitã;86610000
+PR;Jaguariaíva;84200000
+PR;Jandaia do Sul;86900000
+PR;Janiópolis;87380000
+PR;Japira;84920000
+PR;Japurá;87225000
+PR;Jardim Alegre;86860000
+PR;Jardim Olinda;87690000
+PR;Jataizinho;86210000
+PR;Jesuítas;85835000
+PR;Joaquim Távora;86455000
+PR;Jundiaí do Sul;86470000
+PR;Juranda;87355000
+PR;Jussara;87230000
+PR;Kaloré;86920000
+PR;Lapa;83750000
+PR;Laranjal;85275000
+PR;Laranjeiras do Sul;85300001
+PR;Laranjeiras do Sul;85300001
+PR;Leópolis;86330000
+PR;Lidianópolis;86865000
+PR;Lindoeste;85826000
+PR;Loanda;87900000
+PR;Lobato;86790000
+PR;Londrina;86000001
+PR;Londrina;86000001
+PR;Luiziana;87290000
+PR;Lunardelli;86935000
+PR;Lupionópolis;86635000
+PR;Mallet;84570000
+PR;Mamborê;87340000
+PR;Mandaguaçu;87160000
+PR;Mandaguari;86975000
+PR;Mandirituba;83800000
+PR;Manfrinópolis;85628000
+PR;Mangueirinha;85540000
+PR;Manoel Ribas;85260000
+PR;Marechal Cândido Rondon;85960000
+PR;Maria Helena;87480000
+PR;Marialva;86990000
+PR;Marilândia do Sul;86825000
+PR;Marilena;87960000
+PR;Mariluz;87470000
+PR;Maringá;87000001
+PR;Maringá;87000001
+PR;Mariópolis;85525000
+PR;Maripá;85955000
+PR;Marmeleiro;85615000
+PR;Marquinho;85168000
+PR;Marumbi;86910000
+PR;Matelândia;85887000
+PR;Matinhos;83260000
+PR;Mato Rico;85240000
+PR;Mauá da Serra;86828000
+PR;Medianeira;85884000
+PR;Mercedes;85998000
+PR;Mirador;87840000
+PR;Miraselva;86615000
+PR;Missal;85890000
+PR;Moreira Sales;87370000
+PR;Morretes;83350000
+PR;Munhoz de Melo;86760000
+PR;Nossa Senhora das Graças;86680000
+PR;Nova Aliança do Ivaí;87790000
+PR;Nova América da Colina;86230000
+PR;Nova Aurora;85410000
+PR;Nova Cantu;87330000
+PR;Nova Esperança;87600000
+PR;Nova Esperança do Sudoeste;85635000
+PR;Nova Fátima;86310000
+PR;Nova Laranjeiras;85350000
+PR;Nova Londrina;87970000
+PR;Nova Olímpia;87490000
+PR;Nova Prata do Iguaçu;85685000
+PR;Nova Santa Bárbara;86250000
+PR;Nova Santa Rosa;85930000
+PR;Nova Tebas;85250000
+PR;Novo Itacolomi;86895000
+PR;Ortigueira;84350000
+PR;Ourizona;87170000
+PR;Ouro Verde do Oeste;85933000
+PR;Paiçandu;87140000
+PR;Palmas;85555000
+PR;Palmeira;84130000
+PR;Palmital;85270000
+PR;Palotina;85950000
+PR;Paraíso do Norte;87780000
+PR;Paranacity;87660000
+PR;Paranaguá;83200001
+PR;Paranaguá;83200001
+PR;Paranapoema;87680000
+PR;Paranavaí;87700001
+PR;Paranavaí;87700001
+PR;Pato Bragado;85948000
+PR;Pato Branco;85500001
+PR;Pato Branco;85500001
+PR;Paula Freitas;84630000
+PR;Paulo Frontin;84635000
+PR;Peabiru;87250000
+PR;Perobal;87538000
+PR;Pérola;87540000
+PR;Pérola d'Oeste;85740000
+PR;Piên;83860000
+PR;Pinhais;83320001
+PR;Pinhais;83320001
+PR;Pinhal de São Bento;85727000
+PR;Pinhalão;84925000
+PR;Pinhão;85170000
+PR;Piraí do Sul;84240000
+PR;Piraquara;83300001
+PR;Piraquara;83300001
+PR;Pitanga;85200000
+PR;Pitangueiras;86613000
+PR;Planaltina do Paraná;87860000
+PR;Planalto;85750000
+PR;Ponta Grossa;84000001
+PR;Ponta Grossa;84000001
+PR;Pontal do Paraná;83255000
+PR;Porecatu;86160000
+PR;Porto Amazonas;84140000
+PR;Porto Barreiro;85345000
+PR;Porto Rico;87950000
+PR;Porto Vitória;84615000
+PR;Prado Ferreira;86618000
+PR;Pranchita;85730000
+PR;Presidente Castelo Branco;87180000
+PR;Primeiro de Maio;86140000
+PR;Prudentópolis;84400000
+PR;Quarto Centenário;87365000
+PR;Quatiguá;86450000
+PR;Quatro Barras;83420000
+PR;Quatro Pontes;85940000
+PR;Quedas do Iguaçu;85460000
+PR;Querência do Norte;87930000
+PR;Quinta do Sol;87265000
+PR;Quitandinha;83840000
+PR;Ramilândia;85888000
+PR;Rancho Alegre;86290000
+PR;Rancho Alegre d'Oeste;87395000
+PR;Realeza;85770000
+PR;Rebouças;84550000
+PR;Renascença;85610000
+PR;Reserva;84320000
+PR;Reserva do Iguaçu;85195000
+PR;Ribeirão Claro;86410000
+PR;Ribeirão do Pinhal;86490000
+PR;Rio Azul;84560000
+PR;Rio Bom;86830000
+PR;Rio Bonito do Iguaçu;85340000
+PR;Rio Branco do Ivaí;86848000
+PR;Rio Branco do Sul;83540000
+PR;Rio Negro;83880000
+PR;Rolândia;86600001
+PR;Rolândia;86600001
+PR;Roncador;87320000
+PR;Rondon;87800000
+PR;Rosário do Ivaí;86850000
+PR;Sabáudia;86720000
+PR;Salgado Filho;85620000
+PR;Salto do Itararé;84945000
+PR;Salto do Lontra;85670000
+PR;Santa Amélia;86370000
+PR;Santa Cecília do Pavão;86225000
+PR;Santa Cruz de Monte Castelo;87920000
+PR;Santa Fé;86770000
+PR;Santa Helena;85892000
+PR;Santa Inês;86660000
+PR;Santa Isabel do Ivaí;87910000
+PR;Santa Izabel do Oeste;85650000
+PR;Santa Lúcia;85795000
+PR;Santa Maria do Oeste;85230000
+PR;Santa Mariana;86350000
+PR;Santa Mônica;87915000
+PR;Santa Tereza do Oeste;85825000
+PR;Santa Terezinha de Itaipu;85875000
+PR;Santana do Itararé;84970000
+PR;Santo Antônio da Platina;86430000
+PR;Santo Antônio do Caiuá;87730000
+PR;Santo Antônio do Paraíso;86315000
+PR;Santo Antônio do Sudoeste;85710000
+PR;Santo Inácio;86650000
+PR;São Carlos do Ivaí;87770000
+PR;São Jerônimo da Serra;86270000
+PR;São João;85570000
+PR;São João do Caiuá;87740000
+PR;São João do Ivaí;86930000
+PR;São João do Triunfo;84150000
+PR;São Jorge do Ivaí;87190000
+PR;São Jorge do Patrocínio;87555000
+PR;São Jorge D'Oeste;85575000
+PR;São José da Boa Vista;84980000
+PR;São José das Palmeiras;85898000
+PR;São José dos Pinhais;83000001
+PR;São José dos Pinhais;83000001
+PR;São Manoel do Paraná;87215000
+PR;São Mateus do Sul;83900000
+PR;São Miguel do Iguaçu;85877000
+PR;São Pedro do Iguaçu;85929000
+PR;São Pedro do Ivaí;86945000
+PR;São Pedro do Paraná;87955000
+PR;São Sebastião da Amoreira;86240000
+PR;São Tomé;87220000
+PR;Sapopema;84290000
+PR;Sarandi;87110001
+PR;Sarandi;87110001
+PR;Saudade do Iguaçu;85568000
+PR;Sengés;84220000
+PR;Serranópolis do Iguaçu;85885000
+PR;Sertaneja;86340000
+PR;Sertanópolis;86170000
+PR;Siqueira Campos;84940000
+PR;Sulina;85565000
+PR;Tamarana;86125000
+PR;Tamboara;87760000
+PR;Tapejara;87430000
+PR;Tapira;87830000
+PR;Teixeira Soares;84530000
+PR;Telêmaco Borba;84260001
+PR;Telêmaco Borba;84260001
+PR;Terra Boa;87240000
+PR;Terra Rica;87890000
+PR;Terra Roxa;85990000
+PR;Tibagi;84300000
+PR;Tijucas do Sul;83190000
+PR;Toledo;85900001
+PR;Toledo;85900001
+PR;Tomazina;84935000
+PR;Três Barras do Paraná;85485000
+PR;Tunas do Paraná;83480000
+PR;Tuneiras do Oeste;87450000
+PR;Tupãssi;85945000
+PR;Turvo;85150000
+PR;Ubiratã;85440000
+PR;Umuarama;87500001
+PR;Umuarama;87500001
+PR;União da Vitória;84600001
+PR;União da Vitória;84600001
+PR;Uniflor;87640000
+PR;Uraí;86280000
+PR;Ventania;84345000
+PR;Vera Cruz do Oeste;85845000
+PR;Verê;85585000
+PR;Virmond;85390000
+PR;Vitorino;85520000
+PR;Wenceslau Braz;84950000
+PR;Xambrê;87535000
+RJ;Angra dos Reis;23900001
+RJ;Angra dos Reis;23900001
+RJ;Aperibé;28495000
+RJ;Araruama;28970000
+RJ;Areal;25845000
+RJ;Armação dos Búzios;28950000
+RJ;Arraial do Cabo;28930000
+RJ;Barra do Piraí;27000001
+RJ;Barra do Piraí;27000001
+RJ;Barra Mansa;27300001
+RJ;Barra Mansa;27300001
+RJ;Belford Roxo;26100001
+RJ;Belford Roxo;26100001
+RJ;Bom Jardim;28660000
+RJ;Bom Jesus do Itabapoana;28360000
+RJ;Cabo Frio;28900001
+RJ;Cabo Frio;28900001
+RJ;Cachoeiras de Macacu;28680000
+RJ;Cambuci;28430000
+RJ;Campos dos Goytacazes;28000001
+RJ;Campos dos Goytacazes;28000001
+RJ;Cantagalo;28500000
+RJ;Carapebus;27998000
+RJ;Cardoso Moreira;28180000
+RJ;Carmo;28640000
+RJ;Casimiro de Abreu;28860000
+RJ;Comendador Levy Gasparian;25870000
+RJ;Conceição de Macabu;28740000
+RJ;Cordeiro;28540000
+RJ;Duas Barras;28650000
+RJ;Duque de Caxias;25000001
+RJ;Duque de Caxias;25000001
+RJ;Engenheiro Paulo de Frontin;26650000
+RJ;Guapimirim;25940001
+RJ;Guapimirim;25940001
+RJ;Iguaba Grande;28960000
+RJ;Itaboraí;24800001
+RJ;Itaboraí;24800001
+RJ;Itaguaí;23800001
+RJ;Itaguaí;23800001
+RJ;Italva;28250000
+RJ;Itaocara;28570000
+RJ;Itaperuna;28300000
+RJ;Itatiaia;27580000
+RJ;Japeri;26400001
+RJ;Japeri;26400001
+RJ;Laje do Muriaé;28350000
+RJ;Macaé;27900001
+RJ;Macaé;27900001
+RJ;Macuco;28545000
+RJ;Magé;25900001
+RJ;Magé;25900001
+RJ;Mangaratiba;23860000
+RJ;Maricá;24900001
+RJ;Maricá;24900001
+RJ;Mendes;26700000
+RJ;Mesquita;26550001
+RJ;Mesquita;26550001
+RJ;Miguel Pereira;26900000
+RJ;Miracema;28460000
+RJ;Natividade;28380000
+RJ;Nilópolis;26500001
+RJ;Nilópolis;26500001
+RJ;Niterói;24000001
+RJ;Niterói;24000001
+RJ;Nova Friburgo;28600001
+RJ;Nova Friburgo;28600001
+RJ;Nova Iguaçu;26000001
+RJ;Nova Iguaçu;26200000
+RJ;Nova Iguaçu;26000001
+RJ;Nova Iguaçu;26200000
+RJ;Paracambi;26600000
+RJ;Paraíba do Sul;25850000
+RJ;Paraty;23970000
+RJ;Paty do Alferes;26950000
+RJ;Petrópolis;25600001
+RJ;Petrópolis;25600001
+RJ;Pinheiral;27197000
+RJ;Piraí;27175000
+RJ;Porciúncula;28390000
+RJ;Porto Real;27570000
+RJ;Quatis;27400001
+RJ;Quatis;27400001
+RJ;Queimados;26300001
+RJ;Queimados;26300001
+RJ;Quissamã;28735000
+RJ;Resende;27500001
+RJ;Resende;27500001
+RJ;Rio Bonito;28800000
+RJ;Rio Claro;27460000
+RJ;Rio das Flores;27660000
+RJ;Rio das Ostras;28890001
+RJ;Rio das Ostras;28890001
+RJ;Rio de Janeiro;20000001
+RJ;Rio de Janeiro;20000001
+RJ;Santa Maria Madalena;28770000
+RJ;Santo Antônio de Pádua;28470000
+RJ;São Fidélis;28400000
+RJ;São Francisco de Itabapoana;28230000
+RJ;São Gonçalo;24400001
+RJ;São Gonçalo;24400001
+RJ;São João da Barra;28200000
+RJ;São João de Meriti;25500001
+RJ;São João de Meriti;25500001
+RJ;São José de Ubá;28455000
+RJ;São José do Vale do Rio Preto;25780000
+RJ;São Pedro da Aldeia;28940001
+RJ;São Pedro da Aldeia;28940001
+RJ;São Sebastião do Alto;28550000
+RJ;Sapucaia;25880000
+RJ;Saquarema;28990001
+RJ;Saquarema;28990001
+RJ;Seropédica;23890001
+RJ;Seropédica;23890001
+RJ;Silva Jardim;28820000
+RJ;Sumidouro;28637000
+RJ;Tanguá;24890000
+RJ;Teresópolis;25950001
+RJ;Teresópolis;25950001
+RJ;Trajano de Moraes;28750000
+RJ;Três Rios;25800001
+RJ;Três Rios;25800001
+RJ;Valença;27600000
+RJ;Varre-Sai;28375000
+RJ;Vassouras;27700000
+RJ;Volta Redonda;27200001
+RJ;Volta Redonda;27200001
+RN;Acari;59370000
+RN;Açu;59650000
+RN;Afonso Bezerra;59510000
+RN;Água Nova;59995000
+RN;Alexandria;59965000
+RN;Almino Afonso;59760000
+RN;Alto do Rodrigues;59507000
+RN;Angicos;59515000
+RN;Antônio Martins;59870000
+RN;Apodi;59700000
+RN;Areia Branca;59655000
+RN;Arez;59170000
+RN;Baía Formosa;59194000
+RN;Baraúna;59695000
+RN;Barcelona;59410000
+RN;Bento Fernandes;59555000
+RN;Boa Saúde;59260000
+RN;Bodó;59528000
+RN;Bom Jesus;59270000
+RN;Brejinho;59219000
+RN;Caiçara do Norte;59592000
+RN;Caiçara do Rio do Vento;59540000
+RN;Caicó;59300000
+RN;Campo Grande;59680000
+RN;Campo Redondo;59230000
+RN;Canguaretama;59190000
+RN;Caraúbas;59780000
+RN;Carnaúba dos Dantas;59374000
+RN;Carnaubais;59665000
+RN;Ceará-Mirim;59570000
+RN;Cerro Corá;59395000
+RN;Coronel Ezequiel;59220000
+RN;Coronel João Pessoa;59930000
+RN;Cruzeta;59375000
+RN;Currais Novos;59380000
+RN;Doutor Severiano;59910000
+RN;Encanto;59905000
+RN;Equador;59355000
+RN;Espírito Santo;59180000
+RN;Extremoz;59575000
+RN;Felipe Guerra;59795000
+RN;Fernando Pedroza;59517000
+RN;Florânia;59335000
+RN;Francisco Dantas;59902000
+RN;Frutuoso Gomes;59890000
+RN;Galinhos;59596000
+RN;Goianinha;59173000
+RN;Governador Dix-Sept Rosado;59790000
+RN;Grossos;59675000
+RN;Guamaré;59598000
+RN;Ielmo Marinho;59490000
+RN;Ipanguaçu;59508000
+RN;Ipueira;59315000
+RN;Itajá;59513000
+RN;Itaú;59855000
+RN;Jaçanã;59225000
+RN;Jandaíra;59594000
+RN;Janduís;59690000
+RN;Japi;59213000
+RN;Jardim de Angicos;59544000
+RN;Jardim de Piranhas;59324000
+RN;Jardim do Seridó;59343000
+RN;João Câmara;59550000
+RN;João Dias;59880000
+RN;José da Penha;59980000
+RN;Jucurutu;59330000
+RN;Jundiá;59188000
+RN;Lagoa D'Anta;59227000
+RN;Lagoa de Pedras;59244000
+RN;Lagoa de Velhos;59430000
+RN;Lagoa Nova;59390000
+RN;Lagoa Salgada;59247000
+RN;Lajes;59535000
+RN;Lajes Pintadas;59235000
+RN;Lucrécia;59805000
+RN;Luís Gomes;59940000
+RN;Macaíba;59280000
+RN;Macau;59500000
+RN;Major Sales;59945000
+RN;Marcelino Vieira;59970000
+RN;Martins;59800000
+RN;Maxaranguape;59580000
+RN;Messias Targino;59775000
+RN;Montanhas;59198000
+RN;Monte Alegre;59182000
+RN;Monte das Gameleiras;59217000
+RN;Mossoró;59600001
+RN;Mossoró;59600001
+RN;Natal;59000001
+RN;Natal;59000001
+RN;Nísia Floresta;59164000
+RN;Nova Cruz;59215000
+RN;Olho-D'Água do Borges;59730000
+RN;Ouro Branco;59347000
+RN;Paraná;59950000
+RN;Paraú;59660000
+RN;Parazinho;59586000
+RN;Parelhas;59360000
+RN;Parnamirim;59140001
+RN;Parnamirim;59140001
+RN;Passa e Fica;59218000
+RN;Passagem;59259000
+RN;Patu;59770000
+RN;Pau dos Ferros;59900000
+RN;Pedra Grande;59588000
+RN;Pedra Preta;59547000
+RN;Pedro Avelino;59530000
+RN;Pedro Velho;59196000
+RN;Pendências;59504000
+RN;Pilões;59960000
+RN;Poço Branco;59560000
+RN;Portalegre;59810000
+RN;Porto do Mangue;59668000
+RN;Pureza;59582000
+RN;Rafael Fernandes;59990000
+RN;Rafael Godeiro;59740000
+RN;Riacho da Cruz;59820000
+RN;Riacho de Santana;59987000
+RN;Riachuelo;59470000
+RN;Rio do Fogo;59578000
+RN;Rodolfo Fernandes;59830000
+RN;Ruy Barbosa;59420000
+RN;Santa Cruz;59200000
+RN;Santa Maria;59464000
+RN;Santana do Matos;59520000
+RN;Santana do Seridó;59350000
+RN;Santo Antônio;59255000
+RN;São Bento do Norte;59590000
+RN;São Bento do Trairi;59210000
+RN;São Fernando;59327000
+RN;São Francisco do Oeste;59908000
+RN;São Gonçalo do Amarante;59290001
+RN;São Gonçalo do Amarante;59290001
+RN;São João do Sabugi;59310000
+RN;São José de Mipibu;59162000
+RN;São José do Campestre;59275000
+RN;São José do Seridó;59378000
+RN;São Miguel;59920000
+RN;São Miguel do Gostoso;59585000
+RN;São Paulo do Potengi;59460000
+RN;São Pedro;59480000
+RN;São Rafael;59518000
+RN;São Tomé;59400000
+RN;São Vicente;59340000
+RN;Senador Elói de Souza;59250000
+RN;Senador Georgino Avelino;59168000
+RN;Serra Caiada;59245000
+RN;Serra de São Bento;59214000
+RN;Serra do Mel;59663000
+RN;Serra Negra do Norte;59318000
+RN;Serrinha;59258000
+RN;Serrinha dos Pintos;59808000
+RN;Severiano Melo;59856000
+RN;Sítio Novo;59440000
+RN;Taboleiro Grande;59840000
+RN;Taipu;59565000
+RN;Tangará;59240000
+RN;Tenente Ananias;59955000
+RN;Tenente Laurentino Cruz;59338000
+RN;Tibau;59678000
+RN;Tibau do Sul;59178000
+RN;Timbaúba dos Batistas;59320000
+RN;Touros;59584000
+RN;Triunfo Potiguar;59685000
+RN;Umarizal;59865000
+RN;Upanema;59670000
+RN;Várzea;59185000
+RN;Venha-Ver;59925000
+RN;Vera Cruz;59184000
+RN;Viçosa;59815000
+RN;Vila Flor;59192000
+RO;Alta Floresta D'Oeste;76954000
+RO;Alto Alegre dos Parecis;76952000
+RO;Alto Paraíso;76862000
+RO;Alvorada D'Oeste;76930000
+RO;Ariquemes;76870001
+RO;Ariquemes;76870001
+RO;Buritis;76880000
+RO;Cabixi;76994000
+RO;Cacaulândia;76889000
+RO;Cacoal;76960001
+RO;Cacoal;76960001
+RO;Campo Novo de Rondônia;76887000
+RO;Candeias do Jamari;76860000
+RO;Castanheiras;76948000
+RO;Cerejeiras;76997000
+RO;Chupinguaia;76990000
+RO;Colorado do Oeste;76993000
+RO;Corumbiara;76995000
+RO;Costa Marques;76937000
+RO;Cujubim;76864000
+RO;Espigão do Oeste;76974000
+RO;Governador Jorge Teixeira;76898000
+RO;Guajará-Mirim;76850000
+RO;Itapuã do Oeste;76861000
+RO;Jaru;76890000
+RO;Ji-Paraná;76900001
+RO;Ji-Paraná;76900001
+RO;Machadinho D'Oeste;76868000
+RO;Ministro Andreazza;76919000
+RO;Mirante da Serra;76926000
+RO;Monte Negro;76888000
+RO;Nova Brasilândia D'Oeste;76958000
+RO;Nova Mamoré;76857000
+RO;Nova União;76924000
+RO;Novo Horizonte do Oeste;76956000
+RO;Ouro Preto do Oeste;76920000
+RO;Parecis;76979000
+RO;Pimenta Bueno;76970000
+RO;Pimenteiras do Oeste;76999000
+RO;Porto Velho;76800001
+RO;Porto Velho;76800001
+RO;Presidente Médici;76916000
+RO;Primavera de Rondônia;76976000
+RO;Rio Crespo;76863000
+RO;Rolim de Moura;76940000
+RO;Santa Luzia D'Oeste;76950000
+RO;São Felipe D'Oeste;76977000
+RO;São Francisco do Guaporé;76935000
+RO;São Miguel do Guaporé;76932000
+RO;Seringueiras;76934000
+RO;Teixeirópolis;76928000
+RO;Theobroma;76866000
+RO;Urupá;76929000
+RO;Vale do Anari;76867000
+RO;Vale do Paraíso;76923000
+RO;Vilhena;76980001
+RO;Vilhena;76980001
+RR;Alto Alegre;69350000
+RR;Amajari;69343000
+RR;Boa Vista;69300001
+RR;Boa Vista;69300001
+RR;Bonfim;69380000
+RR;Cantá;69390000
+RR;Caracaraí;69360000
+RR;Caroebe;69378000
+RR;Iracema;69348000
+RR;Mucajaí;69340000
+RR;Normandia;69355000
+RR;Pacaraima;69345000
+RR;Rorainópolis;69373000
+RR;São João da Baliza;69375000
+RR;São Luiz;69370000
+RR;Uiramutã;69358000
+RS;Aceguá;96445000
+RS;Água Santa;99965000
+RS;Agudo;96540000
+RS;Ajuricaba;98750000
+RS;Alecrim;98950000
+RS;Alegrete;97540001
+RS;Alegrete;97540001
+RS;Alegria;98905000
+RS;Almirante Tamandaré do Sul;99523000
+RS;Alpestre;98480000
+RS;Alto Alegre;99430000
+RS;Alto Feliz;95773000
+RS;Alvorada;94800001
+RS;Alvorada;94800001
+RS;Amaral Ferrador;96635000
+RS;Ametista do Sul;98465000
+RS;André da Rocha;95310000
+RS;Anta Gorda;95980000
+RS;Antônio Prado;95250000
+RS;Arambaré;96178000
+RS;Araricá;93880000
+RS;Aratiba;99770000
+RS;Arroio do Meio;95940000
+RS;Arroio do Padre;96155000
+RS;Arroio do Sal;95585000
+RS;Arroio do Tigre;96950000
+RS;Arroio dos Ratos;96740000
+RS;Arroio Grande;96330000
+RS;Arvorezinha;95995000
+RS;Augusto Pestana;98740000
+RS;Áurea;99835000
+RS;Bagé;96400001
+RS;Bagé;96400001
+RS;Balneário Pinhal;95599000
+RS;Barão;95730000
+RS;Barão de Cotegipe;99740000
+RS;Barão do Triunfo;96735000
+RS;Barra do Guarita;98530000
+RS;Barra do Quaraí;97538000
+RS;Barra do Ribeiro;96790000
+RS;Barra do Rio Azul;99795000
+RS;Barra Funda;99585000
+RS;Barracão;95370000
+RS;Barros Cassal;99360000
+RS;Benjamin Constant do Sul;99650000
+RS;Bento Gonçalves;95700001
+RS;Bento Gonçalves;95700001
+RS;Boa Vista das Missões;98335000
+RS;Boa Vista do Buricá;98918000
+RS;Boa Vista do Cadeado;98118000
+RS;Boa Vista do Incra;98120000
+RS;Boa Vista do Sul;95727000
+RS;Bom Jesus;95290000
+RS;Bom Princípio;95765000
+RS;Bom Progresso;98575000
+RS;Bom Retiro do Sul;95870000
+RS;Boqueirão do Leão;95920000
+RS;Bossoroca;97850000
+RS;Bozano;98733000
+RS;Braga;98560000
+RS;Brochier;95790000
+RS;Butiá;96750000
+RS;Caçapava do Sul;96570000
+RS;Cacequi;97450000
+RS;Cachoeira do Sul;96500001
+RS;Cachoeira do Sul;96500001
+RS;Cachoeirinha;94900001
+RS;Cachoeirinha;94900001
+RS;Cacique Doble;99860000
+RS;Caibaté;97930000
+RS;Caiçara;98440000
+RS;Camaquã;96180000
+RS;Camargo;99165000
+RS;Cambará do Sul;95480000
+RS;Campestre da Serra;95255000
+RS;Campina das Missões;98975000
+RS;Campinas do Sul;99660000
+RS;Campo Bom;93700000
+RS;Campo Novo;98570000
+RS;Campos Borges;99435000
+RS;Candelária;96930000
+RS;Cândido Godói;98970000
+RS;Candiota;96495000
+RS;Canela;95680000
+RS;Canguçu;96600000
+RS;Canoas;92000001
+RS;Canoas;92000001
+RS;Canudos do Vale;95933000
+RS;Capão Bonito do Sul;95308000
+RS;Capão da Canoa;95555000
+RS;Capão do Cipó;97753000
+RS;Capão do Leão;96160000
+RS;Capela de Santana;95745000
+RS;Capitão;95935000
+RS;Capivari do Sul;95552000
+RS;Caraá;95515000
+RS;Carazinho;99500000
+RS;Carlos Barbosa;95185000
+RS;Carlos Gomes;99825000
+RS;Casca;99260000
+RS;Caseiros;95315000
+RS;Catuípe;98770000
+RS;Caxias do Sul;95000001
+RS;Caxias do Sul;95000001
+RS;Centenário;99838000
+RS;Cerrito;96395000
+RS;Cerro Branco;96535000
+RS;Cerro Grande;98340000
+RS;Cerro Grande do Sul;96770000
+RS;Cerro Largo;97900000
+RS;Chapada;99530000
+RS;Charqueadas;96745000
+RS;Charrua;99960000
+RS;Chiapetta;98760000
+RS;Chuí;96255000
+RS;Chuvisca;96193000
+RS;Cidreira;95595000
+RS;Ciríaco;99970000
+RS;Colinas;95895000
+RS;Colorado;99460000
+RS;Condor;98290000
+RS;Constantina;99680000
+RS;Coqueiro Baixo;95955000
+RS;Coqueiros do Sul;99528000
+RS;Coronel Barros;98735000
+RS;Coronel Bicaco;98580000
+RS;Coronel Pilar;95726000
+RS;Cotiporã;95335000
+RS;Coxilha;99145000
+RS;Crissiumal;98640000
+RS;Cristal;96195000
+RS;Cristal do Sul;98368000
+RS;Cruz Alta;98000001
+RS;Cruz Alta;98000001
+RS;Cruzaltense;99665000
+RS;Cruzeiro do Sul;95930000
+RS;David Canabarro;99980000
+RS;Derrubadas;98528000
+RS;Dezesseis de Novembro;97845000
+RS;Dilermando de Aguiar;97180000
+RS;Dois Irmãos;93950000
+RS;Dois Irmãos das Missões;98385000
+RS;Dois Lajeados;99220000
+RS;Dom Feliciano;96190000
+RS;Dom Pedrito;96450000
+RS;Dom Pedro de Alcântara;95568000
+RS;Dona Francisca;97280000
+RS;Doutor Maurício Cardoso;98925000
+RS;Doutor Ricardo;95967000
+RS;Eldorado do Sul;92990000
+RS;Encantado;95960000
+RS;Encruzilhada do Sul;96610000
+RS;Engenho Velho;99698000
+RS;Entre Rios do Sul;99645000
+RS;Entre-Ijuís;98855000
+RS;Erebango;99920000
+RS;Erechim;99700001
+RS;Erechim;99700001
+RS;Ernestina;99140000
+RS;Erval Grande;99750000
+RS;Erval Seco;98390000
+RS;Esmeralda;95380000
+RS;Esperança do Sul;98635000
+RS;Espumoso;99400000
+RS;Estação;99930000
+RS;Estância Velha;93600001
+RS;Estância Velha;93600001
+RS;Esteio;93250001
+RS;Esteio;93250001
+RS;Estrela;95880000
+RS;Estrela Velha;96990000
+RS;Eugênio de Castro;98860000
+RS;Fagundes Varela;95333000
+RS;Farroupilha;95170001
+RS;Farroupilha;95170001
+RS;Faxinal do Soturno;97220000
+RS;Faxinalzinho;99655000
+RS;Fazenda Vilanova;95875000
+RS;Feliz;95770000
+RS;Flores da Cunha;95270000
+RS;Floriano Peixoto;99910000
+RS;Fontoura Xavier;99370000
+RS;Formigueiro;97210000
+RS;Forquetinha;95937000
+RS;Fortaleza dos Valos;98125000
+RS;Frederico Westphalen;98400000
+RS;Garibaldi;95720000
+RS;Garruchos;97690000
+RS;Gaurama;99830000
+RS;General Câmara;95820000
+RS;Gentil;99160000
+RS;Getúlio Vargas;99900000
+RS;Giruá;98870000
+RS;Glorinha;94380000
+RS;Gramado;95670000
+RS;Gramado dos Loureiros;99605000
+RS;Gramado Xavier;96875000
+RS;Gravataí;94000001
+RS;Gravataí;94000001
+RS;Guabiju;95355000
+RS;Guaíba;92500001
+RS;Guaíba;92700001
+RS;Guaporé;99200000
+RS;Guarani das Missões;97950000
+RS;Harmonia;95785000
+RS;Herval;96310000
+RS;Herveiras;96888000
+RS;Horizontina;98920000
+RS;Hulha Negra;96460000
+RS;Humaitá;98670000
+RS;Ibarama;96925000
+RS;Ibiaçá;99940000
+RS;Ibiraiaras;95305000
+RS;Ibirapuitã;99320000
+RS;Ibirubá;98200000
+RS;Igrejinha;95650000
+RS;Ijuí;98700000
+RS;Ilópolis;95990000
+RS;Imbé;95625000
+RS;Imigrante;95885000
+RS;Independência;98915000
+RS;Inhacorá;98765000
+RS;Ipê;95240000
+RS;Ipiranga do Sul;99925000
+RS;Iraí;98460000
+RS;Itaara;97185000
+RS;Itacurubi;97685000
+RS;Itapuca;95997000
+RS;Itaqui;97650000
+RS;Itati;95538000
+RS;Itatiba do Sul;99760000
+RS;Ivorá;98160000
+RS;Ivoti;93900000
+RS;Jaboticaba;98350000
+RS;Jacuizinho;99457000
+RS;Jacutinga;99730000
+RS;Jaguarão;96300000
+RS;Jaguari;97760000
+RS;Jaquirana;95420000
+RS;Jari;98175000
+RS;Jóia;98180000
+RS;Júlio de Castilhos;98130000
+RS;Lagoa Bonita do Sul;96920000
+RS;Lagoa dos Três Cantos;99495000
+RS;Lagoa Vermelha;95300000
+RS;Lagoão;99340000
+RS;Lajeado;95900001
+RS;Lajeado;95900001
+RS;Lajeado do Bugre;98320000
+RS;Lavras do Sul;97390000
+RS;Liberato Salzano;99690000
+RS;Lindolfo Collor;93940000
+RS;Linha Nova;95768000
+RS;Maçambará;97645000
+RS;Machadinho;99880000
+RS;Mampituba;95572000
+RS;Manoel Viana;97640000
+RS;Maquiné;95530000
+RS;Maratá;95793000
+RS;Marau;99150000
+RS;Marcelino Ramos;99800000
+RS;Mariana Pimentel;92900000
+RS;Mariano Moro;99790000
+RS;Marques de Souza;95923000
+RS;Mata;97410000
+RS;Mato Castelhano;99180000
+RS;Mato Leitão;95835000
+RS;Mato Queimado;97935000
+RS;Maximiliano de Almeida;99890000
+RS;Minas do Leão;96755000
+RS;Miraguaí;98540000
+RS;Montauri;99255000
+RS;Monte Alegre dos Campos;95236000
+RS;Monte Belo do Sul;95718000
+RS;Montenegro;95780000
+RS;Mormaço;99315000
+RS;Morrinhos do Sul;95577000
+RS;Morro Redondo;96150000
+RS;Morro Reuter;93990000
+RS;Mostardas;96270000
+RS;Muçum;95970000
+RS;Muitos Capões;95230000
+RS;Muliterno;99990000
+RS;Não-Me-Toque;99470000
+RS;Nicolau Vergueiro;99175000
+RS;Nonoai;99600000
+RS;Nova Alvorada;95985000
+RS;Nova Araçá;95350000
+RS;Nova Bassano;95340000
+RS;Nova Boa Vista;99580000
+RS;Nova Bréscia;95950000
+RS;Nova Candelária;98919000
+RS;Nova Esperança do Sul;97770000
+RS;Nova Hartz;93890000
+RS;Nova Pádua;95275000
+RS;Nova Palma;97250000
+RS;Nova Petrópolis;95150000
+RS;Nova Prata;95320000
+RS;Nova Ramada;98758000
+RS;Nova Roma do Sul;95260000
+RS;Nova Santa Rita;92480000
+RS;Novo Barreiro;98338000
+RS;Novo Cabrais;96545000
+RS;Novo Hamburgo;93300001
+RS;Novo Hamburgo;93300001
+RS;Novo Machado;98955000
+RS;Novo Tiradentes;98370000
+RS;Novo Xingu;99687000
+RS;Osório;95520000
+RS;Paim Filho;99850000
+RS;Palmares do Sul;95540000
+RS;Palmeira das Missões;98300000
+RS;Palmitinho;98430000
+RS;Panambi;98280000
+RS;Pantano Grande;96690000
+RS;Paraí;95360000
+RS;Paraíso do Sul;96530000
+RS;Pareci Novo;95783000
+RS;Parobé;95630000
+RS;Passa Sete;96908000
+RS;Passo do Sobrado;96685000
+RS;Passo Fundo;99000001
+RS;Passo Fundo;99000001
+RS;Paulo Bento;99718000
+RS;Paverama;95865000
+RS;Pedras Altas;96487000
+RS;Pedro Osório;96360000
+RS;Pejuçara;98270000
+RS;Pelotas;96000001
+RS;Pelotas;96000001
+RS;Picada Café;95166000
+RS;Pinhal;98345000
+RS;Pinhal da Serra;95390000
+RS;Pinhal Grande;98150000
+RS;Pinheirinho do Vale;98435000
+RS;Pinheiro Machado;96470000
+RS;Pinto Bandeira;95717000
+RS;Pirapó;97885000
+RS;Piratini;96490000
+RS;Planalto;98470000
+RS;Poço das Antas;95740000
+RS;Pontão;99190000
+RS;Ponte Preta;99735000
+RS;Portão;93180000
+RS;Porto Alegre;90000001
+RS;Porto Alegre;90000001
+RS;Porto Lucena;98980000
+RS;Porto Mauá;98947000
+RS;Porto Vera Cruz;98985000
+RS;Porto Xavier;98995000
+RS;Pouso Novo;95945000
+RS;Presidente Lucena;93945000
+RS;Progresso;95925000
+RS;Protásio Alves;95345000
+RS;Putinga;95975000
+RS;Quaraí;97560000
+RS;Quatro Irmãos;99720000
+RS;Quevedos;98140000
+RS;Quinze de Novembro;98230000
+RS;Redentora;98550000
+RS;Relvado;95965000
+RS;Restinga Seca;97200000
+RS;Rio dos Índios;99610000
+RS;Rio Grande;96200001
+RS;Rio Grande;96200001
+RS;Rio Pardo;96640000
+RS;Riozinho;95695000
+RS;Roca Sales;95735000
+RS;Rodeio Bonito;98360000
+RS;Rolador;97843000
+RS;Rolante;95690000
+RS;Ronda Alta;99670000
+RS;Rondinha;99590000
+RS;Roque Gonzales;97970000
+RS;Rosário do Sul;97590000
+RS;Sagrada Família;98330000
+RS;Saldanha Marinho;98250000
+RS;Salto do Jacuí;99440000
+RS;Salvador das Missões;97940000
+RS;Salvador do Sul;95750000
+RS;Sananduva;99840000
+RS;Santa Bárbara do Sul;98240000
+RS;Santa Cecília do Sul;99952000
+RS;Santa Clara do Sul;95915000
+RS;Santa Cruz do Sul;96800001
+RS;Santa Cruz do Sul;96800001
+RS;Santa Margarida do Sul;97335000
+RS;Santa Maria;97000001
+RS;Santa Maria;97000001
+RS;Santa Maria do Herval;93995000
+RS;Santa Rosa;98780001
+RS;Santa Rosa;98780001
+RS;Santa Tereza;95715000
+RS;Santa Vitória do Palmar;96230000
+RS;Santana da Boa Vista;96590000
+RS;Santana do Livramento;97570001
+RS;Santana do Livramento;97570001
+RS;Santiago;97700000
+RS;Santo Ângelo;98800001
+RS;Santo Ângelo;98800001
+RS;Santo Antônio da Patrulha;95500000
+RS;Santo Antônio das Missões;97870000
+RS;Santo Antônio do Palma;99265000
+RS;Santo Antônio do Planalto;99525000
+RS;Santo Augusto;98590000
+RS;Santo Cristo;98960000
+RS;Santo Expedito do Sul;99895000
+RS;São Borja;97670000
+RS;São Domingos do Sul;99270000
+RS;São Francisco de Assis;97610000
+RS;São Francisco de Paula;95400000
+RS;São Gabriel;97300000
+RS;São Gabriel;97300001
+RS;São Jerônimo;96700000
+RS;São João da Urtiga;99855000
+RS;São João do Polêsine;97230000
+RS;São Jorge;95365000
+RS;São José das Missões;98325000
+RS;São José do Herval;99380000
+RS;São José do Hortêncio;95755000
+RS;São José do Inhacorá;98958000
+RS;São José do Norte;96225000
+RS;São José do Ouro;99870000
+RS;São José do Sul;95748000
+RS;São José dos Ausentes;95280000
+RS;São Leopoldo;93000001
+RS;São Leopoldo;93000001
+RS;São Lourenço do Sul;96170000
+RS;São Luiz Gonzaga;97800000
+RS;São Marcos;95190000
+RS;São Martinho;98690000
+RS;São Martinho da Serra;97190000
+RS;São Miguel das Missões;98865000
+RS;São Nicolau;97880000
+RS;São Paulo das Missões;97980000
+RS;São Pedro da Serra;95758000
+RS;São Pedro das Missões;98323000
+RS;São Pedro do Butiá;97920000
+RS;São Pedro do Sul;97400000
+RS;São Sebastião do Caí;95760000
+RS;São Sepé;97340000
+RS;São Valentim;99640000
+RS;São Valentim do Sul;99240000
+RS;São Valério do Sul;98595000
+RS;São Vendelino;95795000
+RS;São Vicente do Sul;97420000
+RS;Sapiranga;93800001
+RS;Sapiranga;93800001
+RS;Sapucaia do Sul;93200001
+RS;Sapucaia do Sul;93200001
+RS;Sarandi;99560000
+RS;Seberi;98380000
+RS;Sede Nova;98675000
+RS;Segredo;96910000
+RS;Selbach;99450000
+RS;Senador Salgado Filho;98895000
+RS;Sentinela do Sul;96765000
+RS;Serafina Corrêa;99250000
+RS;Sério;95918000
+RS;Sertão;99170000
+RS;Sertão Santana;92850000
+RS;Sete de Setembro;97960000
+RS;Severiano de Almeida;99810000
+RS;Silveira Martins;97195000
+RS;Sinimbu;96890000
+RS;Sobradinho;96900000
+RS;Soledade;99300000
+RS;Tabaí;95863000
+RS;Tapejara;99950000
+RS;Tapera;99490000
+RS;Tapes;96760000
+RS;Taquara;95600001
+RS;Taquara;95600001
+RS;Taquari;95860000
+RS;Taquaruçu do Sul;98410000
+RS;Tavares;96290000
+RS;Tenente Portela;98500000
+RS;Terra de Areia;95535000
+RS;Teutônia;95890000
+RS;Tio Hugo;99345000
+RS;Tiradentes do Sul;98680000
+RS;Toropi;97418000
+RS;Torres;95560000
+RS;Tramandaí;95590000
+RS;Travesseiro;95948000
+RS;Três Arroios;99725000
+RS;Três Cachoeiras;95580000
+RS;Três Coroas;95660000
+RS;Três de Maio;98910000
+RS;Três Forquilhas;95575000
+RS;Três Palmeiras;99675000
+RS;Três Passos;98600000
+RS;Trindade do Sul;99615000
+RS;Triunfo;95840000
+RS;Tucunduva;98930000
+RS;Tunas;99330000
+RS;Tupanci do Sul;99878000
+RS;Tupanciretã;98170000
+RS;Tupandi;95775000
+RS;Tuparendi;98940000
+RS;Turuçu;96148000
+RS;Ubiretama;98898000
+RS;União da Serra;99215000
+RS;Unistalda;97755000
+RS;Uruguaiana;97500001
+RS;Uruguaiana;97500001
+RS;Vacaria;95200001
+RS;Vacaria;95200001
+RS;Vale do Sol;96878000
+RS;Vale Real;95778000
+RS;Vale Verde;95833000
+RS;Vanini;99290000
+RS;Venâncio Aires;95800000
+RS;Vera Cruz;96880000
+RS;Veranópolis;95330000
+RS;Vespasiano Correa;95972000
+RS;Viadutos;99820000
+RS;Viamão;94400001
+RS;Viamão;94400001
+RS;Vicente Dutra;98450000
+RS;Victor Graeff;99350000
+RS;Vila Flores;95334000
+RS;Vila Lângaro;99955000
+RS;Vila Maria;99155000
+RS;Vila Nova do Sul;97385000
+RS;Vista Alegre;98415000
+RS;Vista Alegre do Prata;95325000
+RS;Vista Gaúcha;98535000
+RS;Vitória das Missões;98850000
+RS;Westfalia;95893000
+RS;Xangri-Lá;95588000
+SC;Abdon Batista;89636000
+SC;Abelardo Luz;89830000
+SC;Agrolândia;88420000
+SC;Agronômica;89188000
+SC;Água Doce;89654000
+SC;Águas de Chapecó;89883000
+SC;Águas Frias;89843000
+SC;Águas Mornas;88150000
+SC;Alfredo Wagner;88450000
+SC;Alto Bela Vista;89730000
+SC;Anchieta;89970000
+SC;Angelina;88460000
+SC;Anita Garibaldi;88590000
+SC;Anitápolis;88475000
+SC;Antônio Carlos;88180000
+SC;Apiúna;89135000
+SC;Arabutã;89740000
+SC;Araquari;89245000
+SC;Araranguá;88900001
+SC;Araranguá;88900001
+SC;Armazém;88740000
+SC;Arroio Trinta;89590000
+SC;Arvoredo;89778000
+SC;Ascurra;89138000
+SC;Atalanta;88410000
+SC;Aurora;89186000
+SC;Balneário Arroio do Silva;88914000
+SC;Balneário Barra do Sul;89247000
+SC;Balneário Camboriú;88330001
+SC;Balneário Camboriú;88330001
+SC;Balneário Gaivota;88955000
+SC;Balneário Piçarras;88380000
+SC;Balneário Rincão;88828000
+SC;Bandeirante;89905000
+SC;Barra Bonita;89909000
+SC;Barra Velha;88390000
+SC;Bela Vista do Toldo;89478000
+SC;Belmonte;89925000
+SC;Benedito Novo;89124000
+SC;Biguaçu;88160001
+SC;Biguaçu;88160001
+SC;Blumenau;89000001
+SC;Blumenau;89000001
+SC;Bocaína do Sul;88538000
+SC;Bom Jardim da Serra;88640000
+SC;Bom Jesus;89824000
+SC;Bom Jesus do Oeste;89873000
+SC;Bom Retiro;88680000
+SC;Bombinhas;88215000
+SC;Botuverá;88295000
+SC;Braço do Norte;88750000
+SC;Braço do Trombudo;89178000
+SC;Brunópolis;89634000
+SC;Brusque;88350001
+SC;Brusque;88350001
+SC;Caçador;89500001
+SC;Caçador;89500001
+SC;Caibi;89888000
+SC;Calmon;89430000
+SC;Camboriú;88340001
+SC;Camboriú;88340001
+SC;Campo Alegre;89294000
+SC;Campo Belo do Sul;88580000
+SC;Campo Erê;89980000
+SC;Campos Novos;89620000
+SC;Canelinha;88230000
+SC;Canoinhas;89460000
+SC;Capão Alto;88548000
+SC;Capinzal;89665000
+SC;Capivari de Baixo;88745000
+SC;Catanduvas;89670000
+SC;Caxambu do Sul;89880000
+SC;Celso Ramos;88598000
+SC;Cerro Negro;88585000
+SC;Chapadão do Lageado;88407000
+SC;Chapecó;89800001
+SC;Chapecó;89800001
+SC;Cocal do Sul;88845000
+SC;Concórdia;89700001
+SC;Concórdia;89700001
+SC;Cordilheira Alta;89819000
+SC;Coronel Freitas;89840000
+SC;Coronel Martins;89837000
+SC;Correia Pinto;88535000
+SC;Corupá;89278000
+SC;Criciúma;88800001
+SC;Criciúma;88800001
+SC;Cunha Porã;89890000
+SC;Cunhataí;89886000
+SC;Curitibanos;89520000
+SC;Descanso;89910000
+SC;Dionísio Cerqueira;89950000
+SC;Dona Emma;89155000
+SC;Doutor Pedrinho;89126000
+SC;Entre Rios;89862000
+SC;Ermo;88935000
+SC;Erval Velho;89613000
+SC;Faxinal dos Guedes;89694000
+SC;Flor do Sertão;89878000
+SC;Florianópolis;88000001
+SC;Florianópolis;88000001
+SC;Formosa do Sul;89859000
+SC;Forquilhinha;88850000
+SC;Fraiburgo;89580000
+SC;Frei Rogério;89530000
+SC;Galvão;89838000
+SC;Garopaba;88495000
+SC;Garuva;89248000
+SC;Gaspar;89110001
+SC;Gaspar;89110001
+SC;Governador Celso Ramos;88190000
+SC;Grão Pará;88890000
+SC;Gravatal;88735000
+SC;Guabiruba;88360000
+SC;Guaraciaba;89920000
+SC;Guaramirim;89270000
+SC;Guarujá do Sul;89940000
+SC;Guatambú;89817000
+SC;Herval D'Oeste;89610000
+SC;Ibiam;89652000
+SC;Ibicaré;89640000
+SC;Ibirama;89140000
+SC;Içara;88820000
+SC;Ilhota;88320000
+SC;Imaruí;88770000
+SC;Imbituba;88780000
+SC;Imbuia;88440000
+SC;Indaial;89080000
+SC;Indaial;89080000
+SC;Iomerê;89558000
+SC;Ipira;89669000
+SC;Iporã do Oeste;89899000
+SC;Ipuaçu;89832000
+SC;Ipumirim;89790000
+SC;Iraceminha;89891000
+SC;Irani;89680000
+SC;Irati;89856000
+SC;Irineópolis;89440000
+SC;Itá;89760000
+SC;Itaiópolis;89340000
+SC;Itajaí;88300001
+SC;Itajaí;88300001
+SC;Itapema;88220000
+SC;Itapiranga;89896000
+SC;Itapoá;89249000
+SC;Ituporanga;88400000
+SC;Jaborá;89677000
+SC;Jacinto Machado;88950000
+SC;Jaguaruna;88715000
+SC;Jaraguá do Sul;89250001
+SC;Jaraguá do Sul;89250001
+SC;Jardinópolis;89848000
+SC;Joaçaba;89600000
+SC;Joinville;89200001
+SC;Joinville;89200001
+SC;José Boiteux;89145000
+SC;Jupiá;89839000
+SC;Lacerdópolis;89660000
+SC;Lages;88500001
+SC;Lages;88500001
+SC;Laguna;88790000
+SC;Lajeado Grande;89828000
+SC;Laurentino;89170000
+SC;Lauro Müller;88880000
+SC;Lebon Régis;89515000
+SC;Leoberto Leal;88445000
+SC;Lindóia do Sul;89735000
+SC;Lontras;89182000
+SC;Luiz Alves;89128000
+SC;Luzerna;89609000
+SC;Macieira;89518000
+SC;Mafra;89300001
+SC;Mafra;89300001
+SC;Major Gercino;88260000
+SC;Major Vieira;89480000
+SC;Maracajá;88915000
+SC;Maravilha;89874000
+SC;Marema;89860000
+SC;Massaranduba;89108000
+SC;Matos Costa;89420000
+SC;Meleiro;88920000
+SC;Mirim Doce;89194000
+SC;Modelo;89872000
+SC;Mondaí;89893000
+SC;Monte Carlo;89618000
+SC;Monte Castelo;89380000
+SC;Morro da Fumaça;88830000
+SC;Morro Grande;88925000
+SC;Navegantes;88370001
+SC;Navegantes;88370001
+SC;Nova Erechim;89865000
+SC;Nova Itaberaba;89818000
+SC;Nova Trento;88270000
+SC;Nova Veneza;88865000
+SC;Novo Horizonte;89998000
+SC;Orleans;88870000
+SC;Otacílio Costa;88540000
+SC;Ouro;89663000
+SC;Ouro Verde;89834000
+SC;Paial;89765000
+SC;Painel;88543000
+SC;Palhoça;88130001
+SC;Palhoça;88130001
+SC;Palma Sola;89985000
+SC;Palmeira;88545000
+SC;Palmitos;89887000
+SC;Papanduva;89370000
+SC;Paraíso;89906000
+SC;Passo de Torres;88980000
+SC;Passos Maia;89687000
+SC;Paulo Lopes;88490000
+SC;Pedras Grandes;88720000
+SC;Penha;88385000
+SC;Peritiba;89750000
+SC;Pescaria Brava;88798000
+SC;Petrolândia;88430000
+SC;Pinhalzinho;89870000
+SC;Pinheiro Preto;89570000
+SC;Piratuba;89667000
+SC;Planalto Alegre;89882000
+SC;Pomerode;89107000
+SC;Ponte Alta;88550000
+SC;Ponte Alta do Norte;89535000
+SC;Ponte Serrada;89683000
+SC;Porto Belo;88210000
+SC;Porto União;89400000
+SC;Pouso Redondo;89172000
+SC;Praia Grande;88990000
+SC;Presidente Castello Branco;89745000
+SC;Presidente Getúlio;89150000
+SC;Presidente Nereu;89184000
+SC;Princesa;89935000
+SC;Quilombo;89850000
+SC;Rancho Queimado;88470000
+SC;Rio das Antas;89550000
+SC;Rio do Campo;89198000
+SC;Rio do Oeste;89180000
+SC;Rio do Sul;89160001
+SC;Rio do Sul;89160001
+SC;Rio dos Cedros;89121000
+SC;Rio Fortuna;88760000
+SC;Rio Negrinho;89295000
+SC;Rio Rufino;88658000
+SC;Riqueza;89895000
+SC;Rodeio;89136000
+SC;Romelândia;89908000
+SC;Salete;89196000
+SC;Saltinho;89981000
+SC;Salto Veloso;89595000
+SC;Sangão;88717000
+SC;Santa Cecília;89540000
+SC;Santa Helena;89915000
+SC;Santa Rosa de Lima;88763000
+SC;Santa Rosa do Sul;88965000
+SC;Santa Terezinha;89199000
+SC;Santa Terezinha do Progresso;89983000
+SC;Santiago do Sul;89854000
+SC;Santo Amaro da Imperatriz;88140000
+SC;São Bento do Sul;89280001
+SC;São Bento do Sul;89280001
+SC;São Bernardino;89982000
+SC;São Bonifácio;88485000
+SC;São Carlos;89885000
+SC;São Cristóvão do Sul;89533000
+SC;São Domingos;89835000
+SC;São Francisco do Sul;89240000
+SC;São João Batista;88240000
+SC;São João do Itaperiú;88395000
+SC;São João do Oeste;89897000
+SC;São João do Sul;88970000
+SC;São Joaquim;88600000
+SC;São José;88100001
+SC;São José;88100001
+SC;São José do Cedro;89930000
+SC;São José do Cerrito;88570000
+SC;São Lourenço do Oeste;89990000
+SC;São Ludgero;88730000
+SC;São Martinho;88765000
+SC;São Miguel da Boa Vista;89879000
+SC;São Miguel do Oeste;89900000
+SC;São Pedro de Alcântara;88125000
+SC;Saudades;89868000
+SC;Schroeder;89275000
+SC;Seara;89770000
+SC;Serra Alta;89871000
+SC;Siderópolis;88860000
+SC;Sombrio;88960000
+SC;Sul Brasil;89855000
+SC;Taió;89190000
+SC;Tangará;89642000
+SC;Tigrinhos;89875000
+SC;Tijucas;88200000
+SC;Timbé do Sul;88940000
+SC;Timbó;89120000
+SC;Timbó Grande;89545000
+SC;Três Barras;89490000
+SC;Treviso;88862000
+SC;Treze de Maio;88710000
+SC;Treze Tílias;89650000
+SC;Trombudo Central;89176000
+SC;Tubarão;88700001
+SC;Tubarão;88700001
+SC;Tunápolis;89898000
+SC;Turvo;88930000
+SC;União do Oeste;89845000
+SC;Urubici;88650000
+SC;Urupema;88625000
+SC;Urussanga;88840000
+SC;Vargeão;89690000
+SC;Vargem;89638000
+SC;Vargem Bonita;89675000
+SC;Vidal Ramos;88443000
+SC;Videira;89560001
+SC;Videira;89560001
+SC;Vitor Meireles;89148000
+SC;Witmarsum;89157000
+SC;Xanxerê;89820000
+SC;Xavantina;89780000
+SC;Xaxim;89825000
+SC;Zortéa;89633000
+SE;Amparo de São Francisco;49920000
+SE;Aquidabã;49790000
+SE;Aracaju;49000001
+SE;Aracaju;49000001
+SE;Arauá;49220000
+SE;Areia Branca;49580000
+SE;Barra dos Coqueiros;49140000
+SE;Boquim;49360000
+SE;Brejo Grande;49995000
+SE;Campo do Brito;49520000
+SE;Canhoba;49880000
+SE;Canindé de São Francisco;49820000
+SE;Capela;49700000
+SE;Carira;49550000
+SE;Carmópolis;49740000
+SE;Cedro de São João;49930000
+SE;Cristinápolis;49270000
+SE;Cumbe;49660000
+SE;Divina Pastora;49650000
+SE;Estância;49200000
+SE;Feira Nova;49670000
+SE;Frei Paulo;49514000
+SE;Gararu;49830000
+SE;General Maynard;49750000
+SE;Graccho Cardoso;49860000
+SE;Ilha das Flores;49990000
+SE;Indiaroba;49250000
+SE;Itabaiana;49500001
+SE;Itabaiana;49500001
+SE;Itabaianinha;49290000
+SE;Itabi;49870000
+SE;Itaporanga D'Ajuda;49120000
+SE;Japaratuba;49960000
+SE;Japoatã;49950000
+SE;Lagarto;49400000
+SE;Laranjeiras;49170000
+SE;Macambira;49565000
+SE;Malhada dos Bois;49940000
+SE;Malhador;49570000
+SE;Maruim;49770000
+SE;Moita Bonita;49560000
+SE;Monte Alegre de Sergipe;49690000
+SE;Muribeca;49780000
+SE;Neópolis;49980000
+SE;Nossa Senhora Aparecida;49540000
+SE;Nossa Senhora da Glória;49680000
+SE;Nossa Senhora das Dores;49600000
+SE;Nossa Senhora de Lourdes;49890000
+SE;Nossa Senhora do Socorro;49150000
+SE;Pacatuba;49970000
+SE;Pedra Mole;49512000
+SE;Pedrinhas;49350000
+SE;Pinhão;49517000
+SE;Pirambu;49190000
+SE;Poço Redondo;49810000
+SE;Poço Verde;49490000
+SE;Porto da Folha;49800000
+SE;Propriá;49900000
+SE;Riachão do Dantas;49320000
+SE;Riachuelo;49130000
+SE;Ribeirópolis;49530000
+SE;Rosário do Catete;49760000
+SE;Salgado;49390000
+SE;Santa Luzia do Itanhy;49230000
+SE;Santa Rosa de Lima;49640000
+SE;Santana do São Francisco;49985000
+SE;Santo Amaro das Brotas;49180000
+SE;São Cristóvão;49100000
+SE;São Domingos;49525000
+SE;São Francisco;49945000
+SE;São Miguel do Aleixo;49535000
+SE;Simão Dias;49480000
+SE;Siriri;49630000
+SE;Telha;49910000
+SE;Tobias Barreto;49300000
+SE;Tomar do Geru;49280000
+SE;Umbaúba;49260000
+SP;Adamantina;17800000
+SP;Adolfo;15230000
+SP;Aguaí;13860000
+SP;Águas da Prata;13890000
+SP;Águas de Lindóia;13940000
+SP;Águas de Santa Bárbara;18770000
+SP;Águas de São Pedro;13525000
+SP;Agudos;17120001
+SP;Agudos;17120001
+SP;Alambari;18220000
+SP;Alfredo Marcondes;19180000
+SP;Altair;15430000
+SP;Altinópolis;14350000
+SP;Alto Alegre;16310000
+SP;Alumínio;18125000
+SP;Álvares Florence;15540000
+SP;Álvares Machado;19160000
+SP;Álvaro de Carvalho;17410000
+SP;Alvinlândia;17430000
+SP;Americana;13465001
+SP;Americana;13465001
+SP;Américo Brasiliense;14820000
+SP;Américo de Campos;15550000
+SP;Amparo;13900001
+SP;Amparo;13900001
+SP;Analândia;13550000
+SP;Andradina;16900001
+SP;Andradina;16900001
+SP;Angatuba;18240000
+SP;Anhembi;18620000
+SP;Anhumas;19580000
+SP;Aparecida;12570000
+SP;Aparecida D'Oeste;15735000
+SP;Apiaí;18320000
+SP;Araçariguama;18147000
+SP;Araçatuba;16000001
+SP;Araçatuba;16000001
+SP;Araçoiaba da Serra;18190000
+SP;Aramina;14550000
+SP;Arandu;18710000
+SP;Arapeí;12870000
+SP;Araraquara;14800001
+SP;Araraquara;14800001
+SP;Araras;13600001
+SP;Araras;13600001
+SP;Arco-Íris;17630000
+SP;Arealva;17160000
+SP;Areias;12820000
+SP;Areiópolis;18670000
+SP;Ariranha;15960000
+SP;Artur Nogueira;13160000
+SP;Artur Nogueira;13160001
+SP;Arujá;7400001
+SP;Arujá;7400001
+SP;Aspásia;15763000
+SP;Assis;19800001
+SP;Assis;19800001
+SP;Atibaia;12940001
+SP;Atibaia;12940001
+SP;Auriflama;15350000
+SP;Avaí;16680000
+SP;Avanhandava;16360000
+SP;Avaré;18700001
+SP;Avaré;18700001
+SP;Bady Bassitt;15115000
+SP;Balbinos;16640000
+SP;Bálsamo;15140000
+SP;Bananal;12850000
+SP;Barão de Antonina;18490000
+SP;Barbosa;16350000
+SP;Bariri;17250000
+SP;Barra Bonita;17340000
+SP;Barra do Chapéu;18325000
+SP;Barra do Turvo;11955000
+SP;Barretos;14780001
+SP;Barretos;14780001
+SP;Barrinha;14860000
+SP;Barueri;6400001
+SP;Barueri;6400001
+SP;Bastos;17690000
+SP;Batatais;14300001
+SP;Batatais;14300001
+SP;Bauru;17000001
+SP;Bauru;17000001
+SP;Bebedouro;14700001
+SP;Bebedouro;14700001
+SP;Bento de Abreu;16790000
+SP;Bernardino de Campos;18960000
+SP;Bertioga;11250000
+SP;Bertioga;11250001
+SP;Bilac;16210000
+SP;Birigüi;16200001
+SP;Birigüi;16200001
+SP;Biritiba-Mirim;8940000
+SP;Boa Esperança do Sul;14930000
+SP;Bocaina;17240000
+SP;Bofete;18590000
+SP;Boituva;18550000
+SP;Bom Jesus dos Perdões;12955000
+SP;Bom Sucesso de Itararé;18475000
+SP;Borá;19740000
+SP;Boracéia;17270000
+SP;Borborema;14955000
+SP;Borebi;18675000
+SP;Botucatu;18600001
+SP;Botucatu;18600001
+SP;Bragança Paulista;12900001
+SP;Bragança Paulista;12900001
+SP;Braúna;16290000
+SP;Brejo Alegre;16265000
+SP;Brodowski;14340000
+SP;Brotas;17380000
+SP;Buri;18290000
+SP;Buritama;15290000
+SP;Buritizal;14570000
+SP;Cabrália Paulista;17480000
+SP;Cabreúva;13315000
+SP;Caçapava;12280001
+SP;Caçapava;12280001
+SP;Cachoeira Paulista;12630000
+SP;Caconde;13770000
+SP;Cafelândia;16500000
+SP;Caiabu;19530000
+SP;Caieiras;7700001
+SP;Caieiras;7700001
+SP;Caiuá;19450000
+SP;Cajamar;7750001
+SP;Cajamar;7750001
+SP;Cajati;11950000
+SP;Cajobi;15410000
+SP;Cajuru;14240000
+SP;Campina do Monte Alegre;18245000
+SP;Campinas;13000001
+SP;Campinas;13000001
+SP;Campo Limpo Paulista;13230001
+SP;Campo Limpo Paulista;13230001
+SP;Campos do Jordão;12460000
+SP;Campos Novos Paulista;19960000
+SP;Cananéia;11990000
+SP;Canas;12615000
+SP;Cândido Mota;19880000
+SP;Cândido Rodrigues;15930000
+SP;Canitar;18990001
+SP;Canitar;18990001
+SP;Capão Bonito;18300001
+SP;Capão Bonito;18300001
+SP;Capela do Alto;18195000
+SP;Capivari;13360000
+SP;Caraguatatuba;11660001
+SP;Caraguatatuba;11660001
+SP;Carapicuíba;6300001
+SP;Carapicuíba;6300001
+SP;Cardoso;15570000
+SP;Casa Branca;13700000
+SP;Cássia dos Coqueiros;14260000
+SP;Castilho;16920000
+SP;Catanduva;15800001
+SP;Catanduva;15800001
+SP;Catiguá;15870000
+SP;Cedral;15895000
+SP;Cerqueira César;18760000
+SP;Cerquilho;18520000
+SP;Cesário Lange;18285000
+SP;Charqueada;13515000
+SP;Chavantes;18970000
+SP;Clementina;16250000
+SP;Colina;14770000
+SP;Colômbia;14795000
+SP;Conchal;13835000
+SP;Conchas;18570000
+SP;Cordeirópolis;13490000
+SP;Coroados;16260000
+SP;Coronel Macedo;18745000
+SP;Corumbataí;13540000
+SP;Cosmópolis;13150001
+SP;Cosmópolis;13150001
+SP;Cosmorama;15530000
+SP;Cotia;6700001
+SP;Cotia;6700001
+SP;Cravinhos;14140000
+SP;Cristais Paulista;14460000
+SP;Cruzália;19860000
+SP;Cruzeiro;12700001
+SP;Cruzeiro;12700001
+SP;Cubatão;11500001
+SP;Cubatão;11500001
+SP;Cunha;12530000
+SP;Descalvado;13690000
+SP;Diadema;9900001
+SP;Diadema;9900001
+SP;Dirce Reis;15715000
+SP;Divinolândia;13780000
+SP;Dobrada;15980000
+SP;Dois Córregos;17300000
+SP;Dolcinópolis;15740000
+SP;Dourado;13590000
+SP;Dracena;17900000
+SP;Duartina;17470000
+SP;Dumont;14120000
+SP;Echaporã;19830000
+SP;Eldorado;11960000
+SP;Elias Fausto;13350000
+SP;Elisiário;15823000
+SP;Embaúba;15425000
+SP;Embu das Artes;6800001
+SP;Embu das Artes;6800001
+SP;Embu-Guaçu;6900000
+SP;Emilianópolis;19350000
+SP;Engenheiro Coelho;13165000
+SP;Espírito Santo do Pinhal;13990000
+SP;Espírito Santo do Turvo;18935001
+SP;Espírito Santo do Turvo;18935001
+SP;Estiva Gerbi;13857000
+SP;Estrela do Norte;19230000
+SP;Estrela D'Oeste;15650000
+SP;Euclides da Cunha Paulista;19275000
+SP;Fartura;18870000
+SP;Fernando Prestes;15940000
+SP;Fernandópolis;15600001
+SP;Fernandópolis;15600001
+SP;Fernão;17455000
+SP;Ferraz de Vasconcelos;8500001
+SP;Ferraz de Vasconcelos;8500001
+SP;Flora Rica;17870000
+SP;Floreal;15320000
+SP;Flórida Paulista;17830000
+SP;Florínea;19870000
+SP;Franca;14400001
+SP;Franca;14400001
+SP;Francisco Morato;7900001
+SP;Francisco Morato;7900001
+SP;Franco da Rocha;7800001
+SP;Franco da Rocha;7800001
+SP;Gabriel Monteiro;16220000
+SP;Gália;17450000
+SP;Garça;17400000
+SP;Gastão Vidigal;15330000
+SP;Gavião Peixoto;14813000
+SP;General Salgado;15300000
+SP;Getulina;16450000
+SP;Glicério;16270000
+SP;Guaiçara;16430000
+SP;Guaimbê;16480000
+SP;Guaíra;14790000
+SP;Guapiaçu;15110000
+SP;Guapiara;18310000
+SP;Guará;14580000
+SP;Guaraçaí;16980000
+SP;Guaraci;15420000
+SP;Guarani D'Oeste;15680000
+SP;Guarantã;16570000
+SP;Guararapes;16700000
+SP;Guararema;8900000
+SP;Guaratinguetá;12500001
+SP;Guaratinguetá;12500001
+SP;Guareí;18250000
+SP;Guariba;14840000
+SP;Guarujá;11400001
+SP;Guarujá;11400001
+SP;Guarulhos;7000001
+SP;Guarulhos;7000001
+SP;Guatapará;14115000
+SP;Guzolândia;15355000
+SP;Herculândia;17650000
+SP;Holambra;13825000
+SP;Hortolândia;13183001
+SP;Hortolândia;13183001
+SP;Iacanga;17180000
+SP;Iacri;17680000
+SP;Iaras;18775000
+SP;Ibaté;14815000
+SP;Ibirá;15860000
+SP;Ibirarema;19940000
+SP;Ibitinga;14940001
+SP;Ibitinga;14940001
+SP;Ibiúna;18150000
+SP;Icém;15460000
+SP;Iepê;19640000
+SP;Igaraçu do Tietê;17350000
+SP;Igarapava;14540000
+SP;Igaratá;12350000
+SP;Iguape;11920000
+SP;Ilha Comprida;11925000
+SP;Ilha Solteira;15385000
+SP;Ilhabela;11630000
+SP;Indaiatuba;13330001
+SP;Indaiatuba;13330001
+SP;Indiana;19560000
+SP;Indiaporã;15690000
+SP;Inúbia Paulista;17760000
+SP;Ipaussu;18950000
+SP;Iperó;18560000
+SP;Ipeúna;13537000
+SP;Ipiguá;15108000
+SP;Iporanga;18330000
+SP;Ipuã;14610000
+SP;Iracemápolis;13495000
+SP;Irapuã;14990000
+SP;Irapuru;17880000
+SP;Itaberá;18440000
+SP;Itaí;18730000
+SP;Itajobi;15840000
+SP;Itaju;17260000
+SP;Itanhaém;11740000
+SP;Itaóca;18360000
+SP;Itapecerica da Serra;6850001
+SP;Itapecerica da Serra;6850001
+SP;Itapetininga;18200001
+SP;Itapetininga;18200001
+SP;Itapeva;18400001
+SP;Itapeva;18400001
+SP;Itapevi;6650001
+SP;Itapevi;6650001
+SP;Itapira;13970001
+SP;Itapira;13970001
+SP;Itapirapuã Paulista;18385000
+SP;Itápolis;14900000
+SP;Itaporanga;18480000
+SP;Itapuí;17230000
+SP;Itapura;15390000
+SP;Itaquaquecetuba;8570001
+SP;Itaquaquecetuba;8570001
+SP;Itararé;18460000
+SP;Itariri;11760000
+SP;Itatiba;13250001
+SP;Itatiba;13250001
+SP;Itatinga;18690000
+SP;Itirapina;13530000
+SP;Itirapuã;14420000
+SP;Itobi;13715000
+SP;Itu;13300001
+SP;Itu;13300001
+SP;Itupeva;13295000
+SP;Ituverava;14500000
+SP;Jaborandi;14775000
+SP;Jaboticabal;14870001
+SP;Jaboticabal;14870001
+SP;Jacareí;12300001
+SP;Jacareí;12300001
+SP;Jaci;15155000
+SP;Jacupiranga;11940000
+SP;Jaguariúna;13910001
+SP;Jaguariúna;13910001
+SP;Jales;15700001
+SP;Jales;15700001
+SP;Jambeiro;12270000
+SP;Jandira;6600001
+SP;Jandira;6600001
+SP;Jardinópolis;14680000
+SP;Jarinu;13240000
+SP;Jaú;17200001
+SP;Jaú;17200001
+SP;Jeriquara;14450000
+SP;Joanópolis;12980000
+SP;João Ramalho;19680000
+SP;José Bonifácio;15200000
+SP;Júlio Mesquita;17550000
+SP;Jumirim;18535000
+SP;Jundiaí;13200001
+SP;Jundiaí;13200001
+SP;Junqueirópolis;17890000
+SP;Juquiá;11800000
+SP;Juquitiba;6950000
+SP;Lagoinha;12130000
+SP;Laranjal Paulista;18500000
+SP;Lavínia;16850000
+SP;Lavrinhas;12760000
+SP;Leme;13610001
+SP;Leme;13610001
+SP;Lençóis Paulista;18680001
+SP;Lençóis Paulista;18680001
+SP;Limeira;13480001
+SP;Limeira;13480001
+SP;Lindóia;13950000
+SP;Lins;16400001
+SP;Lins;16400001
+SP;Lorena;12600001
+SP;Lorena;12600001
+SP;Lourdes;15285000
+SP;Louveira;13290000
+SP;Lucélia;17780000
+SP;Lucianópolis;17475000
+SP;Luís Antônio;14210000
+SP;Luiziânia;16340000
+SP;Lupércio;17420000
+SP;Lutécia;19750000
+SP;Macatuba;17290000
+SP;Macaubal;15270000
+SP;Macedônia;15620000
+SP;Mágda;15310000
+SP;Mairinque;18120000
+SP;Mairiporã;7600000
+SP;Manduri;18780000
+SP;Marabá Paulista;19430000
+SP;Maracaí;19840000
+SP;Marapoama;15845000
+SP;Mariápolis;17810000
+SP;Marília;17500001
+SP;Marília;17500001
+SP;Marinópolis;15730000
+SP;Martinópolis;19500000
+SP;Matão;15990001
+SP;Matão;15990001
+SP;Mauá;9300001
+SP;Mauá;9300001
+SP;Mendonça;15220000
+SP;Meridiano;15625000
+SP;Mesópolis;15748000
+SP;Miguelópolis;14530000
+SP;Mineiros do Tietê;17320000
+SP;Mira Estrela;15580000
+SP;Miracatu;11850000
+SP;Mirandópolis;16800000
+SP;Mirante do Paranapanema;19260000
+SP;Mirassol;15130001
+SP;Mirassol;15130001
+SP;Mirassolândia;15145000
+SP;Mococa;13730001
+SP;Mococa;13730001
+SP;Mogi das Cruzes;8700001
+SP;Mogi das Cruzes;8700001
+SP;Mogi Guaçu;13840001
+SP;Mogi Guaçu;13840001
+SP;Mogi Mirim;13800001
+SP;Mogi Mirim;13800001
+SP;Mombuca;13375000
+SP;Monções;15275000
+SP;Mongaguá;11730000
+SP;Monte Alegre do Sul;13820000
+SP;Monte Alto;15910000
+SP;Monte Aprazível;15150000
+SP;Monte Azul Paulista;14730000
+SP;Monte Castelo;17960000
+SP;Monte Mor;13190000
+SP;Monteiro Lobato;12250000
+SP;Morro Agudo;14640000
+SP;Morungaba;13260000
+SP;Motuca;14835000
+SP;Murutinga do Sul;16950000
+SP;Nantes;19645000
+SP;Narandiba;19220000
+SP;Natividade da Serra;12180000
+SP;Nazaré Paulista;12960000
+SP;Neves Paulista;15120000
+SP;Nhandeara;15190000
+SP;Nipoã;15240000
+SP;Nova Aliança;15210000
+SP;Nova Campina;18435000
+SP;Nova Canaã Paulista;15773000
+SP;Nova Castilho;15313000
+SP;Nova Europa;14920000
+SP;Nova Granada;15440000
+SP;Nova Guataporanga;17950000
+SP;Nova Independência;16940000
+SP;Nova Luzitânia;15340000
+SP;Nova Odessa;13380001
+SP;Nova Odessa;13380001
+SP;Novais;15885000
+SP;Novo Horizonte;14960000
+SP;Nuporanga;14670000
+SP;Ocauçu;17540000
+SP;Óleo;18790000
+SP;Olímpia;15400000
+SP;Onda Verde;15450000
+SP;Oriente;17570000
+SP;Orindiúva;15480000
+SP;Orlândia;14620000
+SP;Osasco;6000001
+SP;Osasco;6000001
+SP;Oscar Bressane;19770000
+SP;Osvaldo Cruz;17700000
+SP;Ourinhos;19900001
+SP;Ourinhos;19900001
+SP;Ouro Verde;17920000
+SP;Ouroeste;15685000
+SP;Pacaembu;17860000
+SP;Palestina;15470000
+SP;Palmares Paulista;15828000
+SP;Palmeira D'Oeste;15720000
+SP;Palmital;19970000
+SP;Panorama;17980000
+SP;Paraguaçu Paulista;19700000
+SP;Paraibuna;12260000
+SP;Paraíso;15825000
+SP;Paranapanema;18720000
+SP;Paranapuã;15745000
+SP;Parapuã;17730000
+SP;Pardinho;18640000
+SP;Pariquera-Açu;11930000
+SP;Parisi;15525000
+SP;Patrocínio Paulista;14415000
+SP;Paulicéia;17990000
+SP;Paulínia;13140001
+SP;Paulínia;13140001
+SP;Paulistânia;17150001
+SP;Paulistânia;17150001
+SP;Paulo de Faria;15490000
+SP;Pederneiras;17280000
+SP;Pedra Bela;12990000
+SP;Pedranópolis;15630000
+SP;Pedregulho;14470000
+SP;Pedreira;13920000
+SP;Pedrinhas Paulista;19865000
+SP;Pedro de Toledo;11790000
+SP;Penápolis;16300001
+SP;Penápolis;16300001
+SP;Pereira Barreto;15370000
+SP;Pereiras;18580000
+SP;Peruíbe;11750000
+SP;Piacatu;16230000
+SP;Piedade;18170000
+SP;Pilar do Sul;18185000
+SP;Pindamonhangaba;12400001
+SP;Pindamonhangaba;12400001
+SP;Pindorama;15830000
+SP;Pinhalzinho;12995000
+SP;Piquerobi;19410000
+SP;Piquete;12620000
+SP;Piracaia;12970000
+SP;Piracicaba;13400001
+SP;Piracicaba;13400001
+SP;Piraju;18800000
+SP;Pirajuí;16600000
+SP;Pirangi;15820000
+SP;Pirapora do Bom Jesus;6550000
+SP;Pirapozinho;19200000
+SP;Pirassununga;13630001
+SP;Pirassununga;13630001
+SP;Piratininga;17490001
+SP;Piratininga;17490001
+SP;Pitangueiras;14750000
+SP;Planalto;15260000
+SP;Platina;19990000
+SP;Poá;8550001
+SP;Poá;8550001
+SP;Poloni;15160000
+SP;Pompéia;17580000
+SP;Pongaí;16660000
+SP;Pontal;14180000
+SP;Pontalinda;15718000
+SP;Pontes Gestal;15560000
+SP;Populina;15670000
+SP;Porangaba;18260000
+SP;Porto Feliz;18540000
+SP;Porto Ferreira;13660001
+SP;Porto Ferreira;13660001
+SP;Potim;12525000
+SP;Potirendaba;15105000
+SP;Pracinha;17790000
+SP;Pradópolis;14850000
+SP;Praia Grande;11700001
+SP;Praia Grande;11700001
+SP;Pratânia;18660000
+SP;Presidente Alves;16670000
+SP;Presidente Bernardes;19300000
+SP;Presidente Epitácio;19470000
+SP;Presidente Prudente;19000001
+SP;Presidente Prudente;19000001
+SP;Presidente Venceslau;19400000
+SP;Promissão;16370000
+SP;Quadra;18255000
+SP;Quatá;19780000
+SP;Queiroz;17590000
+SP;Queluz;12800000
+SP;Quintana;17670000
+SP;Rafard;13370000
+SP;Rancharia;19600000
+SP;Redenção da Serra;12170000
+SP;Regente Feijó;19570000
+SP;Reginópolis;17190000
+SP;Registro;11900000
+SP;Restinga;14430000
+SP;Ribeira;18380000
+SP;Ribeirão Bonito;13580000
+SP;Ribeirão Branco;18430000
+SP;Ribeirão Corrente;14445000
+SP;Ribeirão do Sul;19930000
+SP;Ribeirão dos Índios;19380000
+SP;Ribeirão Grande;18315000
+SP;Ribeirão Pires;9400001
+SP;Ribeirão Pires;9400001
+SP;Ribeirão Preto;14000001
+SP;Ribeirão Preto;14000001
+SP;Rifaina;14490000
+SP;Rincão;14830000
+SP;Rinópolis;17740000
+SP;Rio Claro;13500001
+SP;Rio Claro;13500001
+SP;Rio das Pedras;13390000
+SP;Rio Grande da Serra;9450000
+SP;Riolândia;15495000
+SP;Riversul;18470000
+SP;Rosana;19273000
+SP;Roseira;12580000
+SP;Rubiácea;16750000
+SP;Rubinéia;15790000
+SP;Sabino;16440000
+SP;Sagres;17710000
+SP;Sales;14980000
+SP;Sales Oliveira;14660000
+SP;Salesópolis;8970000
+SP;Salmourão;17720000
+SP;Saltinho;13440000
+SP;Salto;13320001
+SP;Salto;13320001
+SP;Salto de Pirapora;18160000
+SP;Salto Grande;19920001
+SP;Salto Grande;19920001
+SP;Sandovalina;19250000
+SP;Santa Adélia;15950000
+SP;Santa Albertina;15750000
+SP;Santa Bárbara D'Oeste;13450001
+SP;Santa Bárbara D'Oeste;13450001
+SP;Santa Branca;12380000
+SP;Santa Clara D'Oeste;15785000
+SP;Santa Cruz da Conceição;13625000
+SP;Santa Cruz da Esperança;14250000
+SP;Santa Cruz das Palmeiras;13650000
+SP;Santa Cruz do Rio Pardo;18900000
+SP;Santa Ernestina;15970000
+SP;Santa Fé do Sul;15775000
+SP;Santa Gertrudes;13510000
+SP;Santa Isabel;7500000
+SP;Santa Lúcia;14825000
+SP;Santa Maria da Serra;17370000
+SP;Santa Mercedes;17940000
+SP;Santa Rita do Passa Quatro;13670000
+SP;Santa Rita D'Oeste;15780000
+SP;Santa Rosa de Viterbo;14270000
+SP;Santa Salete;15768000
+SP;Santana da Ponte Pensa;15765000
+SP;Santana de Parnaíba;6500001
+SP;Santana de Parnaíba;6500001
+SP;Santo Anastácio;19360000
+SP;Santo André;9000001
+SP;Santo André;9000001
+SP;Santo Antônio da Alegria;14390000
+SP;Santo Antônio de Posse;13830001
+SP;Santo Antônio de Posse;13830001
+SP;Santo Antônio do Aracanguá;16130000
+SP;Santo Antônio do Jardim;13995000
+SP;Santo Antônio do Pinhal;12450000
+SP;Santo Expedito;19190000
+SP;Santópolis do Aguapeí;16240000
+SP;Santos;11000001
+SP;Santos;11000001
+SP;São Bento do Sapucaí;12490000
+SP;São Bernardo do Campo;9600001
+SP;São Bernardo do Campo;9600001
+SP;São Caetano do Sul;9500001
+SP;São Caetano do Sul;9500001
+SP;São Carlos;13560001
+SP;São Carlos;13560001
+SP;São Francisco;15710000
+SP;São João da Boa Vista;13870001
+SP;São João da Boa Vista;13870001
+SP;São João das Duas Pontes;15640000
+SP;São João de Iracema;15315000
+SP;São João do Pau d'Alho;17970000
+SP;São Joaquim da Barra;14600000
+SP;São José da Bela Vista;14440000
+SP;São José do Barreiro;12830000
+SP;São José do Rio Pardo;13720000
+SP;São José do Rio Preto;15000001
+SP;São José do Rio Preto;15000001
+SP;São José dos Campos;12200001
+SP;São José dos Campos;12200001
+SP;São Lourenço da Serra;6890000
+SP;São Luiz do Paraitinga;12140000
+SP;São Manuel;18650000
+SP;São Miguel Arcanjo;18230000
+SP;São Paulo;1000001
+SP;São Paulo;8000000
+SP;São Paulo;1000001
+SP;São Paulo;8000000
+SP;São Pedro;13520000
+SP;São Pedro do Turvo;18940001
+SP;São Pedro do Turvo;18940001
+SP;São Roque;18130001
+SP;São Roque;18130001
+SP;São Sebastião;11600001
+SP;São Sebastião;11600001
+SP;São Sebastião da Grama;13790000
+SP;São Simão;14200000
+SP;São Vicente;11300001
+SP;São Vicente;11300001
+SP;Sarapuí;18225000
+SP;Sarutaiá;18840000
+SP;Sebastianópolis do Sul;15180000
+SP;Serra Azul;14230000
+SP;Serra Negra;13930000
+SP;Serrana;14150000
+SP;Sertãozinho;14160001
+SP;Sertãozinho;14160001
+SP;Sete Barras;11910000
+SP;Severínia;14735000
+SP;Silveiras;12690000
+SP;Socorro;13960000
+SP;Sorocaba;18000001
+SP;Sorocaba;18000001
+SP;Sud Mennucci;15360000
+SP;Sumaré;13170001
+SP;Sumaré;13170001
+SP;Suzanápolis;15380000
+SP;Suzano;8600001
+SP;Suzano;8600001
+SP;Tabapuã;15880000
+SP;Tabatinga;14910000
+SP;Taboão da Serra;6750001
+SP;Taboão da Serra;6750001
+SP;Taciba;19590000
+SP;Taguaí;18890000
+SP;Taiaçu;14725000
+SP;Taiúva;14720000
+SP;Tambaú;13710000
+SP;Tanabi;15170000
+SP;Tapiraí;18180000
+SP;Tapiratiba;13760000
+SP;Taquaral;14765000
+SP;Taquaritinga;15900000
+SP;Taquarituba;18740000
+SP;Taquarivaí;18425000
+SP;Tarabai;19210000
+SP;Tarumã;19820000
+SP;Tatuí;18270001
+SP;Tatuí;18270001
+SP;Taubaté;12000001
+SP;Taubaté;12000001
+SP;Tejupá;18830000
+SP;Teodoro Sampaio;19280000
+SP;Terra Roxa;14745000
+SP;Tietê;18530000
+SP;Timburi;18860000
+SP;Torre de Pedra;18265000
+SP;Torrinha;17360000
+SP;Trabiju;14935000
+SP;Tremembé;12120000
+SP;Três Fronteiras;15770000
+SP;Tuiuti;12930000
+SP;Tupã;17600001
+SP;Tupã;17600001
+SP;Tupi Paulista;17930000
+SP;Turiúba;15280000
+SP;Turmalina;15755000
+SP;Ubarana;15225000
+SP;Ubatuba;11680000
+SP;Ubirajara;17440000
+SP;Uchoa;15890000
+SP;União Paulista;15250000
+SP;Urânia;15760000
+SP;Uru;16650000
+SP;Urupês;15850000
+SP;Valentim Gentil;15520000
+SP;Valinhos;13270001
+SP;Valinhos;13270001
+SP;Valparaíso;16880000
+SP;Vargem;12935000
+SP;Vargem Grande do Sul;13880000
+SP;Vargem Grande Paulista;6730000
+SP;Várzea Paulista;13220001
+SP;Várzea Paulista;13220001
+SP;Vera Cruz;17560000
+SP;Vinhedo;13280001
+SP;Vinhedo;13280001
+SP;Viradouro;14740000
+SP;Vista Alegre do Alto;15920000
+SP;Vitória Brasil;15713000
+SP;Votorantim;18110001
+SP;Votorantim;18110001
+SP;Votuporanga;15500001
+SP;Votuporanga;15500001
+SP;Zacarias;15265000
+TO;Abreulândia;77693000
+TO;Aguiarnópolis;77908000
+TO;Aliança do Tocantins;77455000
+TO;Almas;77310000
+TO;Alvorada;77480000
+TO;Ananás;77890000
+TO;Angico;77905000
+TO;Aparecida do Rio Negro;77620000
+TO;Aragominas;77845000
+TO;Araguacema;77690000
+TO;Araguaçu;77475000
+TO;Araguaína;77800001
+TO;Araguaína;77800001
+TO;Araguanã;77855000
+TO;Araguatins;77950000
+TO;Arapoema;77780000
+TO;Arraias;77330000
+TO;Augustinópolis;77960000
+TO;Aurora do Tocantins;77325000
+TO;Axixá do Tocantins;77930000
+TO;Babaçulândia;77870000
+TO;Bandeirantes do Tocantins;77783000
+TO;Barra do Ouro;77765000
+TO;Barrolândia;77665000
+TO;Bernardo Sayão;77755000
+TO;Bom Jesus do Tocantins;77714000
+TO;Brasilândia do Tocantins;77735000
+TO;Brejinho de Nazaré;77560000
+TO;Buriti do Tocantins;77995000
+TO;Cachoeirinha;77915000
+TO;Campos Lindos;77777000
+TO;Cariri do Tocantins;77453000
+TO;Carmolândia;77840000
+TO;Carrasco Bonito;77985000
+TO;Caseara;77680000
+TO;Centenário;77723000
+TO;Chapada da Natividade;77378000
+TO;Chapada de Areia;77575000
+TO;Colinas do Tocantins;77760000
+TO;Colméia;77725000
+TO;Combinado;77350000
+TO;Conceição do Tocantins;77305000
+TO;Couto de Magalhães;77750000
+TO;Cristalândia;77490000
+TO;Crixás do Tocantins;77463000
+TO;Darcinópolis;77910000
+TO;Dianópolis;77300000
+TO;Divinópolis do Tocantins;77670000
+TO;Dois Irmãos do Tocantins;77685000
+TO;Duerê;77485000
+TO;Esperantina;77993000
+TO;Fátima;77555000
+TO;Figueirópolis;77465000
+TO;Filadélfia;77795000
+TO;Formoso do Araguaia;77470000
+TO;Fortaleza do Tabocão;77708000
+TO;Goianorte;77695000
+TO;Goiatins;77770000
+TO;Guaraí;77700000
+TO;Gurupi;77400001
+TO;Gurupi;77400001
+TO;Ipueiras;77553000
+TO;Itacajá;77720000
+TO;Itaguatins;77920000
+TO;Itapiratins;77718000
+TO;Itaporã do Tocantins;77740000
+TO;Jaú do Tocantins;77450000
+TO;Juarina;77753000
+TO;Lagoa da Confusão;77493000
+TO;Lagoa do Tocantins;77613000
+TO;Lajeado;77645000
+TO;Lavandeira;77328000
+TO;Lizarda;77630000
+TO;Luzinópolis;77903000
+TO;Marianópolis do Tocantins;77675000
+TO;Mateiros;77593000
+TO;Maurilândia do Tocantins;77918000
+TO;Miracema do Tocantins;77650000
+TO;Miranorte;77660000
+TO;Monte do Carmo;77585000
+TO;Monte Santo do Tocantins;77673000
+TO;Muricilândia;77850000
+TO;Natividade;77370000
+TO;Nazaré;77895000
+TO;Nova Olinda;77790000
+TO;Nova Rosalândia;77495000
+TO;Novo Acordo;77610000
+TO;Novo Alegre;77353000
+TO;Novo Jardim;77318000
+TO;Oliveira de Fátima;77558000
+TO;Palmas;77000001
+TO;Palmas;77000001
+TO;Palmeirante;77798000
+TO;Palmeiras do Tocantins;77913000
+TO;Palmeirópolis;77365000
+TO;Paraíso do Tocantins;77600000
+TO;Paranã;77360000
+TO;Pau D'Arco;77785000
+TO;Pedro Afonso;77710000
+TO;Peixe;77460000
+TO;Pequizeiro;77730000
+TO;Pindorama do Tocantins;77380000
+TO;Piraquê;77888000
+TO;Pium;77570000
+TO;Ponte Alta do Bom Jesus;77315000
+TO;Ponte Alta do Tocantins;77590000
+TO;Porto Alegre do Tocantins;77395000
+TO;Porto Nacional;77500000
+TO;Praia Norte;77970000
+TO;Presidente Kennedy;77745000
+TO;Pugmil;77603000
+TO;Recursolândia;77733000
+TO;Riachinho;77893000
+TO;Rio da Conceição;77303000
+TO;Rio dos Bois;77655000
+TO;Rio Sono;77635000
+TO;Sampaio;77980000
+TO;Sandolândia;77478000
+TO;Santa Fé do Araguaia;77848000
+TO;Santa Maria do Tocantins;77716000
+TO;Santa Rita do Tocantins;77565000
+TO;Santa Rosa do Tocantins;77375000
+TO;Santa Tereza do Tocantins;77615000
+TO;Santa Terezinha do Tocantins;77885000
+TO;São Bento do Tocantins;77958000
+TO;São Félix do Tocantins;77605000
+TO;São Miguel do Tocantins;77925000
+TO;São Salvador do Tocantins;77368000
+TO;São Sebastião do Tocantins;77990000
+TO;São Valério da Natividade;77390000
+TO;Silvanópolis;77580000
+TO;Sítio Novo do Tocantins;77940000
+TO;Sucupira;77458000
+TO;Taguatinga;77320000
+TO;Taipas do Tocantins;77308000
+TO;Talismã;77483000
+TO;Tocantínia;77640000
+TO;Tocantinópolis;77900000
+TO;Tupirama;77704000
+TO;Tupiratins;77743000
+TO;Wanderlândia;77860000
+TO;Xambioá;77880000
