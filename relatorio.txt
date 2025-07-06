@@ -1,0 +1,424 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 50.00      0.02     0.02  1036824     0.00     0.00  hashf
+ 25.00      0.03     0.01   518412     0.00     0.00  hash2
+ 25.00      0.04     0.01   518412     0.00     0.00  posicao
+  0.00      0.04     0.00   518412     0.00     0.00  hash1
+  0.00      0.04     0.00   352010     0.00     0.00  get_key
+  0.00      0.04     0.00    66039     0.00     0.00  hash_busca
+  0.00      0.04     0.00    50485     0.00     0.00  hash_insere
+  0.00      0.04     0.00    36090     0.00     0.00  aloca_reg
+  0.00      0.04     0.00        6     0.00     0.00  hash_nvtam
+  0.00      0.04     0.00        5     0.00     0.00  hash_apaga
+  0.00      0.04     0.00        5     0.00     0.00  hash_constroi
+  0.00      0.04     0.00        4     0.00     0.00  tempo
+  0.00      0.04     0.00        3     0.00     2.23  carregando_ceps
+  0.00      0.04     0.00        1     0.00     0.00  apaga
+  0.00      0.04     0.00        1     0.00     0.21  busca10_0
+  0.00      0.04     0.00        1     0.00     0.21  busca10_1
+  0.00      0.04     0.00        1     0.00     0.42  busca20_0
+  0.00      0.04     0.00        1     0.00     0.42  busca20_1
+  0.00      0.04     0.00        1     0.00     0.64  busca30_0
+  0.00      0.04     0.00        1     0.00     0.64  busca30_1
+  0.00      0.04     0.00        1     0.00     0.85  busca40_0
+  0.00      0.04     0.00        1     0.00     0.85  busca40_1
+  0.00      0.04     0.00        1     0.00     1.06  busca50_0
+  0.00      0.04     0.00        1     0.00     1.06  busca50_1
+  0.00      0.04     0.00        1     0.00     1.27  busca60_0
+  0.00      0.04     0.00        1     0.00     1.27  busca60_1
+  0.00      0.04     0.00        1     0.00     1.48  busca70_0
+  0.00      0.04     0.00        1     0.00     1.48  busca70_1
+  0.00      0.04     0.00        1     0.00     1.70  busca80_0
+  0.00      0.04     0.00        1     0.00     1.70  busca80_1
+  0.00      0.04     0.00        1     0.00     1.91  busca90_0
+  0.00      0.04     0.00        1     0.00     1.91  busca90_1
+  0.00      0.04     0.00        1     0.00     2.10  busca99_0
+  0.00      0.04     0.00        1     0.00     2.10  busca99_1
+  0.00      0.04     0.00        1     0.00     4.46  insercao
+  0.00      0.04     0.00        1     0.00     2.23  insere1000
+  0.00      0.04     0.00        1     0.00     2.23  insere6100
+  0.00      0.04     0.00        1     0.00     6.69  ocupacao
+  0.00      0.04     0.00        1     0.00    23.26  testes
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+Copyright (C) 2012-2024 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 4 byte(s) for 25.00% of 0.04 seconds
+
+index % time    self  children    called     name
+                0.00    0.01  216887/518412      hash_insere <cycle 1> [8]
+                0.01    0.02  301525/518412      hash_busca [3]
+[1]    100.0    0.01    0.03  518412         posicao [1]
+                0.01    0.01  518412/518412      hash2 [6]
+                0.00    0.01  518412/518412      hash1 [9]
+-----------------------------------------------
+                                                 <spontaneous>
+[2]    100.0    0.00    0.04                 main [2]
+                0.00    0.02       1/1           testes [4]
+                0.00    0.01       1/1           ocupacao [11]
+                0.00    0.00       1/1           insercao [12]
+                0.00    0.00    6015/30075       hash_insere <cycle 1> [8]
+                0.00    0.00       1/3           carregando_ceps [10]
+                0.00    0.00       1/66039       hash_busca [3]
+                0.00    0.00    6015/36090       aloca_reg [36]
+                0.00    0.00       1/5           hash_constroi [39]
+                0.00    0.00       1/5           hash_apaga [38]
+                0.00    0.00       1/1           apaga [41]
+-----------------------------------------------
+                0.00    0.00       1/66039       main [2]
+                0.00    0.00     601/66039       busca10_0 [33]
+                0.00    0.00     601/66039       busca10_1 [34]
+                0.00    0.00    1203/66039       busca20_0 [31]
+                0.00    0.00    1203/66039       busca20_1 [32]
+                0.00    0.00    1804/66039       busca30_0 [29]
+                0.00    0.00    1804/66039       busca30_1 [30]
+                0.00    0.00    2406/66039       busca40_0 [27]
+                0.00    0.00    2406/66039       busca40_1 [28]
+                0.00    0.00    3007/66039       busca50_0 [25]
+                0.00    0.00    3007/66039       busca50_1 [26]
+                0.00    0.00    3609/66039       busca60_0 [23]
+                0.00    0.00    3609/66039       busca60_1 [24]
+                0.00    0.00    4210/66039       busca70_0 [21]
+                0.00    0.00    4210/66039       busca70_1 [22]
+                0.00    0.00    4812/66039       busca80_0 [19]
+                0.00    0.00    4812/66039       busca80_1 [20]
+                0.00    0.00    5413/66039       busca90_0 [17]
+                0.00    0.00    5413/66039       busca90_1 [18]
+                0.00    0.00    5954/66039       busca99_0 [15]
+                0.00    0.00    5954/66039       busca99_1 [16]
+[3]     58.2    0.00    0.02   66039         hash_busca [3]
+                0.01    0.02  301525/518412      posicao [1]
+                0.00    0.00  301525/352010      get_key [35]
+-----------------------------------------------
+                0.00    0.02       1/1           main [2]
+[4]     58.2    0.00    0.02       1         testes [4]
+                0.00    0.00       1/1           busca99_1 [16]
+                0.00    0.00       1/1           busca99_0 [15]
+                0.00    0.00       1/1           busca90_0 [17]
+                0.00    0.00       1/1           busca90_1 [18]
+                0.00    0.00       1/1           busca80_0 [19]
+                0.00    0.00       1/1           busca80_1 [20]
+                0.00    0.00       1/1           busca70_1 [22]
+                0.00    0.00       1/1           busca70_0 [21]
+                0.00    0.00       1/1           busca60_1 [24]
+                0.00    0.00       1/1           busca60_0 [23]
+                0.00    0.00       1/1           busca50_0 [25]
+                0.00    0.00       1/1           busca50_1 [26]
+                0.00    0.00       1/1           busca40_0 [27]
+                0.00    0.00       1/1           busca40_1 [28]
+                0.00    0.00       1/1           busca30_1 [30]
+                0.00    0.00       1/1           busca30_0 [29]
+                0.00    0.00       1/1           busca20_1 [32]
+                0.00    0.00       1/1           busca20_0 [31]
+                0.00    0.00       1/1           busca10_0 [33]
+                0.00    0.00       1/1           busca10_1 [34]
+-----------------------------------------------
+                0.01    0.00  518412/1036824     hash1 [9]
+                0.01    0.00  518412/1036824     hash2 [6]
+[5]     50.0    0.02    0.00 1036824         hashf [5]
+-----------------------------------------------
+                0.01    0.01  518412/518412      posicao [1]
+[6]     50.0    0.01    0.01  518412         hash2 [6]
+                0.01    0.00  518412/1036824     hashf [5]
+-----------------------------------------------
+[7]     41.8    0.00    0.02   30075+20416   <cycle 1 as a whole> [7]
+                0.00    0.02   50485             hash_insere <cycle 1> [8]
+                0.00    0.00       6             hash_nvtam <cycle 1> [37]
+-----------------------------------------------
+                               20410             hash_nvtam <cycle 1> [37]
+                0.00    0.00    6015/30075       main [2]
+                0.00    0.01   12030/30075       carregando_ceps [10]
+                0.00    0.01   12030/30075       ocupacao [11]
+[8]     41.8    0.00    0.02   50485         hash_insere <cycle 1> [8]
+                0.00    0.01  216887/518412      posicao [1]
+                0.00    0.00   50485/352010      get_key [35]
+                                   6             hash_nvtam <cycle 1> [37]
+-----------------------------------------------
+                0.00    0.01  518412/518412      posicao [1]
+[9]     25.0    0.00    0.01  518412         hash1 [9]
+                0.01    0.00  518412/1036824     hashf [5]
+-----------------------------------------------
+                0.00    0.00       1/3           insere1000 [13]
+                0.00    0.00       1/3           insere6100 [14]
+                0.00    0.00       1/3           main [2]
+[10]    16.7    0.00    0.01       3         carregando_ceps [10]
+                0.00    0.01   12030/30075       hash_insere <cycle 1> [8]
+                0.00    0.00   18045/36090       aloca_reg [36]
+-----------------------------------------------
+                0.00    0.01       1/1           main [2]
+[11]    16.7    0.00    0.01       1         ocupacao [11]
+                0.00    0.01   12030/30075       hash_insere <cycle 1> [8]
+                0.00    0.00   12030/36090       aloca_reg [36]
+                0.00    0.00       2/5           hash_constroi [39]
+-----------------------------------------------
+                0.00    0.00       1/1           main [2]
+[12]    11.2    0.00    0.00       1         insercao [12]
+                0.00    0.00       1/1           insere1000 [13]
+                0.00    0.00       1/1           insere6100 [14]
+                0.00    0.00       4/4           tempo [40]
+-----------------------------------------------
+                0.00    0.00       1/1           insercao [12]
+[13]     5.6    0.00    0.00       1         insere1000 [13]
+                0.00    0.00       1/3           carregando_ceps [10]
+                0.00    0.00       1/5           hash_constroi [39]
+                0.00    0.00       1/5           hash_apaga [38]
+-----------------------------------------------
+                0.00    0.00       1/1           insercao [12]
+[14]     5.6    0.00    0.00       1         insere6100 [14]
+                0.00    0.00       1/3           carregando_ceps [10]
+                0.00    0.00       1/5           hash_constroi [39]
+                0.00    0.00       1/5           hash_apaga [38]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[15]     5.2    0.00    0.00       1         busca99_0 [15]
+                0.00    0.00    5954/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[16]     5.2    0.00    0.00       1         busca99_1 [16]
+                0.00    0.00    5954/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[17]     4.8    0.00    0.00       1         busca90_0 [17]
+                0.00    0.00    5413/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[18]     4.8    0.00    0.00       1         busca90_1 [18]
+                0.00    0.00    5413/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[19]     4.2    0.00    0.00       1         busca80_0 [19]
+                0.00    0.00    4812/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[20]     4.2    0.00    0.00       1         busca80_1 [20]
+                0.00    0.00    4812/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[21]     3.7    0.00    0.00       1         busca70_0 [21]
+                0.00    0.00    4210/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[22]     3.7    0.00    0.00       1         busca70_1 [22]
+                0.00    0.00    4210/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[23]     3.2    0.00    0.00       1         busca60_0 [23]
+                0.00    0.00    3609/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[24]     3.2    0.00    0.00       1         busca60_1 [24]
+                0.00    0.00    3609/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[25]     2.6    0.00    0.00       1         busca50_0 [25]
+                0.00    0.00    3007/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[26]     2.6    0.00    0.00       1         busca50_1 [26]
+                0.00    0.00    3007/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[27]     2.1    0.00    0.00       1         busca40_0 [27]
+                0.00    0.00    2406/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[28]     2.1    0.00    0.00       1         busca40_1 [28]
+                0.00    0.00    2406/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[29]     1.6    0.00    0.00       1         busca30_0 [29]
+                0.00    0.00    1804/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[30]     1.6    0.00    0.00       1         busca30_1 [30]
+                0.00    0.00    1804/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[31]     1.1    0.00    0.00       1         busca20_0 [31]
+                0.00    0.00    1203/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[32]     1.1    0.00    0.00       1         busca20_1 [32]
+                0.00    0.00    1203/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[33]     0.5    0.00    0.00       1         busca10_0 [33]
+                0.00    0.00     601/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00       1/1           testes [4]
+[34]     0.5    0.00    0.00       1         busca10_1 [34]
+                0.00    0.00     601/66039       hash_busca [3]
+-----------------------------------------------
+                0.00    0.00   50485/352010      hash_insere <cycle 1> [8]
+                0.00    0.00  301525/352010      hash_busca [3]
+[35]     0.0    0.00    0.00  352010         get_key [35]
+-----------------------------------------------
+                0.00    0.00    6015/36090       main [2]
+                0.00    0.00   12030/36090       ocupacao [11]
+                0.00    0.00   18045/36090       carregando_ceps [10]
+[36]     0.0    0.00    0.00   36090         aloca_reg [36]
+-----------------------------------------------
+                                   6             hash_insere <cycle 1> [8]
+[37]     0.0    0.00    0.00       6         hash_nvtam <cycle 1> [37]
+                               20410             hash_insere <cycle 1> [8]
+-----------------------------------------------
+                0.00    0.00       1/5           insere1000 [13]
+                0.00    0.00       1/5           insere6100 [14]
+                0.00    0.00       1/5           main [2]
+                0.00    0.00       2/5           apaga [41]
+[38]     0.0    0.00    0.00       5         hash_apaga [38]
+-----------------------------------------------
+                0.00    0.00       1/5           insere1000 [13]
+                0.00    0.00       1/5           insere6100 [14]
+                0.00    0.00       1/5           main [2]
+                0.00    0.00       2/5           ocupacao [11]
+[39]     0.0    0.00    0.00       5         hash_constroi [39]
+-----------------------------------------------
+                0.00    0.00       4/4           insercao [12]
+[40]     0.0    0.00    0.00       4         tempo [40]
+-----------------------------------------------
+                0.00    0.00       1/1           main [2]
+[41]     0.0    0.00    0.00       1         apaga [41]
+                0.00    0.00       2/5           hash_apaga [38]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+Copyright (C) 2012-2024 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+Index by function name
+
+  [36] aloca_reg              [21] busca70_0              [39] hash_constroi
+  [41] apaga                  [22] busca70_1               [8] hash_insere
+  [33] busca10_0              [19] busca80_0              [37] hash_nvtam
+  [34] busca10_1              [20] busca80_1               [5] hashf
+  [31] busca20_0              [17] busca90_0              [12] insercao
+  [32] busca20_1              [18] busca90_1              [13] insere1000
+  [29] busca30_0              [15] busca99_0              [14] insere6100
+  [30] busca30_1              [16] busca99_1              [11] ocupacao
+  [27] busca40_0              [10] carregando_ceps         [1] posicao
+  [28] busca40_1              [35] get_key                [40] tempo
+  [25] busca50_0               [9] hash1                   [4] testes
+  [26] busca50_1               [6] hash2                   [7] <cycle 1>
+  [23] busca60_0              [38] hash_apaga
+  [24] busca60_1               [3] hash_busca
