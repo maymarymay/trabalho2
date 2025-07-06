@@ -302,61 +302,61 @@ void busca99_0() {
 
 void busca10_1() {
     for (int i = 0; i < num / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca20_1() {
     for (int i = 0; i < num / 5; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca30_1() {
     for (int i = 0; i < (num * 3) / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca40_1() {
     for (int i = 0; i < (num * 4) / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca50_1() {
     for (int i = 0; i < num / 2; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca60_1() {
     for (int i = 0; i < (num * 6) / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca70_1() {
     for (int i = 0; i < (num * 7) / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca80_1() {
     for (int i = 0; i < (num * 8) / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca90_1() {
     for (int i = 0; i < (num * 9) / 10; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
 void busca99_1() {
     for (int i = 0; i < (num * 99) / 100; i++) {
-        hash_busca(&hash_simples, dados[i]->chave);
+        hash_busca(&hash_duplo, dados[i]->chave);
     }
 }
 
